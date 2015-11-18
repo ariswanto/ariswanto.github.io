@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="id-ID">
+
+<!-- Mirrored from localhost/ariswant/ by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 16 Nov 2015 01:46:17 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<title>Ihsan Ariswanto</title>
+	<link rel="profile" href="11.html" />
+	<link rel="pingback" href="images/xmlrpc.php" />
+	<!--[if lt IE 9]>
+	<script src="http://localhost/ariswant/wp-content/themes/independent-publisher/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Ihsan Ariswanto &raquo; Feed" href="index-2.html" />
+<link rel="alternate" type="application/rss+xml" title="Ihsan Ariswanto &raquo; Umpan Komentar" href="index-3.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/localhost\/ariswant\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='images/genericons128b.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='independent-publisher-style-css'  href='images/style5b31.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='images/jqueryc1d8.js?ver=1.11.3'></script>
+<script type='text/javascript' src='images/jquery-migrate.min1576.js?ver=1.2.1'></script>
+<script type='text/javascript' src='images/enhanced-comment-form5152.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="images/xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="images/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+
+
+		<!--WordPress Theme Customizer CSS-->
+		<style type="text/css">
+
+			/* Background Color */
+
+			
+			/* Comment Form Background Color */
+
+			
+			/* Text Color */
+
+															
+			/* Link Color */
+
+			a, a:visited, a:hover, a:focus, a:active { color:#003e6b; }
+			.enhanced-excerpts .enhanced-excerpt-read-more a, .enhanced-excerpts .enhanced-excerpt-read-more a:hover { color:#003e6b; }
+			.post-excerpts .sticky.format-standard .entry-content a, .post-excerpts .sticky.format-standard .entry-content a:focus, .post-excerpts .sticky.format-standard .entry-content a:hover, .post-excerpts .sticky.format-standard .entry-content a:active, .post-excerpts .sticky.format-standard .entry-content a:visited { color:#003e6b; }
+			.post-excerpts .format-standard.show-full-content-first-post .entry-content a { color:#003e6b; }
+			.post-excerpts .format-standard .entry-content a.moretag { color:#003e6b; }
+			.post-excerpts .format-standard .entry-content a.more-link { color:#003e6b; }
+			.read-more a, .read-more a:hover { color:#003e6b; }
+			.entry-title a:hover { color:#003e6b; }
+			.entry-meta a:hover { color:#003e6b; }
+			.site-footer a:hover { color:#003e6b; }
+			blockquote { border-color:#003e6b; }
+			#infinite-footer .blog-credits a, #infinite-footer .blog-credits a:hover { color:#003e6b; }
+			#nprogress .bar { background:#003e6b; }
+			#nprogress .spinner-icon { border-top-color:#003e6b; }
+			#nprogress .spinner-icon { border-left-color:#003e6b; }
+			#nprogress .peg { box-shadow:0 0 10px #003e6b, 0 0 5px #003e6b; }
+
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background:#003e6b; /* Old browsers */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -moz-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* FF3.6+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #003e6b), color-stop(100%, #003e6b)); /* Chrome,Safari4+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -webkit-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* Chrome10+,Safari5.1+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -o-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* Opera 11.10+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -ms-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* IE10+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: linear-gradient(top, #003e6b 60%, #003e6b 100%); /* W3C */ }
+
+			/* Header Text Color */
+
+																		
+			/* Primary Meta Text Color */
+
+									
+			/* Secondary Meta Text Color */
+
+																											
+		</style>
+		<!--/WordPress Theme Customizer CSS-->
+
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link rel="icon" href="images/cropped-newico-32x32.png" sizes="32x32" />
+<link rel="icon" href="images/cropped-newico-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="images/cropped-newico-180x180.png">
+<meta name="msapplication-TileImage" content="http://localhost/ariswant/wp-content/uploads/2015/09/cropped-newico-270x270.png">
+</head>
+
+<body class="home blog no-post-excerpts" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+
+
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<div class="site-header-info">
+																<a class="site-logo" href="index.html" title="Ihsan Ariswanto" rel="home">
+				<img class="no-grav" src="images/cropped-foto.jpg" height="362" width="362" alt="Ihsan Ariswanto" />
+			</a>
+				<h1 class="site-title">
+			<a href="index.html" title="Ihsan Ariswanto" rel="home">Ihsan Ariswanto</a>
+		</h1>
+		<h2 class="site-description"></h2>
+		<div id="menu-social" class="menu"><ul id="menu-social-items" class="menu-items"><li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="http://twitter.com/IhsanAriswanto"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="http://www.facebook.com/ihsan.ariswanto"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://ariswanto.tumblr.com/"><span class="screen-reader-text">Tumblr</span></a></li>
+</ul></div>						</div>
+
+							<nav role="navigation" class="site-navigation main-navigation">
+				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+
+													<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="http://www.ariswanto.web.id/">BERANDA</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134"><a href="index-4.html">CATATAN</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="index-5.html">OPINI</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135"><a href="index-6.html">INFORMASI</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="index-7.html">LAIN-LAIN</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-294"><a href="index-8.html">ADVERTORIAL</a></li>
+</ul></div>				
+			</nav><!-- .site-navigation .main-navigation -->
+		
+			</header>
+	<!-- #masthead .site-header -->
+
+	<div id="main" class="site-main">
+	<div id="primary" class="content-area">
+		<main id="content" class="site-content" role="main">
+
+			
+								
+					<article id="post-303" class="first-post post-303 post type-post status-publish format-standard hentry category-catatan category-serial-tv tag-review tag-star-wars tag-star-wars-rebels tag-star-wars-rebels-season-2">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-9.html" title="Permalink to Catatan Awal Musim untuk “Star Wars: Rebels” Season 2" rel="bookmark">Catatan Awal Musim untuk “Star Wars: Rebels” Season 2</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p><a href="images/d5603299c2b80edd9b8886067925bbe18be2ec6c.jpg"><img class="aligncenter size-full wp-image-304" src="images/d5603299c2b80edd9b8886067925bbe18be2ec6c.jpg" alt="Rebels" width="1024" height="320" /></a><i>Star Wars: Rebels</i> <i>season </i>kedua dimulai dengan penayangan <a href="http://www.ariswanto.web.id/catatan/serial-tv/star-wars-rebels-season-2-premiere-selamat-tinggal-lothal/"><i>The Siege of Lothal</i></a> bulan Juni lalu. Sekedar informasi, tayangan tersebut tidak dihitung sebagai episode pertama. Penomoran episode dimulai dengan <i>The Lost Commander </i>yang tayang Kamis (15/10) sebagai episode kesatu. Belum ada informasi berapa episode yang akan ditayangkan sampai akhir musim nanti.</p>
+<p>Episode kedua, <i>Relics of The Old Republic, </i>sudah ditayangkan Kamis (22/10) lalu. Episode ini menjadi kelanjutan dari <i>The Lost Commander</i>. Keduanya adalah satu cerita yang dibagi menjadi dua episode. Dengan durasi tayang tiga puluh menit per-episode, sepertinya Rebels akan sering menyajikan cerita dengan cara dipotong seperti ini. <a href="index-9.html#more-303" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-4.html" rel="category tag">CATATAN</a>, <a href="index-10.html" rel="category tag">Serial TV</a></span> <span class="sep"> |</span>		
+				
+							<span>642 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-303 -->
+
+				
+					<article id="post-288" class="post-288 post type-post status-publish format-standard hentry category-advertorial tag-lomba-blog tag-pojok-pulsa tag-pulsa tag-pulsa-elektrik tag-pulsa-elektrik-jakarta tag-pulsa-murah tag-pulsa-murah-jakarta">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-11.html" title="Permalink to Bahaya Kehabisan Pulsa dalam LDR" rel="bookmark">Bahaya Kehabisan Pulsa dalam LDR</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<div id="attachment_289" style="width: 395px" class="wp-caption aligncenter"><a href="images/6788198070_b2fe028c42_z.jpg"><img class=" wp-image-289" src="images/6788198070_b2fe028c42_z.jpg" alt="Long Distance Relationship" width="385" height="293" /></a><p class="wp-caption-text">Long Distance Relationship by: <a href="https://www.flickr.com/photos/dvortygirl/6788198070" target="_blank">Dvortygirl</a></p></div>
+<p>Konon, hubungan jarak jauh atau <em>Long Distance Relationship</em> (LDR) telah ada semenjak zaman Bapa Adam dan Ibu Hawa. Menurut cerita yang saya dengar, keduanya turun di dua titik bumi yang berjauhan sewaktu dikeluarkan dari surga. Bapa Adam diturunkan di sekitar India, sedang Ibu Hawa di kawasan Arabia. Setelah bertahun-tahun terpisah dan hidup sendirian, barulah beliau berdua bisa bertemu di Jabal Rahmah, Arafah.</p>
+<p>Sepertinya umat manusia mewarisi &#8220;kutukan&#8221; LDR ini bahkan sampai sekarang di era yang serba canggih. Tentunya, LDR zaman ini tidak seberat zaman dulu. Dulu, pasangan yang menjalani LDR hanya bisa bertemu dalam surat saja, seperti kisah dalam bait lagu Teluk Bayur:</p>
+<blockquote><p><span id="line_9" class="lirik_line hover">Selamat tinggal kasihku yang tercinta</span></p>
+<p><span id="line_10" class="lirik_line hover">Doakan agar &#8216;ku cepat kembali</span></p>
+<p><span id="line_11" class="lirik_line hover">Kuharap suratmu setiap minggu</span></p>
+<p><span id="line_12" class="lirik_line hover">&#8216;Kan kujadikan pembuluh rindu</span></p></blockquote>
+<p> <a href="index-11.html#more-288" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-8.html" rel="category tag">ADVERTORIAL</a></span> <span class="sep"> |</span>		
+				
+							<span>585 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-288 -->
+
+				
+					<article id="post-281" class="post-281 post type-post status-publish format-standard hentry category-informasi">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-12.html" title="Permalink to Bayi Baru Saya: Wulangreh.com" rel="bookmark">Bayi Baru Saya: Wulangreh.com</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p>Penggemar komik atau anime Dragon Ball pasti tahu bahwa cara terbaik untuk menjadi orang terkuat adalah dengan latihan yang berat. Sejak masih dalam asuhan Kakek Kura-kura, Goku dan Krilin wajib menggendong cangkang kura-kura yang berat. Sepanjang petualangannya Goku menjadi yang terdepan dengan latihan yang lebih berat. Menara Karin, Istana Dewa, baju pemberat, Jalur Naga, dan seterusnya.</p>
+<p>Untuk menantang kemampuan saya sendiri dalam menulis dengan bahasa Jawa, saya luncurkan blog baru: <a href="http://www.wulangreh.com/">Wulangreh.com</a> yang melanjutkan tradisi kepenulisan ala kalawarti seperti Djaka Lodang dan Panjebar Semangat.</p>
+<p>Slogan yang saya pilih untuk blog baru ini adalah <em>jumeneng ing pundhakipun para raseksa</em> (<a href="https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants" target="_blank">berdiri di atas bahu para raksasa</a>), yang artinya adalah bahwa pencapaian kita saat ini adalah karena usaha-usaha atau keberhasilan yang telah dilakukan oleh para pendahulu kita.</p>
+<p>Nama Wulangreh saya pilih karena popularitas serat tersebut dalam pendidikan bahasa Jawa di sekolah-sekolah. Petikan tembang dari Wulangreh menjadi tembang pertama yang diajarkan Mbah Sartorejo waktu dulu mengaji di masjid (<em>Padha gulangen ing kalbu)</em>. Tembang yang sama juga diajarkan Pak Harto (Paimin) guru saya di SD.</p>
+<p>Sampai beberapa bulan lalu, petikan tembang Wulangreh (<em>Lamun sira anggeguru kaki) </em>dalam bentuk papan yang dibuat Mbah Sarto masih menggantung di masjid kami dan oleh beliau dinyatakan sebagai panduan dalam memilih imam atau guru ngaji di masjid kampung kami.</p>
+<p>Dengan mengucap basmalah saya akan mencoba mengisi blog tersebut sebaik-baiknya, agar tidak <em>kualat </em>terhadap Kanjeng Susuhunan Pakubuwana IV karena telah memilih menggunakan nama seratnya untuk blog tersebut.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-6.html" rel="category tag">INFO</a></span> <span class="sep"> |</span>		
+				
+							<span>238 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-281 -->
+
+				
+					<article id="post-269" class="post-269 post type-post status-publish format-standard hentry category-opini tag-hukum tag-internet-troll tag-kebebasan-berbicara tag-kebebasan-berpendapat tag-penganiayaan tag-penghinaan tag-troll">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-13.html" title="Permalink to Menyikapi Penghinaan dalam Alam Kebebasan Berbicara Ini" rel="bookmark">Menyikapi Penghinaan dalam Alam Kebebasan Berbicara Ini</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p class="P1">Awal September ini, ada dua kejadian yang membuat saya <span class="T2">makin </span>gelisah dengan kebebasan berbicara di Indonesia.</p>
+<p class="P1">Pertama, adalah <a title="" href="http://www.suara.com/entertainment/2015/09/07/143505/anak-smk-ini-tantang-dan-bicara-kasar-ke-deddy-corbuzier" target=""><span class="T1">kejadian seorang anak muda yang didatangi Polisi </span></a><span class="T1">karena tulisannya di Instagram yang ditujukan pada seorang terkenal. Si orang terkenal ini merasa terhina oleh tulisan tersebut dan merasa perlu memberi pelajaran pada si anak muda. Hasil akhirnya si anak muda meminta maaf, dan si orang terkenal memajang rentetan peristiwa tersebut di akun Instagramnya (saat ini sudah dihapus).</span> <a href="index-13.html#more-269" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-5.html" rel="category tag">OPINI</a></span> <span class="sep"> |</span>		
+				
+							<span>439 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-269 -->
+
+				
+					<article id="post-138" class="post-138 post type-post status-publish format-standard hentry category-uncategorized tag-google tag-pendidikan">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-14.html" title="Permalink to Antara Rukun Islam Keempat dan Mama Google" rel="bookmark">Antara Rukun Islam Keempat dan Mama Google</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p align="justify">Entah sudah ke-berapa kali saya naik KA Pasundan, kereta yang wajib mengalah setiap kali berpapasan dengan kereta berkelas lebih tinggi ini. Dulu pernah tertulis di tiketnya, kereta ini dijadwalkan sampai Surabaya pukul 19.38. Sekarang, sepertinya PT KAI sudah menyadari bahwa kereta ini jarang sekali tiba di tujuan Stasiun Gubeng sebelum pukul 21.00, maka dituliskan pukul 21.38 sebagai jam kedatangannya di Surabaya. <a href="index-14.html#more-138" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-7.html" rel="category tag">LAIN-LAIN</a></span> <span class="sep"> |</span>		
+				
+							<span>685 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-138 -->
+
+				
+					<article id="post-94" class="post-94 post type-post status-publish format-standard hentry category-catatan category-serial-tv tag-anarki tag-anarkisme tag-mr-robot">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-15.html" title="Permalink to MR. ROBOT: Revolusi Sebatas Tivi" rel="bookmark">MR. ROBOT: Revolusi Sebatas Tivi</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p><img class="aligncenter" src="images/robot.png" alt="" width="289" height="290" /></p>
+<p>Tinggal satu episode tersisa dari serial televisi Mr. Robot season pertama. Tayangan musim panas yang digarap oleh Sam Esmail ini memikat pemirsanya sejak episode perdana ditayangkan Maret lalu. Situs kritik film seperti <a href="http://www.imdb.com/title/tt4158110/" target="_blank">imdb</a> dan dan <a href="http://www.rottentomatoes.com/tv/mr-robot/s01/" target="_blank">Rotten Tommatoes</a> memberi rating tinggi untuk episode pertama tersebut. Stasiun tivi penayangnya, USA Network, bersegera mengumumkan bahwa serial ini akan diperpanjang ke season kedua. <a href="index-15.html#more-94" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-4.html" rel="category tag">CATATAN</a>, <a href="index-10.html" rel="category tag">Serial TV</a></span> <span class="sep"> |</span>		
+				
+							<span>376 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-94 -->
+
+				
+					<article id="post-88" class="post-88 post type-post status-publish format-standard hentry category-buku category-catatan tag-absurdisme tag-albert-camus-filosofi">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-16.html" title="Permalink to Catatan untuk The Stranger, karya Albert Camus" rel="bookmark">Catatan untuk The Stranger, karya Albert Camus</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p style="margin-bottom: 0in;"><span class="Apple-style-span" style="line-height: 14px;">Sekedar informasi bagi yang belum tahu, buku ini adalah sebuah novel yang aslinya berjudul L’ÉTRANGER, ditulis oleh Albert Camus dalam bahasa Prancis. Versi ebook yang saya baca adalah terjemahan bahasa Inggris oleh Stuart Gilbert yang diterbitkan Random House, Kanada dalam jajaran Vintage Book.</span></p>
+<p style="margin-bottom: 0in;"><span class="Apple-style-span" style="line-height: 14px;"><img class="aligncenter" title="Sampul Buku The Stranger" src="images/cover.png" alt="Sampul Buku The Stranger" width="199" height="357" /></span></p>
+<p style="margin-bottom: 0in;"><span class="Apple-style-span" style="line-height: 14px;">Saya memutuskan bahwa untuk semua buku-buku lawas dan legendaris seperti ini, saya tidak akan menuliskan <i>review</i>. Rasanya sungkan. Siapalah saya me-<i>review</i> Albert Camus? Kalau dalam istilah Jawanya, takut <i>kuwalat</i>. Di sini saya hanya akan menuliskan catatan-catatan saja saat membaca buku ini.<br />
+</span> <a href="index-16.html#more-88" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-17.html" rel="category tag">Buku</a>, <a href="index-4.html" rel="category tag">CATATAN</a></span> <span class="sep"> |</span>		
+				
+							<span>286 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-88 -->
+
+				
+					<article id="post-85" class="post-85 post type-post status-publish format-status hentry category-uncategorized tag-wattpad post_format-post-format-status">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-18.html" title="Permalink to Aktif di wattpad" rel="bookmark">Aktif di wattpad</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p>Setelah dua tahun lebih punya akun di Wattpad (dan tak pernah aktif) akhirnya hari ini saya memutuskan untuk mulai buat aktif di sana untuk latihan menulis fiksi.</p>
+<p>Link profil Wattpadku: <a href="https://www.wattpad.com/user/IhsanAriswanto" target="_blank">@IhsanAriswanto</a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-7.html" rel="category tag">LAIN-LAIN</a></span> <span class="sep"> </span>		
+				
+				
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-85 -->
+
+				
+					<article id="post-75" class="post-75 post type-post status-publish format-standard hentry category-uncategorized tag-books tag-horror">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-19.html" title="Permalink to Memahami Hantu" rel="bookmark">Memahami Hantu</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p><img class=" wp-image-76 aligncenter" src="images/output.jpg" alt="ilustrasi hantu" width="304" height="395" /></p>
+<p>Minggu ini, saya sedang membaca <a href="https://www.goodreads.com/book/show/14568711-the-science-of-ghosts">The Science of Ghosts</a>, karya Joe Nickell. Berhubung belum tuntas membaca, saya tidak bisa menuliskan reviewnya saat ini. Gara-gara baca buku ini, saya jadi ingin menceritakan sudut pandang saya sendiri terhadap dunia perhantuan.</p>
+<p>Sejak kecil saya suka sekali dengan cerita hantu. Selalu ada sesi <i>cerita memedi </i>dengan teman-teman masa kecilku, entah saat bosan bermain, waktu istirahat sekolah, atau saat menunggu azan magrib sebelum mengaji di masjid. Seringkali cerita memang hanya diulang-ulang, terutama jika ada teman yang belum pernah mendengarnya. Jika ada cerita <i>fresh, </i>kami akan sangat senang sekali. <a href="index-19.html#more-75" class="more-link">Continue reading <span class="meta-nav">&rarr;</span></a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-7.html" rel="category tag">LAIN-LAIN</a></span> <span class="sep"> |</span>		
+				
+							<span>659 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-75 -->
+
+				
+					<article id="post-72" class="post-72 post type-post status-publish format-standard hentry category-serial-tv tag-star-wars tag-star-wars-rebels tag-star-wars-rebels-season-2">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-20.html" title="Permalink to Star Wars Rebels Season 2 Premiere: Selamat Tinggal Lothal!" rel="bookmark">Star Wars Rebels Season 2 Premiere: Selamat Tinggal Lothal!</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<p>Salah satu hal yang banyak dikeluhkan pemirsa Star Wars Rebels di <em>season </em>1 adalah <em>setting </em>lokasinya yang hampir tidak pernah keluar dari Planet Lothal. Kontras dengan Star Wars: The Clone Wars yang di hampir setiap episodenya selalu mengambil lokasi yang berbeda-beda di penjuru galaksi.</p>
+<p>Episode pertama dari <em>season</em> ke-2 Rebels tampaknya memberi isyarat bahwa sepanjang <em>season</em> ini penonton akan banyak diajak untuk berpindah-pindah tempat, walaupun mungkin terbatas di kawasan <em>outer rim</em>. Hadirnya Darth Vader di Lothal, dan kejadian sepanjang episode perdana ini telah memaksa Kanan Jarrus dan <em>geng</em>-nya untuk benar-benar mengucapkan selamat tinggal pada planet kampung halaman mereka ini.</p>
+<p><em>Season</em> kedua ini akan banyak memberikan porsi cerita untuk Ahsoka Tano. Keberadaannya sudah diketahui oleh mantan masternya, bahkan telah pula diketahui oleh Sang Emperor. Inquisitor baru akan ditugaskan untuk memburu Ahsoka dan sisa-sisa Jedi lain yang mungkin masih hidup (&#8220;<em>such as Kenobi?&#8221;</em> kata Darth Vader). Beberapa <em>bocoran</em> memperlihatkan adegan bertemunya Kanan dan <em>geng</em> dengan mantan kamerad Ahsoka di Clone Wars, Captain Rex. Akan hadir pula koneksi Ahsoka lain seperti Hondo. Cukup bukti bahwa penonton tidak akan lagi mati bosan di Lothal. 😀</p>
+<p>Pastinya <em>fans </em>akan menantikan, bagaimana perkembangan Ezra ke depan, apa peranannya dalam pembentukan aliansi Rebels, dan seterusnya. Walaupun <em>premiere </em> sudah ditayangnkan, kita harus menunggu bulan Oktober untuk tahu kelanjutannya.</p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in <a href="index-10.html" rel="category tag">Serial TV</a></span> <span class="sep"> |</span>		
+				
+							<span>209 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-72 -->
+
+				
+						<nav role="navigation" id="nav-below" class="site-navigation paging-navigation">
+			<h1 class="screen-reader-text">Post navigation</h1>
+
+			
+									<div class="nav-previous"><a href="index-21.html" ><button><span class="meta-nav">&larr;</span> Older posts</button></a></div>
+				
+				
+			
+		</nav><!-- #nav-below -->
+	
+			
+		</main>
+		<!-- #content .site-content -->
+	</div><!-- #primary .content-area -->
+
+<div id="secondary" class="widget-area" role="complementary">
+					<aside id="text-10" class="widget widget_text">			<div class="textwidget"><iframe src="https://duckduckgo.com/search.html?width=100&amp;site=http://www.ariswanto.web.id&amp;prefill=Pencarian" style="overflow:hidden;margin:0;padding:0;width:258px;height:40px;" frameborder="0"></iframe></div>
+		</aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h1 class="widget-title">TULISAN TERBARU</h1>		<ul>
+					<li>
+				<a href="index-9.html">Catatan Awal Musim untuk “Star Wars: Rebels” Season 2</a>
+						</li>
+					<li>
+				<a href="index-11.html">Bahaya Kehabisan Pulsa dalam LDR</a>
+						</li>
+					<li>
+				<a href="index-12.html">Bayi Baru Saya: Wulangreh.com</a>
+						</li>
+					<li>
+				<a href="index-13.html">Menyikapi Penghinaan dalam Alam Kebebasan Berbicara Ini</a>
+						</li>
+					<li>
+				<a href="index-14.html">Antara Rukun Islam Keempat dan Mama Google</a>
+						</li>
+				</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">ARSIP</h1>		<ul>
+	<li><a href='index-22.html'>Oktober 2015</a>&nbsp;(2)</li>
+	<li><a href='index-23.html'>September 2015</a>&nbsp;(3)</li>
+	<li><a href='index-24.html'>Agustus 2015</a>&nbsp;(4)</li>
+	<li><a href='index-25.html'>Juli 2015</a>&nbsp;(2)</li>
+	<li><a href='index-26.html'>Mei 2015</a>&nbsp;(6)</li>
+	<li><a href='index-27.html'>April 2015</a>&nbsp;(1)</li>
+	<li><a href='index-28.html'>April 2014</a>&nbsp;(2)</li>
+	<li><a href='index-29.html'>Desember 2013</a>&nbsp;(1)</li>
+	<li><a href='index-30.html'>November 2013</a>&nbsp;(2)</li>
+	<li><a href='index-31.html'>Juli 2013</a>&nbsp;(1)</li>
+	<li><a href='index-32.html'>April 2013</a>&nbsp;(1)</li>
+	<li><a href='index-33.html'>Maret 2013</a>&nbsp;(5)</li>
+	<li><a href='index-34.html'>Februari 2013</a>&nbsp;(1)</li>
+	<li><a href='index-35.html'>Desember 2012</a>&nbsp;(1)</li>
+	<li><a href='index-36.html'>November 2012</a>&nbsp;(1)</li>
+	<li><a href='index-37.html'>Oktober 2012</a>&nbsp;(1)</li>
+	<li><a href='index-38.html'>September 2012</a>&nbsp;(1)</li>
+	<li><a href='index-39.html'>Juni 2012</a>&nbsp;(2)</li>
+	<li><a href='index-40.html'>Mei 2012</a>&nbsp;(1)</li>
+	<li><a href='index-41.html'>Maret 2012</a>&nbsp;(13)</li>
+	<li><a href='index-42.html'>Januari 2012</a>&nbsp;(3)</li>
+	<li><a href='index-43.html'>Desember 2011</a>&nbsp;(6)</li>
+	<li><a href='index-44.html'>November 2011</a>&nbsp;(3)</li>
+	<li><a href='index-45.html'>Oktober 2011</a>&nbsp;(8)</li>
+	<li><a href='index-46.html'>Juli 2011</a>&nbsp;(1)</li>
+	<li><a href='index-47.html'>Mei 2011</a>&nbsp;(3)</li>
+	<li><a href='index-48.html'>April 2011</a>&nbsp;(7)</li>
+	<li><a href='index-49.html'>Januari 2011</a>&nbsp;(1)</li>
+	<li><a href='index-50.html'>Juli 2010</a>&nbsp;(4)</li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">KATEGORI</h1><label class="screen-reader-text" for="cat">KATEGORI</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Pilih Kategori</option>
+	<option class="level-0" value="72">ADVERTORIAL&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="23">CATATAN&nbsp;&nbsp;(6)</option>
+	<option class="level-1" value="24">&nbsp;&nbsp;&nbsp;Buku&nbsp;&nbsp;(3)</option>
+	<option class="level-1" value="30">&nbsp;&nbsp;&nbsp;Serial TV&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="6">INFO&nbsp;&nbsp;(15)</option>
+	<option class="level-1" value="57">&nbsp;&nbsp;&nbsp;Tips dan Trik&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="1">LAIN-LAIN&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="11">OPINI&nbsp;&nbsp;(10)</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;Politik&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="2">ZIARAH BUKU&nbsp;&nbsp;(1)</option>
+	<option class="level-1" value="3">&nbsp;&nbsp;&nbsp;Kafe Buku&nbsp;&nbsp;(1)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://localhost/ariswant/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="recent-comments-4" class="widget widget_recent_comments"><h1 class="widget-title">Komentar</h1><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-74">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://plus.google.com/+NaqiyyahSyam' rel='external nofollow' class='url'>Naqiyyah Syam</a></span> pada <a href="index-11.html#comment-73">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-72">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.tipspengembangandiri.com/' rel='external nofollow' class='url'>Herman Yudiono</a></span> pada <a href="index-11.html#comment-71">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-68">Bahaya Kehabisan Pulsa dalam LDR</a></li></ul></aside>	</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+
+<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+	<div class="site-info">
+		<a href="http://independentpublisher.me/" rel="designer" title="Independent Publisher: A beautiful reader-focused WordPress theme, for you.">Independent Publisher</a> empowered by <a href="http://wordpress.org/" rel="generator" title="WordPress: A free open-source publishing platform">WordPress</a>	</div>
+	<!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+</div><!-- #page .hfeed .site -->
+
+<script type='text/javascript' src='images/skip-link-focus-fix08e0.js?ver=20130115'></script>
+
+</body>
+
+<!-- Mirrored from localhost/ariswant/ by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 16 Nov 2015 01:46:18 GMT -->
+</html>
