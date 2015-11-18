@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html itemscope="itemscope" itemtype="http://schema.org/WebPage" lang="id-ID">
+
+<!-- Mirrored from localhost/ariswant/tag/tutorial-gnulinux/ by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 16 Nov 2015 13:54:24 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<title>TUTORIAL GNU/LINUX &#8211; Ihsan Ariswanto</title>
+	<link rel="profile" href="images/11" />
+	<link rel="pingback" href="images/xmlrpc.php" />
+	<!--[if lt IE 9]>
+	<script src="http://localhost/ariswant/wp-content/themes/independent-publisher/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+	<link rel="alternate" type="application/rss+xml" title="Ihsan Ariswanto &raquo; Feed" href="index-2.html" />
+<link rel="alternate" type="application/rss+xml" title="Ihsan Ariswanto &raquo; Umpan Komentar" href="index-3.html" />
+<link rel="alternate" type="application/rss+xml" title="Ihsan Ariswanto &raquo; TUTORIAL GNU/LINUX Umpan Tag" href="index-280.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/localhost\/ariswant\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genericons-css'  href='images/genericons128b.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='independent-publisher-style-css'  href='images/style5b31.css?ver=4.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='images/jqueryc1d8.js?ver=1.11.3'></script>
+<script type='text/javascript' src='images/jquery-migrate.min1576.js?ver=1.2.1'></script>
+<script type='text/javascript' src='images/enhanced-comment-form5152.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="images/xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="images/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+
+
+		<!--WordPress Theme Customizer CSS-->
+		<style type="text/css">
+
+			/* Background Color */
+
+			
+			/* Comment Form Background Color */
+
+			
+			/* Text Color */
+
+															
+			/* Link Color */
+
+			a, a:visited, a:hover, a:focus, a:active { color:#003e6b; }
+			.enhanced-excerpts .enhanced-excerpt-read-more a, .enhanced-excerpts .enhanced-excerpt-read-more a:hover { color:#003e6b; }
+			.post-excerpts .sticky.format-standard .entry-content a, .post-excerpts .sticky.format-standard .entry-content a:focus, .post-excerpts .sticky.format-standard .entry-content a:hover, .post-excerpts .sticky.format-standard .entry-content a:active, .post-excerpts .sticky.format-standard .entry-content a:visited { color:#003e6b; }
+			.post-excerpts .format-standard.show-full-content-first-post .entry-content a { color:#003e6b; }
+			.post-excerpts .format-standard .entry-content a.moretag { color:#003e6b; }
+			.post-excerpts .format-standard .entry-content a.more-link { color:#003e6b; }
+			.read-more a, .read-more a:hover { color:#003e6b; }
+			.entry-title a:hover { color:#003e6b; }
+			.entry-meta a:hover { color:#003e6b; }
+			.site-footer a:hover { color:#003e6b; }
+			blockquote { border-color:#003e6b; }
+			#infinite-footer .blog-credits a, #infinite-footer .blog-credits a:hover { color:#003e6b; }
+			#nprogress .bar { background:#003e6b; }
+			#nprogress .spinner-icon { border-top-color:#003e6b; }
+			#nprogress .spinner-icon { border-left-color:#003e6b; }
+			#nprogress .peg { box-shadow:0 0 10px #003e6b, 0 0 5px #003e6b; }
+
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background:#003e6b; /* Old browsers */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -moz-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* FF3.6+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -webkit-gradient(linear, left top, left bottom, color-stop(60%, #003e6b), color-stop(100%, #003e6b)); /* Chrome,Safari4+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -webkit-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* Chrome10+,Safari5.1+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -o-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* Opera 11.10+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: -ms-linear-gradient(top, #003e6b 60%, #003e6b 100%); /* IE10+ */ }
+			button, html input[type="button"], input[type="reset"], input[type="submit"], button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover { background: linear-gradient(top, #003e6b 60%, #003e6b 100%); /* W3C */ }
+
+			/* Header Text Color */
+
+																		
+			/* Primary Meta Text Color */
+
+									
+			/* Secondary Meta Text Color */
+
+																											
+		</style>
+		<!--/WordPress Theme Customizer CSS-->
+
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<link rel="icon" href="images/cropped-newico-32x32.png" sizes="32x32" />
+<link rel="icon" href="images/cropped-newico-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="images/cropped-newico-180x180.png">
+<meta name="msapplication-TileImage" content="http://localhost/ariswant/wp-content/uploads/2015/09/cropped-newico-270x270.png">
+</head>
+
+<body class="archive tag tag-tutorial-gnulinux tag-46 no-post-excerpts" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+
+
+<div id="page" class="hfeed site">
+	<header id="masthead" class="site-header" role="banner" itemscope itemtype="http://schema.org/WPHeader">
+
+		<div class="site-header-info">
+																<a class="site-logo" href="index.html" title="Ihsan Ariswanto" rel="home">
+				<img class="no-grav" src="images/cropped-foto.jpg" height="362" width="362" alt="Ihsan Ariswanto" />
+			</a>
+				<h1 class="site-title">
+			<a href="index.html" title="Ihsan Ariswanto" rel="home">Ihsan Ariswanto</a>
+		</h1>
+		<h2 class="site-description"></h2>
+		<div id="menu-social" class="menu"><ul id="menu-social-items" class="menu-items"><li id="menu-item-126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126"><a href="http://twitter.com/IhsanAriswanto"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="http://www.facebook.com/ihsan.ariswanto"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://ariswanto.tumblr.com/"><span class="screen-reader-text">Tumblr</span></a></li>
+</ul></div>						</div>
+
+							<nav role="navigation" class="site-navigation main-navigation">
+				<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+
+													<div class="menu-menu-container"><ul id="menu-menu" class="menu"><li id="menu-item-293" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-293"><a href="http://www.ariswanto.web.id/">BERANDA</a></li>
+<li id="menu-item-136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-136"><a href="index-4.html">OPINI</a></li>
+<li id="menu-item-134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-134"><a href="index-5.html">CATATAN</a></li>
+<li id="menu-item-135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-135"><a href="index-6.html">INFORMASI</a></li>
+<li id="menu-item-294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-294"><a href="index-7.html">ADVERTORIAL</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151"><a href="index-8.html">LAIN-LAIN</a></li>
+</ul></div>				
+			</nav><!-- .site-navigation .main-navigation -->
+		
+			</header>
+	<!-- #masthead .site-header -->
+
+	<div id="main" class="site-main">
+	<section id="primary" class="content-area">
+		<main id="content" class="site-content" role="main">
+
+			
+				<header class="page-header">
+					<h1 class="page-title">
+						<span>TUTORIAL GNU/LINUX</span>					</h1>
+					<div class="taxonomy-description"><p>There are 5 posts tagged <strong>TUTORIAL GNU/LINUX</strong>.</p>
+</div>									</header><!-- .page-header -->
+
+								
+					<article id="post-158" class="first-post post-158 post type-post status-publish format-standard has-post-thumbnail hentry tag-komputer tag-review-software tag-tutorial-gnulinux">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-122.html" title="Permalink to Ganti distro lagi: dari Slackware 14 ke Trisquel 6" rel="bookmark">Ganti distro lagi: dari Slackware 14 ke Trisquel 6</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+										<a href="index-122.html" title="Permalink to Ganti distro lagi: dari Slackware 14 ke Trisquel 6"><img width="700" height="525" src="images/trisquel_6.0_lts_screenshot.png" class="attachment-independent_publisher_post_thumbnail wp-post-image" alt="Trisquel_6.0_LTS_screenshot" /></a>
+			
+			<div style="text-align: justify;">Setelah beberapa bulan cukup nyaman dengan Slackware 14, kemarin malam aku putuskan untuk pindah ke distro lain. Sebenarnya aku tak ada masalah dengan Slackware 14, namun gara-gara instal <a href="http://www.droplinegnome.org/" target="_blank">dropline-gnome</a> yang setengah-setengah, beberapa library jadi agak kacau.<br /><a name='more'></a></div>
+<div style="text-align: justify;">Aku pikir-pikir daripada memperbaiki instalasi dengan mendowload paket-paket Slackware 14, lebih baik aku instal ulang saja, sekalian ganti suasana. Sempat terpikir untuk menginstal <a href="http://www.slackware.com/" target="_blank">Slakware terbaru (14.1)</a>, namun karena file iso-nya cukup besar (versi DVD lebih dari 2GB) sepertinya akan memakan waktu lama, dan emmm&#8230; boros kuota juga.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Selain itu, karena sedang ingin belajar software itung duit <a href="http://www.gnucash.org/" target="_blank">GnuCash</a> (yang di Slackware harus build dari source), sepertinya lebih baik pindah distro lain yang lebih manusiawi.. :-D.&nbsp;</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Kebetulan di hard disk sudah ada 2 iso, satunya Trisquel 6, dan satunya lagi Zorin OS, hasil download dari <a href="https://facebook.com/groups/631892160170483" target="_blank">grup facebook</a> (dulu waktu AON masih bisa diajak kerjasama&#8230;). Keduanya sama-sama turunan Ubuntu, jadi tak jauh beda.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Pilihan jatuh ke <a href="http://trisquel.info/" target="_blank">Trisquel</a> (baca: Triskel) dengan pertimbangan:</div>
+<ul>
+<li>Trisquel lebih istimewa karena <a href="http://en.wikipedia.org/wiki/Free_software" target="_blank">100% libre </a>dan sudah <a href="http://www.gnu.org/distros/free-distros.html" target="_blank">diberkati</a> oleh <a href="http://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Mbah Stallman,</a> hehe. Semua hardwareku tak perlu driver non-libre, jadi gak akan ada masalah.</li>
+<li>Pengen pindah ke 64 bit, kebetulan iso Trisquelnya versi 64 juga. Alasan milih 64bit: kalau pas main-main virtualbox, 32bit tidak bisa jalankan virtual 64bit, tapi 64bit bisa jalankan virtual 32bit.</li>
+</ul>
+<div style="text-align: justify;">Ya sudah, tanpa babibu, langsung iso Trisquel dibakar ke flashdisk memakai Unetbootin.&nbsp; tancap. setting bios, reboot. Masuk instalasi dst dll. Format partisi untuk /. Proses instal tak sampai 15 menit. Restart dan&#8230;. jreng&#8230; jreng&#8230;. Trisquel 6 dengan gnome classic (tampilan defaultnya).</div>
+<div style="text-align: justify;"></div>
+<div style="clear: both; text-align: center;"><a href="images/trisquel_6.0_lts_screenshot-2.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="images/trisquel_6.0_lts_screenshot-300x225.png" width="400" /></a></div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Oke.. ritual selanjutnya sebagaimana distro berbasis deb lain adalah:&nbsp;</div>
+<blockquote><div style="text-align: justify;"><span style="font-family: &quot;Helvetica Neue&quot;,Arial,Helvetica,sans-serif;">sudo apt-get update &amp;&amp; sudo apt-get upgrade</span></div>
+</blockquote>
+<p>Selanjutnya, karena pengen tampilan Gnome Shell (bukan classic), jadi saya instal paket minimalnya:</p>
+<blockquote><p><span style="font-family: &quot;Helvetica Neue&quot;,Arial,Helvetica,sans-serif;">sudo apt-get install gnome-session gnome-shell</span></p></blockquote>
+<p>Logout, lalu masuk lagi dengan pilih gnome. Ganti-ganti wallpaper. Tweak-tweak sedikit dengan extension. Hasilnya&#8230;. </p>
+<p></p>
+<div style="clear: both; text-align: center;"><a href="images/screenshot-from-2013-11-16-20-26-34.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="images/screenshot-from-2013-11-16-20-26-34-300x225.png" width="400" /></a></div>
+<div style="text-align: center;"><a href="images/screenshot-from-2013-11-16-20-25-54.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="300" src="images/screenshot-from-2013-11-16-20-25-54-300x225.png" width="400" />&nbsp;</a></div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Semua hardware jalan dengan baik. Performa oke, tidak nge-lag atau lambat. Beberapa catatan aja: </div>
+<ul>
+<li>Browser&nbsp; bawaan Trisquel adalah &#8220;a browser&#8221; alias browser tanpa nama. Sebenarnya ini Firefox yang dikostumisasi. Setelah diupgrade, versinya jadi 25, sama seperti Firefox.</li>
+<li>Karena 100% libre, jadi jangan harap ada adobe flash. Sebagai gantinya telah terinstal gnash. Aku coba buka Youtube, jalan, tapi sedikit gak mulus.</li>
+<li>Libreoffice bawaan, versi 3.X.X. Aku uninstal dan instal versi terbaru (4.1) dari libreoffice.org (pilih versi deb).</li>
+<li>Software lain sama seperti yang ada di Ubuntu 12.04 LTS, Trisquel 6 juga kompatibel dengan repo Ubuntu 12.04 LTS. Bedanya di Trisquel tak ada software&nbsp; non-libre.</li>
+<li>Trisquel 6 akan disupport sampai tahun 2017, sama seperti Ubuntu 12.04 LTS.</li>
+<li>Mulai versi 6 ini, Trisquel hanya merilis versi LTS saja, tidak lagi 6 bulanan.</li>
+</ul>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in Tak Berkategori</span> <span class="sep"> |</span>		
+				
+							<span>411 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-158 -->
+
+				
+					<article id="post-166" class="post-166 post type-post status-publish format-standard has-post-thumbnail hentry tag-komputer tag-review-hardware tag-tutorial-gnulinux">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-130.html" title="Permalink to Instal Printer HP K110a di Debian Squeeze" rel="bookmark">Instal Printer HP K110a di Debian Squeeze</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+										<a href="index-130.html" title="Permalink to Instal Printer HP K110a di Debian Squeeze"><img width="700" height="582" src="images/untitled.jpg" class="attachment-independent_publisher_post_thumbnail wp-post-image" alt="Untitled" /></a>
+			
+			<div style="clear: both; text-align: center;"></div>
+<div style="text-align: center;">
+<div style="text-align: justify;">Nama lengkap printer ini adalah <b>HP Deskjet Ink Advantage 2060 ALL-IN-ONE K110</b>. Saya beli dengan harga Rp 660.000 di satu toko komputer dekat UGM.</p>
+<p>Printer ini dilengkapi dengan <i>scanner</i> yang juga bisa digunakan untuk foto kopi tanpa harus terhubung ke komputer.<br /><a name='more'></a></div>
+<div style="text-align: justify;"></div>
+<table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="images/untitled-2.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="331" src="images/untitled-300x249.jpg" width="400" /></a></td>
+</tr>
+<tr>
+<td style="text-align: center;">Penampakan printer HP K110a di rumah saya</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: justify;">Seperti produk HP lain, printer ini bisa jalan dengan baik di linux berkat driver HPLIP. Sayangnya, di Debiaan Squeeze, versi HPLIP-nya jadul, sehingga printer terdeteksi, namun scanner-nya tidak terdeteksi.</p>
+<p>Tapi jangan khawatir, kita bisa instal HPLIP terbaru dengan mudah langsung dari web-nya HPLIP. Caranya akan kita bahas berikut ini.<br /><a href="http://www.blogger.com/null" name="more"></a></p>
+<p><i><b>PERSIAPAN:</b></i>
+<ul>
+<li>Pastikan komputer terhubung dengan internet. Karena yang didonlot agak besar (20 MB), maka perlu koneksi yang lumayan kencang.</li>
+<li>Usahakan komputer terhubung dengan UPS kalau tempat Anda rawan mati listrik. Untuk laptop, sebaiknya dalam kondisi dicharge. Ini penting, karena HPLIP-nya harus dicompile.</li>
+</ul>
+<p><i><b>&nbsp;DOWNLOAD dan INSTAL</b></i>:</div>
+<div style="text-align: justify;">
+<ul>
+<li>Download dengan install wizard, buka: <a href="http://hplipopensource.com/hplip-web/install_wizard/index.html">http://hplipopensource.com/hplip-web/install_wizard/index.html</a></li>
+<li>Pilih Distro dan tipe printernya (lihat gambar di bawah ini). kalau sudah, klik next.</li>
+</ul>
+</div>
+<div style="clear: both; text-align: center;"><a href="images/1.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="244" src="images/1-300x230.jpg" width="320" /></a></div>
+<div style="text-align: justify;"></div>
+<p>
+<ul style="text-align: justify;">
+<li><span style="font-size: small;">klik next, akan munc<span style="font-size: small;">ul:</span></span></li>
+</ul>
+<div style="clear: both; text-align: center;"><a href="images/screenshot-1.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="160" src="images/screenshot-1-300x152.png" width="320" /></a></div>
+<div style="text-align: justify;"><span style="font-size: small;"><span style="font-size: small;">&nbsp;</span> </span></div>
+<ul style="text-align: justify;">
+<li><span style="font-size: small;">Kilik next lagi<span style="font-size: small;">. Selanjutnya akan muncul halaman panduan. Anda tinggal ikuti <span style="font-size: small;">langkah-langkah yang disebutkan di sana.</span></span></span></li>
+<li>Selesai proses instal, printer. Selamat, printer dan scanner Anda sudah terdeteksi 😀</li>
+<li>&nbsp;</li>
+</ul>
+<div style="text-align: justify;"><i><b>PASCA INSTAL&nbsp;</b></i></div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Untuk men-scan lebih gampang, Andai perlu software khusus bernama <b>XSANE</b>. Cara downloadnya, buka saja System &gt;&gt; Administration &gt;&gt; Synaptic, lalu cari xsane. Atau ketik di terminal: <i><b>sudo apt-get install xsane.</b></i></div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Dan agar hasil scan bisa diubah menjadi text, perlu instal <b>GOCR</b>. Caranya sama, cari di Synaptic. Atau ketik di terminal: <i><b>sudo apt-get install gocr.</b></i></div>
+<p>
+<div style="text-align: justify;">
+<div style="clear: both; text-align: center;"></div>
+</div>
+</div>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in Tak Berkategori</span> <span class="sep"> |</span>		
+				
+							<span>259 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-166 -->
+
+				
+					<article id="post-172" class="post-172 post type-post status-publish format-standard has-post-thumbnail hentry tag-komputer tag-tutorial-gnulinux">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-134.html" title="Permalink to Instal PC-BSD 9.0, Triple Boot" rel="bookmark">Instal PC-BSD 9.0, Triple Boot</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+										<a href="index-134.html" title="Permalink to Instal PC-BSD 9.0, Triple Boot"><img width="18" height="18" src="images/malus.gif" class="attachment-independent_publisher_post_thumbnail wp-post-image" alt="malus" /></a>
+			
+			<p>Akhirnya sukses juga instal PC-BSD 9.0, versi usb-lite, desktopnya pakai LXDE.<br />Cara instalnya baca saja di buku petunjuknya: <a href="http://wiki.pcbsd.org/index.php/PC-BSD_Users_Handbook">di wiki PC-BSD.</a></p>
+<p>Sedikit yang perlu diperhatikan, tadinya repot setting bootloader GRUB2 (tripleboot dg Debian dan Arch). Ikut petunjuk di bukunya tidak berhasil. Akhirnya dapat cara dari googling, ternyata cukup gampang:<br /><a name='more'></a></p>
+<p><lj-cut text="Read more..."></lj-cut><br />Tinggal masukan menuentry di /etc/grub.d/40_custom milik Debian, seperti ini:<br /><a href="http://www.blogger.com/null" name="more"></a></p>
+<div style="margin-bottom: 2px;">Code:</div>
+<pre style="background: none repeat scroll 0% 0% #e1e4f2; border: 1px inset; font-family: monospace; font-size: 0.9em; line-height: 1.25; margin: 0px; overflow: auto; padding: 6px; text-align: left;"><br />menuentry "PCBSD 9.0" {<br />set root=(hd0,2)<br />chainloader +1<br />}</pre>
+<p>Sukses login PC-BSD 9.0.</p>
+<p>Habis itu setting modem  USB GSM (Sierra 305), setingannya nyomot di google lupa dari mana tadi  sumbernya. Kalau gak salah aslinya setingan buat huawei, tapi jalan juga  saya coba buat sierra. (<img alt="" border="0" ilo-full-src="http://www.ariswanto.web.id/wp-content/uploads/2012/06/malus.gif" src="images/malus-2.gif" title="Malu (S)" />)</p>
+<p>Setingan /etc/ppp/ppp.conf seperti ini (pakai kartu Tri):</p>
+<div style="margin-bottom: 2px;">Code:</div>
+<pre style="background: none repeat scroll 0% 0% #e1e4f2; border: 1px inset; font-family: monospace; font-size: 0.9em; line-height: 1.25; margin: 0px; overflow: auto; padding: 6px; text-align: left;"><br />default:<br />  set log local Phase Chat LCP IPCP CCP tun command<br />  disable pred1 deflate deflate24 protocomp acfcomp shortseq vj<br />  deny pred1 deflate deflate24 protocomp acfcomp shortseq vj<br />  set speed 9600<br />tri:<br />  set login<br />  set device /dev/cuaU0.0<br />  set phone *99#<br />  set dial "ABORT BUSY ABORT NO\sCARRIER<br />  TIMEOUT 5 <br />  "" ATE1 <br />  OK-AT-OK ATQ0V1X4 OK <br />  AT+CGDCONT=1,\"ip\",\"3data\" <br />  OK \dATDT\T <br />  TIMEOUT 45 <br />  CONNECT"<br />  set authname 3data<br />  set authkey 3data<br />  set ifaddr 10.0.0.1/0 10.0.0.2/0 255.255.255.2555 0.0.0.0<br />  enable dns<br />  add! default HISADDR<br />  disable ipv6<br />  disable lqr</pre>
+<p>Seting /etc/ppp/ppp.linkup:</p>
+<div style="margin-bottom: 2px;">Code:</div>
+<pre style="background: none repeat scroll 0% 0% #e1e4f2; border: 1px inset; font-family: monospace; font-size: 0.9em; line-height: 1.25; margin: 0px; overflow: auto; padding: 6px; text-align: left;"><br />tri:<br />  shell route delete default<br />  shell route add default -interface INTERFACE<br />  delete ALL</pre>
+<p>Seting /etc/ppp/ppp.linkdown:</p>
+<div style="margin-bottom: 2px;">Code:</div>
+<pre style="background: none repeat scroll 0% 0% #e1e4f2; border: 1px inset; font-family: monospace; font-size: 0.9em; line-height: 1.25; margin: 0px; overflow: auto; padding: 6px; text-align: left;"><br />tri:<br />   shell route delete default</pre>
+<p>Kalu sudah tinggal ketik peintah:<br /><b>sudo ppp</b></p>
+<p>muncul tanda &gt;</p>
+<p>ketik lagi:<br /><b>dial tri</b></p>
+<p>Kalau tulisan <b>ppp</b> berubah jadi <b>PPP</b>, berarti udah konek.</p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in Tak Berkategori</span> <span class="sep"> |</span>		
+				
+							<span>240 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-172 -->
+
+				
+					<article id="post-200" class="post-200 post type-post status-publish format-standard hentry tag-komputer tag-tutorial-gnulinux">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-148.html" title="Permalink to Update Archlinux Hemat Bandwith dengan Deltup" rel="bookmark">Update Archlinux Hemat Bandwith dengan Deltup</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<div style="text-align: justify;">Sebagai distro rolling release, Arch Linux memang menuntut untuk sering-sering update sistem. Bagi yang punya koneksi dewa tentu gak masalah. Tapi bagi yang koneksinya pas-pasan, apalagi terbatas quota, perlu cari cara untuk sedikit lebih ngirit bandwith.</p>
+<p>Cara menyiasatinya bisa dengan deltup (delta update). Intinya, delta hanya akan mendowload perbedaan atau selisih antara versi paket yang telah terinstal dengan versi paket yang baru, kemudian menggabungkan ulang (rebuild). Berikut langkah instal dan setting deltup di Archlinux kita.</div>
+<p><a name='more'></a></p>
+<div style="text-align: justify;"><span>1. Instal paket xdelta3</span></div>
+<pre><blockquote># pacman -S xdelta3</blockquote></pre>
+<div style="text-align: justify;"><span>2. Edit file</span><span style="font-weight: bold;"> <span style="color: rgb(51, 51, 255);">/etc/pacman.d/mirrorlist</span></span>, masukkan repo yang mendukung delta, salah satunya repo Delta Archlinux.fr</div>
+<p></p>
+<pre style="white-space: pre-wrap; overflow-x: auto; padding: 0.25em; margin: 0 0 0.50em 0; background-color: #F7F7F7; border: thin dashed #7F7F7F; border-top: none">##<br />## Arch Linux repository mirrorlist<br />## Generated on 2011-03-24<br />##<br /><br />## Delta Archlinux.fr<br />Server = http://delta.archlinux.fr/$repo/os/$arch<br />.....</pre>
+<p></p>
+<div style="text-align: justify;">3. Sebelum mengaktifkan repo delta, kita bisa cek dulu, gimana bedanya sebelum dan sesudah memakai deltup.</div>
+<div style="margin: 5px;">
+<div style="margin-bottom: 2px;"><i><span style="font-weight: bold;">Sebelum </span></i></div>
+<p>
+<div style="border: 1px inset ; margin: 0px; padding: 6px;">
+<div style="display: none;">
+<div style="padding: 0.5em; line-height: 1.1; background-color: #333; color: #eee; border: 1px solid #08c"><code>#  pacman -Syu</p>
+<p>:: Synchronizing package databases...<br />kde4-eyecandy-64 is up to date<br />core is up to date<br />extra is up to date<br />community is up to date<br />multilib is up to date<br />:: Starting full system upgrade...<br />warning: frozen-bubble: ignoring package upgrade (2.2.0-3 =&gt; 2.2.1beta1-1)<br />:: Replace lib32-libjpeg with multilib/lib32-libjpeg-turbo? [Y/n]<br />:: Replace vlc-plugin with extra/vlc? [Y/n]<br />warning: warmux: ignoring package upgrade (11.01-1 =&gt; 11.04.1-3)<br />resolving dependencies...<br />warning: dependency cycle detected:<br />warning: lib32-gcc-libs will be installed before its %s dependency gcc-libs-multilib<br />looking for inter-conflicts...</p>
+<p>Remove (2): lib32-libjpeg-8.3.0-1 [0,48 MB]  vlc-plugin-1.1.9-1 [0,13 MB]</p>
+<p>Total Removed Size:   0,61 MB</p>
+<p>Targets (147): attr-2.4.46-1 [0,06 MB]  acl-2.2.51-1 [0,13 MB]  acpid-2.0.10-2 [0,04 MB]<br />     lib32-gcc-libs-4.6.0-6 [0,71 MB]  gcc-libs-multilib-4.6.0-6 [0,73 MB]<br />     icu-4.8-1 [5,10 MB]  boost-libs-1.46.1-3 [1,49 MB]  libmysqlclient-5.5.13-1 [2,92 MB]<br />     mysql-clients-5.5.13-1 [0,79 MB]  mysql-5.5.13-1 [5,70 MB]  akonadi-1.5.3-2 [0,63 MB]<br />     util-linux-2.19.1-2 [1,37 MB]  apr-1.4.5-1 [0,22 MB]  apr-util-1.3.12-1 [0,14 MB]<br />     sqlite3-3.7.6.3-1 [0,36 MB]  glib2-2.28.8-1 [1,58 MB]  gstreamer0.10-0.10.34-1 [1,33 MB]<br />     gstreamer0.10-base-0.10.34-1 [1,13 MB]  gnutls-2.12.6.1-1 [1,49 MB]<br />     glib-networking-2.28.7-1 [0,04 MB]  libsoup-2.34.2-1 [0,30 MB]<br />     hunspell-1.3.2-1 [0,18 MB]  enchant-1.6.0-2 [0,03 MB]  libwebkit-1.4.1-1 [5,03 MB]<br />     pango-1.28.4-3 [0,48 MB]  gstreamer0.10-base-plugins-0.10.34-1 [0,16 MB]<br />     banshee-2.0.1-2 [2,57 MB]  binutils-multilib-2.21-8 [3,25 MB]  bison-2.5-1 [0,42 MB]<br />     bluez-4.93-2 [0,49 MB]  boost-1.46.1-3 [6,56 MB]  cairomm-1.10.0-1 [0,41 MB]<br />     ccrtp-1.8.0-1 [0,17 MB]  nspr-4.8.8-1 [0,22 MB]  nss-3.12.10-1 [1,37 MB]<br />     chromium-12.0.742.91-1 [19,41 MB]  consolekit-0.4.5-1 [0,08 MB]  gmp-5.0.2-1 [0,41 MB]<br />     coreutils-8.12-2 [2,00 MB]  module-init-tools-3.13-1 [0,34 MB]  udev-171-2 [0,20 MB]<br />     device-mapper-2.02.85-2 [0,12 MB]  cryptsetup-1.3.1-1 [0,09 MB]<br />     libssh2-1.2.7-2 [0,17 MB]  curl-7.21.6-2 [0,46 MB]  libgnome-keyring-3.0.3-1 [0,09 MB]<br />     libsoup-gnome-2.34.2-1 [0,01 MB]  icon-naming-utils-0.8.90-2 [0,01 MB]<br />     gnome-icon-theme-3.0.0-2 [8,21 MB]  libgweather-3.0.2-1 [2,15 MB]<br />     evolution-data-server-3.0.2.1-1 [2,48 MB]  fam-2.7.0-15 [0,07 MB]<br />     gstreamer0.10-good-0.10.29-1 [0,94 MB]  gstreamer0.10-bad-0.10.22-1 [0,83 MB]<br />     farsight2-0.0.28-2 [0,21 MB]  file-5.07-3 [0,19 MB]  nspluginwrapper-1.4.2-1 [0,13 MB]<br />     flashplugin-10.3.181.22-1 [6,02 MB]  gcc-multilib-4.6.0-6 [17,44 MB]<br />     glew-1.6.0-1 [0,28 MB]  startup-notification-0.12-1 [0,02 MB]  libcups-1.4.6-3 [0,26 MB]<br />     gtk3-3.0.11-1 [4,66 MB]  gnome-desktop-3.0.2-1 [0,48 MB]  libwnck3-3.0.2-1 [0,34 MB]<br />     telepathy-glib-0.14.7-1 [1,07 MB]  gnome-panel-3.0.2-1 [1,49 MB]  gperf-3.0.4-3 [0,09 MB]<br />     grep-2.8-1 [0,17 MB]  libjpeg-turbo-1.1.1-1 [0,20 MB]  v4l-utils-0.8.4-1 [0,23 MB]<br />     jack-0.120.2-1 [0,28 MB]  gstreamer0.10-good-plugins-0.10.29-1 [0,31 MB]<br />     gvfs-1.8.2-1 [0,80 MB]  help2man-1.39.4-1 [0,06 MB]  iproute2-2.6.38-3 [0,36 MB]<br />     kbd-1.15.3-1 [0,98 MB]  initscripts-2011.06.3-1 [0,02 MB]  poppler-0.16.5-1 [0,71 MB]<br />     poppler-glib-0.16.5-1 [0,17 MB]  inkscape-0.48.1-3 [12,51 MB]<br />     inputproto-2.0.2-1 [0,04 MB]  jre-6u26-1 [20,85 MB]  kdesdk-okteta-4.6.3-2 [0,54 MB]<br />     kdesdk-scripts-4.6.3-2 [0,17 MB]  linux-firmware-20110512-2 [9,17 MB]<br />     mkinitcpio-busybox-1.18.4-1 [0,16 MB]  mkinitcpio-0.6.12-1 [0,02 MB]<br />     kernel26-2.6.38.8-1 [35,93 MB]  kernel26-headers-2.6.38.8-1 [4,18 MB]<br />     laptop-mode-tools-1.57-3 [0,05 MB]  less-443-2 [0,09 MB]<br />     lib32-libjpeg-turbo-1.1.1-1 [0,14 MB]  libass-0.9.12-1 [0,06 MB]<br />     libdvbpsi-0.2.0-1 [0,05 MB]  libftdi-0.19-1 [0,04 MB]  libgsf-1.14.21-1 [0,18 MB]<br />     libgssglue-0.1-4 [0,03 MB]  libwps-0.2.2-1 [0,04 MB]  neon-0.29.6-1 [0,17 MB]<br />     libtextcat-2.2-8 [0,29 MB]  libreoffice-3.4.0-2 [73,84 MB]<br />     libreoffice-ru-3.4.0-1 [7,76 MB]  libssh-0.5.0-1 [0,11 MB]<br />     libvncserver-0.9.8-2 [0,23 MB]  libzrtpcpp-1.4.2-5 [0,09 MB]  lvm2-2.02.85-2 [0,54 MB]<br />     lzo2-2.05-1 [0,07 MB]  make-3.82-3 [0,34 MB]  man-db-2.6.0.2-2 [0,38 MB]<br />     mercurial-1.8.4-1 [1,36 MB]  net-tools-1.60-16 [0,10 MB]  qt-4.7.3-2 [24,12 MB]<br />     ntrack-1:13-2 [0,03 MB]  parted-2.4-1 [0,47 MB]  perl-capture-tiny-0.11-1 [0,01 MB]<br />     php-5.3.6-4 [2,90 MB]  php-pear-5.3.6-4 [0,24 MB]  pixman-0.22.0-1 [0,16 MB]<br />     pkg-config-0.26-1 [0,03 MB]  poppler-qt-0.16.5-1 [0,11 MB]  raptor-2.0.3-1 [0,23 MB]<br />     skype-2.2.0.35-1 [21,56 MB]  sox-14.3.2-3 [0,49 MB]  strigi-0.7.5-1 [0,67 MB]<br />     sudo-1.8.1.p2-1 [0,37 MB]  telepathy-farsight-0.0.18-1 [0,04 MB]<br />     telepathy-qt4-0.6.1-1 [1,16 MB]  twinkle-1.4.2-10 [1,23 MB]  udisks-1.0.3-3 [0,15 MB]<br />     upower-0.9.11-1 [0,09 MB]  virtualbox-4.0.8-2 [16,53 MB]  vlc-1.1.10-1 [7,07 MB]<br />     vte-common-0.28.0-2 [0,00 MB]  vte-0.28.0-2 [0,33 MB]  vte3-0.28.0-2 [0,32 MB]<br />     webkit-sharp-0.3-2 [0,02 MB]  wine-1.3.21-2 [25,78 MB]  xorg-iceauth-1.0.5-1 [0,01 MB]<br />     xorg-server-common-1.10.2-1 [0,02 MB]  xorg-server-1.10.2-1 [1,21 MB]<br />     xorg-xauth-1.0.6-1 [0,02 MB]  xorg-xlsclients-1.1.2-1 [0,01 MB]  xterm-270-1 [0,22 MB]<br />     xulrunner-2.0.1-2 [18,57 MB]  xvidcore-1.3.2-1 [0,25 MB]  xz-5.0.3-1 [0,31 MB]</p>
+<p>Total Download Size:   416,89 MB<br />Total Installed Size:   1933,56 MB</p>
+<p>Proceed with installation? [Y/n]</code></div>
+</p></div>
+</div>
+</div>
+<p>Total update 416,89 MB. Pilih N untuk membatalkan.</p>
+<div style="text-align: justify;">4. Edit file <span style="font-weight: bold; color: rgb(51, 51, 255);">/etc/pacman.conf</span>, buang komentar (tanda #) pada pilihan UseDelta, jadinya seperti ini:</div>
+<p></p>
+<pre style="white-space: pre-wrap; overflow-x: auto; padding: 0.25em; margin: 0 0 0.50em 0; background-color: #F7F7F7; border: thin dashed #7F7F7F; border-top: none">.....<br /># Misc options (all disabled by default)<br />#UseSyslog<br />ShowSize<br />UseDelta<br />TotalDownload<br />.....</pre>
+<div style="text-align: justify;">5. Sekarang kita coba lagi setelah mengaktifkan deltup,</div>
+<p></p>
+<div style="margin: 5px;">
+<div style="margin-bottom: 2px;"><i><span style="font-weight: bold;">Sesudah </span></i></div>
+<p>
+<div style="border: 1px inset ; margin: 0px; padding: 6px;">
+<div style="display: none;">
+<div style="padding: 0.5em; line-height: 1.1; background-color: #333; color: #eee; border: 1px solid #08c"><code># pacman -Syu</p>
+<p>:: Synchronizing package databases...<br />kde4-eyecandy-64 is up to date<br />core is up to date<br />extra is up to date<br />community is up to date<br />multilib is up to date<br />:: Starting full system upgrade...<br />warning: frozen-bubble: ignoring package upgrade (2.2.0-3 =&gt; 2.2.1beta1-1)<br />:: Replace lib32-libjpeg with multilib/lib32-libjpeg-turbo? [Y/n]<br />:: Replace vlc-plugin with extra/vlc? [Y/n]<br />warning: warmux: ignoring package upgrade (11.01-1 =&gt; 11.04.1-3)<br />resolving dependencies...<br />warning: dependency cycle detected:<br />warning: lib32-gcc-libs will be installed before its %s dependency gcc-libs-multilib<br />looking for inter-conflicts...</p>
+<p>Remove (2): lib32-libjpeg-8.3.0-1 [0,48 MB]  vlc-plugin-1.1.9-1 [0,13 MB]</p>
+<p>Total Removed Size:   0,61 MB</p>
+<p>Targets (147): attr-2.4.46-1 [0,06 MB]  acl-2.2.51-1 [0,13 MB]  acpid-2.0.10-2 [0,04 MB]<br />       lib32-gcc-libs-4.6.0-6 [0,71 MB]  gcc-libs-multilib-4.6.0-6 [0,73 MB]<br />       icu-4.8-1 [5,10 MB]  boost-libs-1.46.1-3 [1,49 MB]  libmysqlclient-5.5.13-1 [2,92 MB]<br />       mysql-clients-5.5.13-1 [0,79 MB]  mysql-5.5.13-1 [5,70 MB]  akonadi-1.5.3-2 [0,63 MB]<br />       util-linux-2.19.1-2 [1,37 MB]  apr-1.4.5-1 [0,22 MB]  apr-util-1.3.12-1 [0,14 MB]<br />       sqlite3-3.7.6.3-1 [0,36 MB]  glib2-2.28.8-1 [1,58 MB]  gstreamer0.10-0.10.34-1 [1,33 MB]<br />       gstreamer0.10-base-0.10.34-1 [1,13 MB]  gnutls-2.12.6.1-1 [1,49 MB]<br />       glib-networking-2.28.7-1 [0,04 MB]  libsoup-2.34.2-1 [0,30 MB]<br />       hunspell-1.3.2-1 [0,18 MB]  enchant-1.6.0-2 [0,03 MB]  libwebkit-1.4.1-1 [5,03 MB]<br />       pango-1.28.4-3 [0,48 MB]  gstreamer0.10-base-plugins-0.10.34-1 [0,16 MB]<br />       banshee-2.0.1-2 [2,57 MB]  binutils-multilib-2.21-8 [3,25 MB]  bison-2.5-1 [0,42 MB]<br />       bluez-4.93-2 [0,49 MB]  boost-1.46.1-3 [6,56 MB]  cairomm-1.10.0-1 [0,41 MB]<br />       ccrtp-1.8.0-1 [0,17 MB]  nspr-4.8.8-1 [0,22 MB]  nss-3.12.10-1 [1,37 MB]<br />       chromium-12.0.742.91-1 [19,41 MB]  consolekit-0.4.5-1 [0,08 MB]  gmp-5.0.2-1 [0,41 MB]<br />       coreutils-8.12-2 [2,00 MB]  module-init-tools-3.13-1 [0,34 MB]  udev-171-2 [0,20 MB]<br />       device-mapper-2.02.85-2 [0,12 MB]  cryptsetup-1.3.1-1 [0,09 MB]<br />       libssh2-1.2.7-2 [0,17 MB]  curl-7.21.6-2 [0,46 MB]  libgnome-keyring-3.0.3-1 [0,09 MB]<br />       libsoup-gnome-2.34.2-1 [0,01 MB]  icon-naming-utils-0.8.90-2 [0,01 MB]<br />       gnome-icon-theme-3.0.0-2 [8,21 MB]  libgweather-3.0.2-1 [2,15 MB]<br />       evolution-data-server-3.0.2.1-1 [2,48 MB]  fam-2.7.0-15 [0,07 MB]<br />       gstreamer0.10-good-0.10.29-1 [0,94 MB]  gstreamer0.10-bad-0.10.22-1 [0,83 MB]<br />       farsight2-0.0.28-2 [0,21 MB]  file-5.07-3 [0,19 MB]  nspluginwrapper-1.4.2-1 [0,13 MB]<br />       flashplugin-10.3.181.22-1 [6,02 MB]  gcc-multilib-4.6.0-6 [17,44 MB]<br />       glew-1.6.0-1 [0,28 MB]  startup-notification-0.12-1 [0,02 MB]  libcups-1.4.6-3 [0,26 MB]<br />       gtk3-3.0.11-1 [4,66 MB]  gnome-desktop-3.0.2-1 [0,48 MB]  libwnck3-3.0.2-1 [0,34 MB]<br />       telepathy-glib-0.14.7-1 [1,07 MB]  gnome-panel-3.0.2-1 [1,49 MB]  gperf-3.0.4-3 [0,09 MB]<br />       grep-2.8-1 [0,17 MB]  libjpeg-turbo-1.1.1-1 [0,20 MB]  v4l-utils-0.8.4-1 [0,23 MB]<br />       jack-0.120.2-1 [0,28 MB]  gstreamer0.10-good-plugins-0.10.29-1 [0,31 MB]<br />       gvfs-1.8.2-1 [0,80 MB]  help2man-1.39.4-1 [0,06 MB]  iproute2-2.6.38-3 [0,36 MB]<br />       kbd-1.15.3-1 [0,98 MB]  initscripts-2011.06.3-1 [0,02 MB]  poppler-0.16.5-1 [0,71 MB]<br />       poppler-glib-0.16.5-1 [0,17 MB]  inkscape-0.48.1-3 [12,51 MB]<br />       inputproto-2.0.2-1 [0,04 MB]  jre-6u26-1 [20,85 MB]  kdesdk-okteta-4.6.3-2 [0,54 MB]<br />       kdesdk-scripts-4.6.3-2 [0,17 MB]  linux-firmware-20110512-2 [9,17 MB]<br />       mkinitcpio-busybox-1.18.4-1 [0,16 MB]  mkinitcpio-0.6.12-1 [0,02 MB]<br />       kernel26-2.6.38.8-1 [35,93 MB]  kernel26-headers-2.6.38.8-1 [4,18 MB]<br />       laptop-mode-tools-1.57-3 [0,05 MB]  less-443-2 [0,09 MB]<br />       lib32-libjpeg-turbo-1.1.1-1 [0,14 MB]  libass-0.9.12-1 [0,06 MB]<br />       libdvbpsi-0.2.0-1 [0,05 MB]  libftdi-0.19-1 [0,04 MB]  libgsf-1.14.21-1 [0,18 MB]<br />       libgssglue-0.1-4 [0,03 MB]  libwps-0.2.2-1 [0,04 MB]  neon-0.29.6-1 [0,17 MB]<br />       libtextcat-2.2-8 [0,29 MB]  libreoffice-3.4.0-2 [73,84 MB]<br />       libreoffice-ru-3.4.0-1 [7,76 MB]  libssh-0.5.0-1 [0,11 MB]<br />       libvncserver-0.9.8-2 [0,23 MB]  libzrtpcpp-1.4.2-5 [0,09 MB]  lvm2-2.02.85-2 [0,54 MB]<br />       lzo2-2.05-1 [0,07 MB]  make-3.82-3 [0,34 MB]  man-db-2.6.0.2-2 [0,38 MB]<br />       mercurial-1.8.4-1 [1,36 MB]  net-tools-1.60-16 [0,10 MB]  qt-4.7.3-2 [24,12 MB]<br />       ntrack-1:13-2 [0,03 MB]  parted-2.4-1 [0,47 MB]  perl-capture-tiny-0.11-1 [0,01 MB]<br />       php-5.3.6-4 [2,90 MB]  php-pear-5.3.6-4 [0,24 MB]  pixman-0.22.0-1 [0,16 MB]<br />       pkg-config-0.26-1 [0,03 MB]  poppler-qt-0.16.5-1 [0,11 MB]  raptor-2.0.3-1 [0,23 MB]<br />       skype-2.2.0.35-1 [21,56 MB]  sox-14.3.2-3 [0,49 MB]  strigi-0.7.5-1 [0,67 MB]<br />       sudo-1.8.1.p2-1 [0,37 MB]  telepathy-farsight-0.0.18-1 [0,04 MB]<br />       telepathy-qt4-0.6.1-1 [1,16 MB]  twinkle-1.4.2-10 [1,23 MB]  udisks-1.0.3-3 [0,15 MB]<br />       upower-0.9.11-1 [0,09 MB]  virtualbox-4.0.8-2 [16,53 MB]  vlc-1.1.10-1 [7,07 MB]<br />       vte-common-0.28.0-2 [0,00 MB]  vte-0.28.0-2 [0,33 MB]  vte3-0.28.0-2 [0,32 MB]<br />       webkit-sharp-0.3-2 [0,02 MB]  wine-1.3.21-2 [25,78 MB]  xorg-iceauth-1.0.5-1 [0,01 MB]<br />       xorg-server-common-1.10.2-1 [0,02 MB]  xorg-server-1.10.2-1 [1,21 MB]<br />       xorg-xauth-1.0.6-1 [0,02 MB]  xorg-xlsclients-1.1.2-1 [0,01 MB]  xterm-270-1 [0,22 MB]<br />       xulrunner-2.0.1-2 [18,57 MB]  xvidcore-1.3.2-1 [0,25 MB]  xz-5.0.3-1 [0,31 MB]</p>
+<p>Total Download Size:   343,15 MB<br />Total Installed Size:   1933,56 MB</p>
+<p>Proceed with installation? [Y/n]</code></div>
+</p></div>
+</div>
+</div>
+<p></p>
+<div style="text-align: justify;">Setelah menggunakan deltup, update menjadi 343,15 MB.</div>
+<div style="text-align: justify;"></div>
+<div style="text-align: justify;">Itu tadi langkah-langkahnya. Perlu diperhatikan, terkadang (hanya beberapa kasus sih) delta gagal untuk rebuild paket, jadi terpaksa harus donlot dan instal manual.</div>
+<p>referensi:<a href="http://adf.ly/3KK8l"> archlinux wiki</a></p>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in Tak Berkategori</span> <span class="sep"> |</span>		
+				
+							<span>1,343 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-200 -->
+
+				
+					<article id="post-218" class="post-218 post type-post status-publish format-standard hentry tag-komputer tag-tutorial-gnulinux">
+	<header class="entry-header">
+						<h1 class="entry-title">
+			<a href="index-164.html" title="Permalink to Boot File ISO Langsung dari GRUB2" rel="bookmark">Boot File ISO Langsung dari GRUB2</a>
+		</h1>
+	</header>
+	<!-- .entry-header -->
+
+	<div class="entry-content">
+
+				
+						
+			<div style="text-align: justify;">Tujuan: booting CD installer atau LIVE CD GNU/LINUX tanpa harus membakar ke CD atau flashdisk.</p>
+<p>Bahan2 percobaan:<br />1. File ISO Puppy Linux,<br />2. GRUB2 yang sudah terinstal (Saya pake GRUB2 di Ubuntu Lucid).</p>
+<p>Langkah-langkah:<a name='more'></a></p>
+<p>1. buka /etc/grub.d/40_custom (sebagai root)<br />2. Masukkan menu entry puppy, kita misalkan file .iso puppy ada di partisi sda6, di folder Gukguk, ini contohnya:</p>
+</div>
+<div style="text-align: justify;">
+<pre></pre>
+<p>#!/bin/sh<br />echo &#8220;add entry&#8221; &gt;&amp;2</p>
+<p>exec tail -n +3 $0<br /># This file provides an easy way to add custom menu entries.  Simply type the<br /># menu entries you want to add after this comment.  Be careful not to change<br /># the &#8216;exec tail&#8217; line above.</p>
+<p>cat &lt;&lt; EOF</p>
+<p>menuentry &#8220;Maverick &#8211; Live CD&#8221; {<br />loopback loop (hd0,6)/ihsan/ubuntu-10.10-desktop-i386.iso</p>
+<p>linux (loop)/casper/vmlinuz boot=casper iso-scan/filename=/iso/ubuntu-10.10-desktop-i386.iso noprompt noeject<br />initrd (loop)/casper/initrd.lz<br />}</p>
+<p>menuentry &#8220;Quirky 140 &#8211; Live CD&#8221; {<br />loopback loop (hd0,6)/Gukguk/qrky-140.iso<br />linux (loop)/vmlinuz<br />initrd (loop)/initrd.gz<br />}</p>
+<p>menuentry &#8220;Puppy 520 &#8211; Live CD&#8221; {</p>
+<p>loopback loop (hd0,6)/Gukguk/lupu-520.iso<br />linux (loop)/vmlinuz<br />initrd (loop)/initrd.gz<br />}</p>
+<p>EOF</div>
+<div style="text-align: justify;">
+<p>keterangan sda6 = (hd0,6)</p>
+<p>3. Coba cek dulu /etc/default/grub, pastikan dikasih time out agar GRUB2-nya nongol</p>
+<p>GRUB_TIMEOUT=10</p>
+<p>buat nongolin menu entry GRUB2 selama 10 detik</p>
+<p>4. Setelah selesai, ketik sudo update-grub<br />Reboot, insyaAlloh Puppy Live CD bisa muncul di pilihan&#8230;</div>
+			
+			</div>
+	<!-- .entry-content -->
+
+		
+	<footer class="entry-meta">
+
+							<span class="cat-links">in Tak Berkategori</span> <span class="sep"> |</span>		
+				
+							<span>203 Words</span>		
+				
+				
+	</footer>
+	<!-- .entry-meta -->
+</article><!-- #post-218 -->
+
+				
+				
+			
+		</main>
+		<!-- #content .site-content -->
+	</section><!-- #primary .content-area -->
+
+<div id="secondary" class="widget-area" role="complementary">
+					<aside id="text-10" class="widget widget_text">			<div class="textwidget"><iframe src="https://duckduckgo.com/search.html?width=100&amp;site=http://www.ariswanto.web.id&amp;prefill=Pencarian" style="overflow:hidden;margin:0;padding:0;width:258px;height:40px;" frameborder="0"></iframe></div>
+		</aside>		<aside id="recent-posts-4" class="widget widget_recent_entries">		<h1 class="widget-title">TULISAN TERBARU</h1>		<ul>
+					<li>
+				<a href="index-9.html">Catatan Awal Musim untuk “Star Wars: Rebels” Season 2</a>
+						</li>
+					<li>
+				<a href="index-11.html">Bahaya Kehabisan Pulsa dalam LDR</a>
+						</li>
+					<li>
+				<a href="index-12.html">Bayi Baru Saya: Wulangreh.com</a>
+						</li>
+					<li>
+				<a href="index-13.html">Menyikapi Penghinaan dalam Alam Kebebasan Berbicara Ini</a>
+						</li>
+					<li>
+				<a href="index-14.html">Antara Rukun Islam Keempat dan Mama Google</a>
+						</li>
+				</ul>
+		</aside><aside id="archives-2" class="widget widget_archive"><h1 class="widget-title">ARSIP</h1>		<ul>
+	<li><a href='index-22.html'>Oktober 2015</a>&nbsp;(2)</li>
+	<li><a href='index-23.html'>September 2015</a>&nbsp;(3)</li>
+	<li><a href='index-24.html'>Agustus 2015</a>&nbsp;(4)</li>
+	<li><a href='index-25.html'>Juli 2015</a>&nbsp;(2)</li>
+	<li><a href='index-26.html'>Mei 2015</a>&nbsp;(6)</li>
+	<li><a href='index-27.html'>April 2015</a>&nbsp;(1)</li>
+	<li><a href='index-28.html'>April 2014</a>&nbsp;(2)</li>
+	<li><a href='index-29.html'>Desember 2013</a>&nbsp;(1)</li>
+	<li><a href='index-30.html'>November 2013</a>&nbsp;(2)</li>
+	<li><a href='index-31.html'>Juli 2013</a>&nbsp;(1)</li>
+	<li><a href='index-32.html'>April 2013</a>&nbsp;(1)</li>
+	<li><a href='index-33.html'>Maret 2013</a>&nbsp;(5)</li>
+	<li><a href='index-34.html'>Februari 2013</a>&nbsp;(1)</li>
+	<li><a href='index-35.html'>Desember 2012</a>&nbsp;(1)</li>
+	<li><a href='index-36.html'>November 2012</a>&nbsp;(1)</li>
+	<li><a href='index-37.html'>Oktober 2012</a>&nbsp;(1)</li>
+	<li><a href='index-38.html'>September 2012</a>&nbsp;(1)</li>
+	<li><a href='index-39.html'>Juni 2012</a>&nbsp;(2)</li>
+	<li><a href='index-40.html'>Mei 2012</a>&nbsp;(1)</li>
+	<li><a href='index-41.html'>Maret 2012</a>&nbsp;(13)</li>
+	<li><a href='index-42.html'>Januari 2012</a>&nbsp;(3)</li>
+	<li><a href='index-43.html'>Desember 2011</a>&nbsp;(6)</li>
+	<li><a href='index-44.html'>November 2011</a>&nbsp;(3)</li>
+	<li><a href='index-45.html'>Oktober 2011</a>&nbsp;(8)</li>
+	<li><a href='index-46.html'>Juli 2011</a>&nbsp;(1)</li>
+	<li><a href='index-47.html'>Mei 2011</a>&nbsp;(3)</li>
+	<li><a href='index-48.html'>April 2011</a>&nbsp;(7)</li>
+	<li><a href='index-49.html'>Januari 2011</a>&nbsp;(1)</li>
+	<li><a href='index-50.html'>Juli 2010</a>&nbsp;(4)</li>
+		</ul>
+</aside><aside id="categories-2" class="widget widget_categories"><h1 class="widget-title">KATEGORI</h1><label class="screen-reader-text" for="cat">KATEGORI</label><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Pilih Kategori</option>
+	<option class="level-0" value="72">ADVERTORIAL&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="23">CATATAN&nbsp;&nbsp;(6)</option>
+	<option class="level-1" value="24">&nbsp;&nbsp;&nbsp;Buku&nbsp;&nbsp;(3)</option>
+	<option class="level-1" value="30">&nbsp;&nbsp;&nbsp;Serial TV&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="6">INFO&nbsp;&nbsp;(15)</option>
+	<option class="level-1" value="57">&nbsp;&nbsp;&nbsp;Tips dan Trik&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="1">LAIN-LAIN&nbsp;&nbsp;(18)</option>
+	<option class="level-0" value="11">OPINI&nbsp;&nbsp;(10)</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;Politik&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="2">ZIARAH BUKU&nbsp;&nbsp;(1)</option>
+	<option class="level-1" value="3">&nbsp;&nbsp;&nbsp;Kafe Buku&nbsp;&nbsp;(1)</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			location.href = "http://localhost/ariswant/?cat=" + dropdown.options[ dropdown.selectedIndex ].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside><aside id="recent-comments-4" class="widget widget_recent_comments"><h1 class="widget-title">Komentar</h1><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='http://www.ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-74">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='https://plus.google.com/+NaqiyyahSyam' rel='external nofollow' class='url'>Naqiyyah Syam</a></span> pada <a href="index-11.html#comment-73">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-72">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.tipspengembangandiri.com/' rel='external nofollow' class='url'>Herman Yudiono</a></span> pada <a href="index-11.html#comment-71">Bahaya Kehabisan Pulsa dalam LDR</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://ariswanto.web.id/' rel='external nofollow' class='url'>Ihsan Ariswanto</a></span> pada <a href="index-11.html#comment-68">Bahaya Kehabisan Pulsa dalam LDR</a></li></ul></aside>	</div><!-- #secondary .widget-area -->
+
+</div><!-- #main .site-main -->
+
+<footer id="colophon" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter" role="contentinfo">
+	<div class="site-info">
+		<a href="http://independentpublisher.me/" rel="designer" title="Independent Publisher: A beautiful reader-focused WordPress theme, for you.">Independent Publisher</a> empowered by <a href="http://wordpress.org/" rel="generator" title="WordPress: A free open-source publishing platform">WordPress</a>	</div>
+	<!-- .site-info -->
+</footer><!-- #colophon .site-footer -->
+</div><!-- #page .hfeed .site -->
+
+<script type='text/javascript' src='images/skip-link-focus-fix08e0.js?ver=20130115'></script>
+
+</body>
+
+<!-- Mirrored from localhost/ariswant/tag/tutorial-gnulinux/ by HTTrack Website Copier/3.x [XR&CO'2013], Mon, 16 Nov 2015 13:54:24 GMT -->
+</html>
