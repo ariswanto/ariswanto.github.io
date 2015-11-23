@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            Ihsan Ariswanto
 tagline:          'blog pribadi'
-description:      'Blog ini adalah kelanjutan dari blog sebelumnya <a href="https://www.ariswanto.web.id/arsip/index.html">(2010-2015)</a> yang sekarang sudah diarsipkan.'
-url:              https://www.ariswanto.web.id
+description:      'Blog ini adalah kelanjutan dari blog sebelumnya <a href="http://www.ariswanto.web.id/arsip/index.html">(2010-2015)</a> yang sekarang sudah diarsipkan.'
+url:              http://www.ariswanto.web.id
 
 author:
   name:           'Ihsan Ariswanto'

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Arsip Blog (2010-2015)
-permalink: /arsip/
 ---
 Blog ini punya sejarah panjang, walaupun memang tulisannya tidak banyak. Berawal dari tahun 2010, ketika saya iseng menulis di blogspot dengan domain ariswanto.tk. Setelah membeli domain ariswanto.web.id, isi blog dipisah, ariswanto.tk berisi tulisan mengenai komputer dan ariswanto.web.id berisi tulisan pribadi.
 
