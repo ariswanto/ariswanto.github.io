@@ -1,19 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Dependencies
+markdown:         redcarpet
+highlight:         true
 
-# Site settings
-title: Ihsan Ariswanto
-#email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Blog pribadi Ihsan Ariswanto.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-twitter_username: IhsanAriswanto
-github_username:  ariswanto
+# Permalinks
+permalink:        pretty
 
-# Build settings
-markdown: kramdown
+# Setup
+title:            Ihsan Ariswanto
+tagline:          'blog pribadi'
+description:      'Blog ini adalah kelanjutan dari blog sebelumnya <a href="http://www.ariswanto.web.id/arsip/index.html">(2010-2015)</a> yang sekarang sudah diarsipkan.'
+url:              http://www.ariswanto.web.id
+
+author:
+  name:           'Ihsan Ariswanto'
+  url:            https://twitter.com/IhsanAriswanto
+
+paginate:         5
+
+# Custom vars
+#version:          15.09
+
+#github:
+#  repo:           https://github.com/ariswanto/ariswanto.github.io
