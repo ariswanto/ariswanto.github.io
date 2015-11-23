@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pindahan Selesai, Selamat Datang di Rumah Baru
-categories: others
+category: lain-lain
 ---
 
 Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
