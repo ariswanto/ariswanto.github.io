@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Pindahan Selesai, Selamat Datang di Rumah Baru
-category: others
+categories: others
 ---
+
 Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
 Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit yang satu ini memang parah.
