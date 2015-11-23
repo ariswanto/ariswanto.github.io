@@ -1,30 +1,27 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Ihsan Ariswanto</title>
+    <description>Blog ini adalah kelanjutan dari blog sebelumnya &lt;a href=&quot;http://www.ariswanto.web.id/arsip/index.html&quot;&gt;(2010-2015)&lt;/a&gt; yang sekarang sudah diarsipkan.</description>
+    <link>http://www.ariswanto.web.id/</link>
+    <atom:link href="http://www.ariswanto.web.id/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Nov 2015 03:14:50 +0700</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 03:14:50 +0700</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Pindahan Selesai, Selamat Datang di Rumah Baru</title>
+        <description>&lt;p&gt;Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
+Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit yang satu ini memang parah.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 00:00:00 +0700</pubDate>
+        <link>http://www.ariswanto.web.id/lain-lain/2015/11/24/pindahan-selesai/</link>
+        <guid isPermaLink="true">http://www.ariswanto.web.id/lain-lain/2015/11/24/pindahan-selesai/</guid>
+        
+        
+        <category>lain-lain</category>
+        
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>

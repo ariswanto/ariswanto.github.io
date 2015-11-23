@@ -1,28 +1,26 @@
----
-layout: nil
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>Ihsan Ariswanto</title>
+ <link href="http://www.ariswanto.web.id/atom.xml" rel="self"/>
+ <link href="http://www.ariswanto.web.id/"/>
+ <updated>2015-11-24T03:14:50+07:00</updated>
+ <id>http://www.ariswanto.web.id</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Ihsan Ariswanto</name>
+   <email></email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="{{ site.url }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Pindahan Selesai, Selamat Datang di Rumah Baru</title>
+   <link href="http://www.ariswanto.web.id/lain-lain/2015/11/24/pindahan-selesai/"/>
+   <updated>2015-11-24T00:00:00+07:00</updated>
+   <id>http://www.ariswanto.web.id/lain-lain/2015/11/24/pindahan-selesai</id>
+   <content type="html">&lt;p&gt;Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
+Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit yang satu ini memang parah.&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
 
 </feed>
