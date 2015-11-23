@@ -5,9 +5,23 @@
     <description>Blog ini adalah kelanjutan dari blog sebelumnya &lt;a href=&quot;http://www.ariswanto.web.id/arsip/index.html&quot;&gt;(2010-2015)&lt;/a&gt; yang sekarang sudah diarsipkan.</description>
     <link>http://www.ariswanto.web.id/</link>
     <atom:link href="http://www.ariswanto.web.id/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Nov 2015 01:24:50 +0700</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2015 01:24:50 +0700</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2015 01:47:49 +0700</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 01:47:49 +0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Pindahan Selesai, Selamat Datang di Rumah Baru</title>
+        <description>&lt;p&gt;Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
+Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit yang satu ini memang parah.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 00:00:00 +0700</pubDate>
+        <link>http://www.ariswanto.web.id/others/2015/11/24/pindahan-selesai/</link>
+        <guid isPermaLink="true">http://www.ariswanto.web.id/others/2015/11/24/pindahan-selesai/</guid>
+        
+        
+        <category>others</category>
+        
+      </item>
     
   </channel>
 </rss>
