@@ -5,15 +5,15 @@
     <description>Blog ini adalah kelanjutan dari blog sebelumnya &lt;a href=&quot;http://www.ariswanto.web.id/arsip/index.html&quot;&gt;(2010-2015)&lt;/a&gt; yang sekarang sudah diarsipkan.</description>
     <link>http://www.ariswanto.web.id/</link>
     <atom:link href="http://www.ariswanto.web.id/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2015 00:54:40 +0700</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2015 00:54:40 +0700</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2015 00:58:05 +0700</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 00:58:05 +0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
         <title>(Masih) Belum Nyaman dengan KDE</title>
         <description>&lt;p&gt;Sebagaimana kebanyakan orang pada generasi saya, saya pun &lt;em&gt;dimualafkan&lt;/em&gt; ke GNU garis miring Linux oleh Ubuntu. Tentu saja, dengan desktop Gnome. Mungkin karena sebab itu, KDE terasa asing untuk saya.&lt;/p&gt;
 
-&lt;p&gt;Keadaan ini diperparah lagi dengan pengalaman kurang menyenangkan saat mencoba KDE di berbagai distro. Pernah memakai Chakra di tahun mendapatinya sangat lambat menjalankan KDE. Di Slackware, racikan KDE-nya terasa kurang sempurna, selalu ada saja permasalahan kecil namun mengganggu. Terakhir, waktu pasang OpenSuSe dengan desktop KDE, laptop mati kepanasan saat melakukan update software.&lt;/p&gt;
+&lt;p&gt;Keadaan ini diperparah lagi dengan pengalaman kurang menyenangkan saat mencoba KDE di berbagai distro. Pernah memakai Chakra dan mendapatinya sangat lambat menjalankan KDE. Di Slackware, racikan KDE-nya terasa kurang sempurna, selalu ada saja permasalahan kecil namun mengganggu. Terakhir, waktu pasang OpenSuSe dengan desktop KDE, laptop mati kepanasan saat melakukan update software.&lt;/p&gt;
 
 &lt;p&gt;Selain racikan distronya, software-software di KDE sendiri membuat saya agak bingung. Misalnya saja Konqueror vs Dolphin, mengapa harus ada dua &lt;em&gt;file manager&lt;/em&gt;? Atau KDE Panel, yang saat menyeret-nyeret widget, berakhir menjadi berantakan. Aplikasi KDE punya hobi untuk &lt;em&gt;ngendon&lt;/em&gt; di baki panel, ini juga sempat membuat bingung. Belum lagi &lt;em&gt;activities&lt;/em&gt; yang awalnya saya benar-benar tidak tahu apa fungsinya.&lt;/p&gt;
 
