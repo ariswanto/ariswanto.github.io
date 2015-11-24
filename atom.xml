@@ -4,7 +4,7 @@
  <title>Ihsan Ariswanto</title>
  <link href="http://www.ariswanto.web.id/atom.xml" rel="self"/>
  <link href="http://www.ariswanto.web.id/"/>
- <updated>2015-11-24T03:33:11+07:00</updated>
+ <updated>2015-11-24T10:37:10+07:00</updated>
  <id>http://www.ariswanto.web.id</id>
  <author>
    <name>Ihsan Ariswanto</name>
@@ -19,6 +19,25 @@
    <id>http://www.ariswanto.web.id/lain-lain/2015/11/24/pindahan-selesai</id>
    <content type="html">&lt;p&gt;Setelah ke sana dan ke sini mencari tutorial Jekyll, akhirnya wadah baru untuk blog ini selesai juga.
 Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit yang satu ini memang parah.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Masalah Laptop Kepanasan Sudah Teratasi dengan Thermald</title>
+   <link href="http://www.ariswanto.web.id/komputer/2015/11/24/masalah-laptop-kepanasan-kelar-sudah/"/>
+   <updated>2015-11-24T00:00:00+07:00</updated>
+   <id>http://www.ariswanto.web.id/komputer/2015/11/24/masalah-laptop-kepanasan-kelar-sudah</id>
+   <content type="html">&lt;p&gt;Ke mana saja saya selama ini ya? Baru tahu ada &lt;em&gt;daemon&lt;/em&gt; khusus Intel untuk 
+mengatur temperatur prosesor. Namanya thermald (&lt;a href=&quot;https://01.org/linux-thermal-daemon&quot;&gt;linux thermal daemon&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Selama ini saya manual saja menjaga laptop agar tidak panas. Tidak menjalankan aplikasi berat, menghindari kompilasi, sampai-sampai 
+tak berani memakai KDE karena Nepomuk-nya bisa membuat laptop mati karena kepanasan saat mengindeks.&lt;/p&gt;
+
+&lt;p&gt;Atau jangan-jangan saya dulu pernah tahu thermald, kemudian lupa. Soalnya dulu tidak pernah kena masalah panas saat memakai KDE di Slackware.&lt;/p&gt;
+
+&lt;p&gt;Thermald ini menjaga kinerja prosesor. Kalau prosesor terlalu kencang bekerja sampai mendekati panas, thermald akan menyuruh prosesor untuk &lt;em&gt;alon-alon wae mas&lt;/em&gt;. Kalau sudah turun suhunya, baru digeber lagi. Demikian seterusnya.&lt;/p&gt;
+
+&lt;p&gt;Saya instal thermald dari &lt;a href=&quot;http://slackbuilds.org/repository/14.1/system/thermal_daemon&quot;&gt;slackbuilds&lt;/a&gt;, dan masalah kepanasan selesai sudah.&lt;/p&gt;
 </content>
  </entry>
  

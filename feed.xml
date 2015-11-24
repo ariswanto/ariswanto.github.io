@@ -5,8 +5,8 @@
     <description>Blog ini adalah kelanjutan dari blog sebelumnya &lt;a href=&quot;http://www.ariswanto.web.id/arsip/index.html&quot;&gt;(2010-2015)&lt;/a&gt; yang sekarang sudah diarsipkan.</description>
     <link>http://www.ariswanto.web.id/</link>
     <atom:link href="http://www.ariswanto.web.id/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Nov 2015 03:33:11 +0700</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2015 03:33:11 +0700</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2015 10:37:10 +0700</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2015 10:37:10 +0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -20,6 +20,29 @@ Tinggal mengisi dengan tulisan, itu juga kalau saya tidak malas. Haduh. Penyakit
         
         
         <category>lain-lain</category>
+        
+      </item>
+    
+      <item>
+        <title>Masalah Laptop Kepanasan Sudah Teratasi dengan Thermald</title>
+        <description>&lt;p&gt;Ke mana saja saya selama ini ya? Baru tahu ada &lt;em&gt;daemon&lt;/em&gt; khusus Intel untuk 
+mengatur temperatur prosesor. Namanya thermald (&lt;a href=&quot;https://01.org/linux-thermal-daemon&quot;&gt;linux thermal daemon&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Selama ini saya manual saja menjaga laptop agar tidak panas. Tidak menjalankan aplikasi berat, menghindari kompilasi, sampai-sampai 
+tak berani memakai KDE karena Nepomuk-nya bisa membuat laptop mati karena kepanasan saat mengindeks.&lt;/p&gt;
+
+&lt;p&gt;Atau jangan-jangan saya dulu pernah tahu thermald, kemudian lupa. Soalnya dulu tidak pernah kena masalah panas saat memakai KDE di Slackware.&lt;/p&gt;
+
+&lt;p&gt;Thermald ini menjaga kinerja prosesor. Kalau prosesor terlalu kencang bekerja sampai mendekati panas, thermald akan menyuruh prosesor untuk &lt;em&gt;alon-alon wae mas&lt;/em&gt;. Kalau sudah turun suhunya, baru digeber lagi. Demikian seterusnya.&lt;/p&gt;
+
+&lt;p&gt;Saya instal thermald dari &lt;a href=&quot;http://slackbuilds.org/repository/14.1/system/thermal_daemon&quot;&gt;slackbuilds&lt;/a&gt;, dan masalah kepanasan selesai sudah.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2015 00:00:00 +0700</pubDate>
+        <link>http://www.ariswanto.web.id/komputer/2015/11/24/masalah-laptop-kepanasan-kelar-sudah/</link>
+        <guid isPermaLink="true">http://www.ariswanto.web.id/komputer/2015/11/24/masalah-laptop-kepanasan-kelar-sudah/</guid>
+        
+        
+        <category>komputer</category>
         
       </item>
     
