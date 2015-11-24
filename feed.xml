@@ -5,9 +5,32 @@
     <description>Blog ini adalah kelanjutan dari blog sebelumnya &lt;a href=&quot;http://www.ariswanto.web.id/arsip/index.html&quot;&gt;(2010-2015)&lt;/a&gt; yang sekarang sudah diarsipkan.</description>
     <link>http://www.ariswanto.web.id/</link>
     <atom:link href="http://www.ariswanto.web.id/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Nov 2015 10:37:10 +0700</pubDate>
-    <lastBuildDate>Tue, 24 Nov 2015 10:37:10 +0700</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2015 00:54:40 +0700</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2015 00:54:40 +0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>(Masih) Belum Nyaman dengan KDE</title>
+        <description>&lt;p&gt;Sebagaimana kebanyakan orang pada generasi saya, saya pun &lt;em&gt;dimualafkan&lt;/em&gt; ke GNU garis miring Linux oleh Ubuntu. Tentu saja, dengan desktop Gnome. Mungkin karena sebab itu, KDE terasa asing untuk saya.&lt;/p&gt;
+
+&lt;p&gt;Keadaan ini diperparah lagi dengan pengalaman kurang menyenangkan saat mencoba KDE di berbagai distro. Pernah memakai Chakra di tahun mendapatinya sangat lambat menjalankan KDE. Di Slackware, racikan KDE-nya terasa kurang sempurna, selalu ada saja permasalahan kecil namun mengganggu. Terakhir, waktu pasang OpenSuSe dengan desktop KDE, laptop mati kepanasan saat melakukan update software.&lt;/p&gt;
+
+&lt;p&gt;Selain racikan distronya, software-software di KDE sendiri membuat saya agak bingung. Misalnya saja Konqueror vs Dolphin, mengapa harus ada dua &lt;em&gt;file manager&lt;/em&gt;? Atau KDE Panel, yang saat menyeret-nyeret widget, berakhir menjadi berantakan. Aplikasi KDE punya hobi untuk &lt;em&gt;ngendon&lt;/em&gt; di baki panel, ini juga sempat membuat bingung. Belum lagi &lt;em&gt;activities&lt;/em&gt; yang awalnya saya benar-benar tidak tahu apa fungsinya.&lt;/p&gt;
+
+&lt;p&gt;Terlepas dari itu, sebenarnya saya juga punya pengalaman menyenangkan dengan KDE, namun versi 3. Saya pernah dapat CD lawas Knoppix dari sebuah buku, dan saya menyukainya. Juga racikan modul KDE dari Slax waktu itu cukup nyaman dipakai.&lt;/p&gt;
+
+&lt;p&gt;Andai saya bisa memakai KDE tanpa masalah, saya akan menyukainya. Dolphin menurut saya adalah &lt;em&gt;file manager&lt;/em&gt; paling ampuh, fiturnya lengkap. KDE membawa segudang aplikasi yang komplit untuk menjadi sistem operasi utuh, tinggal mencari distro yang bisa meraciknya dengan sempurna.&lt;/p&gt;
+
+&lt;p&gt;Boleh dikatakan, saya suka KDE namun tidak nyaman memakainya. Karena ketidaknyamanan itu, saat ini saya tetap memilih XFCE atau Gnome3.  &lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Nov 2015 00:00:00 +0700</pubDate>
+        <link>http://www.ariswanto.web.id/komputer/2015/11/25/belum-nyaman-KDE/</link>
+        <guid isPermaLink="true">http://www.ariswanto.web.id/komputer/2015/11/25/belum-nyaman-KDE/</guid>
+        
+        
+        <category>komputer</category>
+        
+      </item>
     
       <item>
         <title>Pindahan Selesai, Selamat Datang di Rumah Baru</title>
@@ -35,7 +58,7 @@ tak berani memakai KDE karena Nepomuk-nya bisa membuat laptop mati karena kepana
 
 &lt;p&gt;Thermald ini menjaga kinerja prosesor. Kalau prosesor terlalu kencang bekerja sampai mendekati panas, thermald akan menyuruh prosesor untuk &lt;em&gt;alon-alon wae mas&lt;/em&gt;. Kalau sudah turun suhunya, baru digeber lagi. Demikian seterusnya.&lt;/p&gt;
 
-&lt;p&gt;Saya instal thermald dari &lt;a href=&quot;http://slackbuilds.org/repository/14.1/system/thermal_daemon&quot;&gt;slackbuilds&lt;/a&gt;, dan masalah kepanasan selesai sudah.&lt;/p&gt;
+&lt;p&gt;Saya instal thermald dari &lt;a href=&quot;http://slackbuilds.org/repository/14.1/system/thermal_daemon/&quot;&gt;slackbuilds&lt;/a&gt;, dan masalah kepanasan selesai sudah.&lt;/p&gt;
 </description>
         <pubDate>Tue, 24 Nov 2015 00:00:00 +0700</pubDate>
         <link>http://www.ariswanto.web.id/komputer/2015/11/24/masalah-laptop-kepanasan-kelar-sudah/</link>
