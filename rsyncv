@@ -1,5 +1,0 @@
-#!/bin/bash
-rsync -av ../jekyll-builder/_site/ ./ &&
-git add --all &&
-git commit &&
-git push
