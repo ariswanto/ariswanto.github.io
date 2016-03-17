@@ -34,14 +34,14 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  <a href="https://twitter.com/URBAN_JEDI_BDG" target="_blank">Urban Jedi Bandung</a>, misalnya, lebih fokus pada koreografi lightsaber yang harga alatnya cukup mahal, bisa mencapai Rp 3 Juta.&nbsp;
+  <a href="httpss://twitter.com/URBAN_JEDI_BDG" target="_blank">Urban Jedi Bandung</a>, misalnya, lebih fokus pada koreografi lightsaber yang harga alatnya cukup mahal, bisa mencapai Rp 3 Juta.&nbsp;
 </div>
 
 <div style="text-align: justify;">
 </div>
 
 <div style="text-align: justify;">
-  <a href="https://twitter.com/ORDER_66_SITH" target="_blank">Order 66 Indonesia</a>, anggotanya kebanyakan juga lebih senang dengan cosplay dan koleksi mainan. Ini juga harganya tidak murah.
+  <a href="httpss://twitter.com/ORDER_66_SITH" target="_blank">Order 66 Indonesia</a>, anggotanya kebanyakan juga lebih senang dengan cosplay dan koleksi mainan. Ini juga harganya tidak murah.
 </div>
 
 <div style="text-align: justify;">
@@ -69,7 +69,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  Bagi yang jago menggambar, atau yang baru latihan menggambar, bisa membuat karya grafis tentang Star Wars. Cek aja di <a href="http://browse.deviantart.com/?qh=&section=&global=1&q=starwars" target="_blank">DevianArt</a>, banyak gambar-gambar keren buatan para <i>fans</i>.
+  Bagi yang jago menggambar, atau yang baru latihan menggambar, bisa membuat karya grafis tentang Star Wars. Cek aja di <a href="https://browse.deviantart.com/?qh=&section=&global=1&q=starwars" target="_blank">DevianArt</a>, banyak gambar-gambar keren buatan para <i>fans</i>.
 </div>
 
 <div style="text-align: justify;">
@@ -90,24 +90,24 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  Yang imajinasinya liar seperti saya (hehe..) bisa membuat cerita Star Wars buatan sendiri. Jangan mau kalah sama <a href="http://www.indo-startrek.org/" target="_blank">trekker indonesia</a> yang sudah punya <a href="https://sites.google.com/a/startrek.or.id/scifi2-0/project-update/alurceritacerpentimelinestartrekuniverse" target="_blank">proyek fans fic</a> :p.
+  Yang imajinasinya liar seperti saya (hehe..) bisa membuat cerita Star Wars buatan sendiri. Jangan mau kalah sama <a href="https://www.indo-startrek.org/" target="_blank">trekker indonesia</a> yang sudah punya <a href="httpss://sites.google.com/a/startrek.or.id/scifi2-0/project-update/alurceritacerpentimelinestartrekuniverse" target="_blank">proyek fans fic</a> :p.
 </div>
 
 <div style="text-align: justify;">
 </div>
 
-Yang berbahsa Inggris sih sudah banyak bikin <a href="http://www.fanfiction.net/movie/Star-Wars/" target="_blank">fanfic Star Wars</a>. Tapi di Indonesia masih sangat jarang.
+Yang berbahsa Inggris sih sudah banyak bikin <a href="https://www.fanfiction.net/movie/Star-Wars/" target="_blank">fanfic Star Wars</a>. Tapi di Indonesia masih sangat jarang.
 
 **DOKUMENTASI**
 
-Artikel <a href="http://id.wikipedia.org/wiki/Star_Wars" target="_blank">Star Wars Bahasa Indonesia di Wikipedia</a> masih bolong-bolong. Kalau bukan fans Star Wars, siapa dong yang harus mengisi?
+Artikel <a href="https://id.wikipedia.org/wiki/Star_Wars" target="_blank">Star Wars Bahasa Indonesia di Wikipedia</a> masih bolong-bolong. Kalau bukan fans Star Wars, siapa dong yang harus mengisi?
 
 **KERAJINAN TANGAN DAN DIY**  
 **  
 ** Kostum dan mainan tak harus beli kan? ****Bikin sendiri yang kreatif, dengan bahan-bahan yang ada di sekitar kita.**  
 ** 
 
-Nih contoh yang tak terlalu rumit, tapi cukup keren, sumber dari <a href="http://starwarsblog.starwars.com/index.php/tag/diy/" target="_blank">blog resmi Star Wars</a>.
+Nih contoh yang tak terlalu rumit, tapi cukup keren, sumber dari <a href="https://starwarsblog.starwars.com/index.php/tag/diy/" target="_blank">blog resmi Star Wars</a>.
 
 <div style="clear: both; text-align: center;">
   <a href="/wp-content/uploads/2013/03/BurtonChewieSockPuppet.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="400" src="/wp-content/uploads/2013/03/BurtonChewieSockPuppet-248x300.jpg" width="330" /></a>

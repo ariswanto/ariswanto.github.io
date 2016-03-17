@@ -20,7 +20,7 @@ categories:
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td style="text-align: center;">
-      <a href="http://2.bp.blogspot.com/-vL4jrWAJN7w/Ta62DqObcQI/AAAAAAAAACw/1KPL5fFScjk/s1600/dewi-sartika.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="200" src="http://2.bp.blogspot.com/-vL4jrWAJN7w/Ta62DqObcQI/AAAAAAAAACw/1KPL5fFScjk/s200/dewi-sartika.jpg" width="152" /></a>
+      <a href="https://2.bp.blogspot.com/-vL4jrWAJN7w/Ta62DqObcQI/AAAAAAAAACw/1KPL5fFScjk/s1600/dewi-sartika.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" height="200" src="https://2.bp.blogspot.com/-vL4jrWAJN7w/Ta62DqObcQI/AAAAAAAAACw/1KPL5fFScjk/s200/dewi-sartika.jpg" width="152" /></a>
     </td>
   </tr>
   
@@ -52,7 +52,7 @@ categories:
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td style="text-align: center;">
-      <a href="http://3.bp.blogspot.com/-aMjbGyYBdaY/Ta63JJEvX8I/AAAAAAAAADA/HTq3GRqL6zw/s1600/s1-342851nyonya-meneer.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://3.bp.blogspot.com/-aMjbGyYBdaY/Ta63JJEvX8I/AAAAAAAAADA/HTq3GRqL6zw/s1600/s1-342851nyonya-meneer.jpg" /></a>
+      <a href="https://3.bp.blogspot.com/-aMjbGyYBdaY/Ta63JJEvX8I/AAAAAAAAADA/HTq3GRqL6zw/s1600/s1-342851nyonya-meneer.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://3.bp.blogspot.com/-aMjbGyYBdaY/Ta63JJEvX8I/AAAAAAAAADA/HTq3GRqL6zw/s1600/s1-342851nyonya-meneer.jpg" /></a>
     </td>
   </tr>
   
@@ -66,7 +66,7 @@ categories:
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td style="text-align: center;">
-      <a href="http://1.bp.blogspot.com/-x5WpBsUNf6A/Ta62cgciwHI/AAAAAAAAAC4/td4AQOhcSTA/s1600/kartinix.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://1.bp.blogspot.com/-x5WpBsUNf6A/Ta62cgciwHI/AAAAAAAAAC4/td4AQOhcSTA/s1600/kartinix.jpg" /></a>
+      <a href="https://1.bp.blogspot.com/-x5WpBsUNf6A/Ta62cgciwHI/AAAAAAAAAC4/td4AQOhcSTA/s1600/kartinix.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://1.bp.blogspot.com/-x5WpBsUNf6A/Ta62cgciwHI/AAAAAAAAAC4/td4AQOhcSTA/s1600/kartinix.jpg" /></a>
     </td>
   </tr>
   

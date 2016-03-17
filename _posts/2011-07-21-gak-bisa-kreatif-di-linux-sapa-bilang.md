@@ -19,6 +19,6 @@ categories:
 ---
 <p align=justify>Biar saja orang bilang software gambar di Linux &#8220;sucks&#8221;, buktinya saya masih bisa berkreasi.. Okelah, mungkin gambar saya bukan golongan gambar artistik aduhai, toh jika dikasih Photoshop atau CorelDraw pun saya juga tetap gak bisa bikin gambar yang bagus.</p> 
 
-Berikut beberapa yang pernah saya bikin, silakan lihat di album Picasa saya: [GIMP & INKSCAPE](https://picasaweb.google.com/111624532978176678888/GIMPINKSCAPE?authuser=0&feat=directlink). Saya sudah buktikan, bahwa dengan GIMP dan inkscape yang katanya &#8220;sucks&#8221; itupun, ada gambar saya yang bisa juara 2 lomba poster.
+Berikut beberapa yang pernah saya bikin, silakan lihat di album Picasa saya: [GIMP & INKSCAPE](httpss://picasaweb.google.com/111624532978176678888/GIMPINKSCAPE?authuser=0&feat=directlink). Saya sudah buktikan, bahwa dengan GIMP dan inkscape yang katanya &#8220;sucks&#8221; itupun, ada gambar saya yang bisa juara 2 lomba poster.
 
 So, saya sih cuma mau bilang, bahwa saya yang bukan seniman pun masih bisa berkarya dengan software-nya Linux, apalagi Anda yang jagoan grafis. Saya yakin, seniman sejati gak akan mau dibatasi oleh media atau alat, hehehe.. So, beranikah Anda memakai GIMP dan inkscape?

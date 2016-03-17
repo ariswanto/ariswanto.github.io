@@ -19,12 +19,12 @@ categories:
 tags:
   - Komputer
 ---
-Saya dapet dari <a href="http://www.omgubuntu.co.uk/2010/02/facebook-chat-in-pidgin-empathy-with-no-plugins/" target="_blank">OMG! Ubuntu</a>, testing di Ubuntu Lucid, Pidgin versi 2.6.6 (Bahasa Indonesia).  
+Saya dapet dari <a href="https://www.omgubuntu.co.uk/2010/02/facebook-chat-in-pidgin-empathy-with-no-plugins/" target="_blank">OMG! Ubuntu</a>, testing di Ubuntu Lucid, Pidgin versi 2.6.6 (Bahasa Indonesia).  
 1. Buka Pidgin  
 2. Buka Akun-akun => Kelola Akun (cara cepat bisa ctrl+A)  
 3. Tambah akun baru  
 Protokol : XMPP  
-Nama Pengguna : Misal, alamat Anda adalah facebook.com/gogok, maka nama pengguna anda adalah gogok. Kalo belum paham buka <a href="http://www.facebook.com/username/" target="_blank">ini</a>  
+Nama Pengguna : Misal, alamat Anda adalah facebook.com/gogok, maka nama pengguna anda adalah gogok. Kalo belum paham buka <a href="https://www.facebook.com/username/" target="_blank">ini</a>  
 Domain: chat.facebook.com  
 Port: 5222  
 SSL jangan dicentang  

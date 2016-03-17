@@ -22,11 +22,11 @@ categories:
 </div>
 
 <div style="text-align: justify;">
-  <a href="http://www.blogger.com/blogger.g?blogID=811343025317713881" name="more"></a>
+  <a href="https://www.blogger.com/blogger.g?blogID=811343025317713881" name="more"></a>
 </div>
 
 <div style="text-align: justify;">
-  Ulama Islam telah menyatakan kekafiran Ahmadiyah Qadiyan yang mengakui Ghulam Ahmad sebagai nabi baru, serta menyatakan Ahmadiyah Lahore yang mengakui Ghulam Ahmad sebatas &#8216;mujadid&#8217; (pembaharu) sebagai sesat namun tidak sampai kafir. Secara resmi Saudi melarang Ahmadiyah&nbsp; Qadiyan untuk menunaikan ibadah haji. Di Indonesia telah terbit <a href="http://www.dakwatuna.com/2008/skb-3-menteri-tentang-ahmadiyah/">SKB 3 Menteri</a> yang dikeluarkan guna meredam kekerasan yang selalu saja terjadi.
+  Ulama Islam telah menyatakan kekafiran Ahmadiyah Qadiyan yang mengakui Ghulam Ahmad sebagai nabi baru, serta menyatakan Ahmadiyah Lahore yang mengakui Ghulam Ahmad sebatas &#8216;mujadid&#8217; (pembaharu) sebagai sesat namun tidak sampai kafir. Secara resmi Saudi melarang Ahmadiyah&nbsp; Qadiyan untuk menunaikan ibadah haji. Di Indonesia telah terbit <a href="https://www.dakwatuna.com/2008/skb-3-menteri-tentang-ahmadiyah/">SKB 3 Menteri</a> yang dikeluarkan guna meredam kekerasan yang selalu saja terjadi.
 </div>
 
 <div style="text-align: justify;">

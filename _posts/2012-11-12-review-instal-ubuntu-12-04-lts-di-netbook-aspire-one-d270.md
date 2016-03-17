@@ -19,7 +19,7 @@ tags:
 ---
 <div style="text-align: justify;">
   <div style="clear: both; text-align: center;">
-    <a href="http://www.ubuntu.com/download/desktop" target="_blank"><img border="0" height="169" src="/wp-content/uploads/2012/11/Ubuntu-4.12-LTS-300x159.jpg" width="320" /></a>
+    <a href="https://www.ubuntu.com/download/desktop" target="_blank"><img border="0" height="169" src="/wp-content/uploads/2012/11/Ubuntu-4.12-LTS-300x159.jpg" width="320" /></a>
   </div>
   
   <div style="text-align: center;">
@@ -48,7 +48,7 @@ tags:
     </div>
     
     <div style="text-align: justify;">
-      <i>Untungnya pada bulan April, Intel mengeluarkan driver tertutup (proprietary) DMA 3600 untuk distro <a href="https://meego.com/">Meego</a>. Canonical sukses mem-port driver ini untuk Ubuntu.</i><br /><a name='more'></a><br /><a href="http://www.blogger.com/null" name="more"></a>
+      <i>Untungnya pada bulan April, Intel mengeluarkan driver tertutup (proprietary) DMA 3600 untuk distro <a href="httpss://meego.com/">Meego</a>. Canonical sukses mem-port driver ini untuk Ubuntu.</i><br /><a name='more'></a><br /><a href="https://www.blogger.com/null" name="more"></a>
     </div>
     
     <div style="text-align: justify;">

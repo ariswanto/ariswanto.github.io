@@ -21,7 +21,7 @@ tags:
 Anda merasa kurang ganteng? Susah dapat pasangan? Jangan cemas.. Saya beri jamu mujarab untuk Anda.
 
 <div style="text-align: justify;">
-  <a href="http://3.bp.blogspot.com/-UPiZMWJHFyc/T2DJpRcXq6I/AAAAAAAAAms/vjOUMfaDaRI/s1600/kukubbg.jpg"><img src="http://3.bp.blogspot.com/-UPiZMWJHFyc/T2DJpRcXq6I/AAAAAAAAAms/vjOUMfaDaRI/s400/kukubbg.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 297px; height: 221px;" alt="jamu ganteng cap kuku bambang" id="BLOGGER_PHOTO_ID_5719793237654743970" border="0" /></a><a name='more'></a><br />Sebelumnya saya minta maaf sama Pak SBY karena fotonya saya pakai sebagai contoh. Sama sekali saya gak bermaksud menghina. Lha wong Pak SBY saya samakan dengan Bima kok, ksatria Pandawa yang gagah berani.</p> 
+  <a href="https://3.bp.blogspot.com/-UPiZMWJHFyc/T2DJpRcXq6I/AAAAAAAAAms/vjOUMfaDaRI/s1600/kukubbg.jpg"><img src="https://3.bp.blogspot.com/-UPiZMWJHFyc/T2DJpRcXq6I/AAAAAAAAAms/vjOUMfaDaRI/s400/kukubbg.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 297px; height: 221px;" alt="jamu ganteng cap kuku bambang" id="BLOGGER_PHOTO_ID_5719793237654743970" border="0" /></a><a name='more'></a><br />Sebelumnya saya minta maaf sama Pak SBY karena fotonya saya pakai sebagai contoh. Sama sekali saya gak bermaksud menghina. Lha wong Pak SBY saya samakan dengan Bima kok, ksatria Pandawa yang gagah berani.</p> 
   
   <p>
     Kembali pada topik kegantengan. Anda lihat pak SBY. Kalau kita perhatikan, tentu Pak SBY ini tidak seganteng Justin Timberlake, Justin Bieber, maupun Justin yang lain. Tapi&#8230; Banyak loh, ibu-ibu yang nge-fans sama beliau.

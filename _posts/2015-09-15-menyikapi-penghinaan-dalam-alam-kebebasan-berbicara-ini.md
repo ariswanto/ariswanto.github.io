@@ -22,11 +22,11 @@ tags:
 </p>
 
 <p class="P1">
-  Pertama, adalah <a title="" href="http://www.suara.com/entertainment/2015/09/07/143505/anak-smk-ini-tantang-dan-bicara-kasar-ke-deddy-corbuzier" target=""><span class="T1">kejadian seorang anak muda yang didatangi Polisi </span></a><span class="T1">karena tulisannya di Instagram yang ditujukan pada seorang terkenal. Si orang terkenal ini merasa terhina oleh tulisan tersebut dan merasa perlu memberi pelajaran pada si anak muda. Hasil akhirnya si anak muda meminta maaf, dan si orang terkenal memajang rentetan peristiwa tersebut di akun Instagramnya (saat ini sudah dihapus).</span><!--more-->
+  Pertama, adalah <a title="" href="https://www.suara.com/entertainment/2015/09/07/143505/anak-smk-ini-tantang-dan-bicara-kasar-ke-deddy-corbuzier" target=""><span class="T1">kejadian seorang anak muda yang didatangi Polisi </span></a><span class="T1">karena tulisannya di Instagram yang ditujukan pada seorang terkenal. Si orang terkenal ini merasa terhina oleh tulisan tersebut dan merasa perlu memberi pelajaran pada si anak muda. Hasil akhirnya si anak muda meminta maaf, dan si orang terkenal memajang rentetan peristiwa tersebut di akun Instagramnya (saat ini sudah dihapus).</span><!--more-->
 </p>
 
 <p class="P1">
-  <span class="T1">Kejadian kedua, terjadi di Samarinda. </span><a title="" href="http://kaltim.tribunnews.com/2015/09/09/andri-akhirnya-pilih-angkat-kaki-tinggalkan-kota-tepian" target=""><span class="T1">Seorang pria dipukuli oleh sekelompok</span></a><span class="T1"> orang karena telah menulis di Facebook. Tulisannya mungkin dianggap menghina oleh sekelompok orang tersebut sehingga mereka membalas dengan kekerasan,</span>
+  <span class="T1">Kejadian kedua, terjadi di Samarinda. </span><a title="" href="https://kaltim.tribunnews.com/2015/09/09/andri-akhirnya-pilih-angkat-kaki-tinggalkan-kota-tepian" target=""><span class="T1">Seorang pria dipukuli oleh sekelompok</span></a><span class="T1"> orang karena telah menulis di Facebook. Tulisannya mungkin dianggap menghina oleh sekelompok orang tersebut sehingga mereka membalas dengan kekerasan,</span>
 </p>
 
 <p class="P2">
@@ -50,11 +50,11 @@ tags:
 </p>
 
 <p class="P5">
-  Untuk kejadian di Samarinda kegelisahan saya adalah, mengapa polisi tidak memberikan setidaknya imbauan bagi masyarakat untuk tidak melakukan kekerasan? Kita tahu, <a title="" href="http://hukumpidana.bphn.go.id/babbuku/bab-xx-penganiayaan/" target="">pemukulan adalah tindakan kriminal.</a> Kemarahan warga Samarinda adalah wajar dan bisa dibenarkan, tapi tidak dengan tindak pemukulan.
+  Untuk kejadian di Samarinda kegelisahan saya adalah, mengapa polisi tidak memberikan setidaknya imbauan bagi masyarakat untuk tidak melakukan kekerasan? Kita tahu, <a title="" href="https://hukumpidana.bphn.go.id/babbuku/bab-xx-penganiayaan/" target="">pemukulan adalah tindakan kriminal.</a> Kemarahan warga Samarinda adalah wajar dan bisa dibenarkan, tapi tidak dengan tindak pemukulan.
 </p>
 
 <p class="P5">
-  Kebebasan berbicara memang memerlukan kedewasaa<span class="T4">n. Kalau bisa diungkapkan dengan cara halus, mengapa harus berkata kasar? Hati-hati, jika kita menikmati perbuatan menghina atau membuat marah orang lain, bisa jadi sebenarnya kita </span><a title="" href="https://www.psychologytoday.com/blog/your-online-secrets/201409/internet-trolls-are-narcissists-psychopaths-and-sadists" target=""><span class="T4">menderita gangguan jiwa</span></a><span class="T4">. </span>
+  Kebebasan berbicara memang memerlukan kedewasaa<span class="T4">n. Kalau bisa diungkapkan dengan cara halus, mengapa harus berkata kasar? Hati-hati, jika kita menikmati perbuatan menghina atau membuat marah orang lain, bisa jadi sebenarnya kita </span><a title="" href="httpss://www.psychologytoday.com/blog/your-online-secrets/201409/internet-trolls-are-narcissists-psychopaths-and-sadists" target=""><span class="T4">menderita gangguan jiwa</span></a><span class="T4">. </span>
 </p>
 
 <p class="P7">

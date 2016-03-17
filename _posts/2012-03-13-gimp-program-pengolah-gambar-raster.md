@@ -19,7 +19,7 @@ tags:
   - REVIEW SOFTWARE
 ---
 <div style="text-align: justify;">
-  <a href="http://2.bp.blogspot.com/-lllWt17LVvk/T18pCrUaMRI/AAAAAAAAAlk/MCw0HxbX8dA/s1600/82px-The_GIMP_icon_-_gnome.svg.png"><img src="http://2.bp.blogspot.com/-lllWt17LVvk/T18pCrUaMRI/AAAAAAAAAlk/MCw0HxbX8dA/s200/82px-The_GIMP_icon_-_gnome.svg.png" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 82px; height: 82px;" alt="screnshoot gimp" id="BLOGGER_PHOTO_ID_5719335177748623634" border="0" /></a>GIMP (GNU Image Manipulating program), adalah software pengolah gambar jenis raster. GIMP biasa digunakan untuk mengedit foto, menggabungkan gambar, membuat desain web, membuat logo, dan lain-lain.
+  <a href="https://2.bp.blogspot.com/-lllWt17LVvk/T18pCrUaMRI/AAAAAAAAAlk/MCw0HxbX8dA/s1600/82px-The_GIMP_icon_-_gnome.svg.png"><img src="https://2.bp.blogspot.com/-lllWt17LVvk/T18pCrUaMRI/AAAAAAAAAlk/MCw0HxbX8dA/s200/82px-The_GIMP_icon_-_gnome.svg.png" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 82px; height: 82px;" alt="screnshoot gimp" id="BLOGGER_PHOTO_ID_5719335177748623634" border="0" /></a>GIMP (GNU Image Manipulating program), adalah software pengolah gambar jenis raster. GIMP biasa digunakan untuk mengedit foto, menggabungkan gambar, membuat desain web, membuat logo, dan lain-lain.
 </div>
 
 <div style="text-align: justify;">
@@ -56,7 +56,7 @@ tags:
     </ol>
     
     <p style="text-align: justify;">
-      <a href="http://2.bp.blogspot.com/-hMAcQe99LvY/T18tub0_A5I/AAAAAAAAAlw/_Fe9bdOODWk/s1600/screen_gimp.jpg"><img src="http://2.bp.blogspot.com/-hMAcQe99LvY/T18tub0_A5I/AAAAAAAAAlw/_Fe9bdOODWk/s320/screen_gimp.jpg" style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 320px; height: 240px;" alt="" id="BLOGGER_PHOTO_ID_5719340327551042450" border="0" /></a>
+      <a href="https://2.bp.blogspot.com/-hMAcQe99LvY/T18tub0_A5I/AAAAAAAAAlw/_Fe9bdOODWk/s1600/screen_gimp.jpg"><img src="https://2.bp.blogspot.com/-hMAcQe99LvY/T18tub0_A5I/AAAAAAAAAlw/_Fe9bdOODWk/s320/screen_gimp.jpg" style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 320px; height: 240px;" alt="" id="BLOGGER_PHOTO_ID_5719340327551042450" border="0" /></a>
     </p>
     
     <div style="text-align: justify;">
@@ -69,15 +69,15 @@ tags:
           <br style="font-weight: bold;" /><span style="font-weight: bold;">DOWNLOAD GIMP</span></p> 
           
           <p>
-            &#8211; GNU/Linux<br />installer: ada di repo masing-masing distro<br />versi portable bisa diunduh di <a href="http://portablelinuxapps.org/graphics/gimp">portablelinuxapps</a>
+            &#8211; GNU/Linux<br />installer: ada di repo masing-masing distro<br />versi portable bisa diunduh di <a href="https://portablelinuxapps.org/graphics/gimp">portablelinuxapps</a>
           </p>
           
           <p>
-            &#8211; Windows<br />installer: <a href="http://downloads.sourceforge.net/gimp-win/gimp-2.6.12-i686-setup-2.exe?use_mirror=">GIMP 2.6.12 (20,2 MB)</a> &#8211; untuk Win XP SP2, Vista, 7.<br />versi portable: <a href="http://downloads.sourceforge.net/portableapps/GIMPPortable_2.6.12.paf.exe?redirect_do_not_right_click">GIMP 2.6.12 portable (24 MB)</a> untuk Win XP SP2, Vista, 7.
+            &#8211; Windows<br />installer: <a href="https://downloads.sourceforge.net/gimp-win/gimp-2.6.12-i686-setup-2.exe?use_mirror=">GIMP 2.6.12 (20,2 MB)</a> &#8211; untuk Win XP SP2, Vista, 7.<br />versi portable: <a href="https://downloads.sourceforge.net/portableapps/GIMPPortable_2.6.12.paf.exe?redirect_do_not_right_click">GIMP 2.6.12 portable (24 MB)</a> untuk Win XP SP2, Vista, 7.
           </p>
           
           <p>
-            &#8211; MacOS<br />installer:<br /><a title="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.12-SnowLeopard-Lion.dmg?use_mirror=" href="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.12-SnowLeopard-Lion.dmg?use_mirror=">GIMP 2.6.12 for Snow Leopard & Lion</a><br /> <a title="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Leopard.dmg?use_mirror=" href="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Leopard.dmg?use_mirror=">GIMP 2.6.11 for Leopard</a><br /> <a title="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Tiger.dmg?use_mirror=" href="http://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Tiger.dmg?use_mirror=" style="line-height: 22px; ">GIMP 2.6.11 for Tiger</a><span style="line-height: 22px; "></p> 
+            &#8211; MacOS<br />installer:<br /><a title="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.12-SnowLeopard-Lion.dmg?use_mirror=" href="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.12-SnowLeopard-Lion.dmg?use_mirror=">GIMP 2.6.12 for Snow Leopard & Lion</a><br /> <a title="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Leopard.dmg?use_mirror=" href="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Leopard.dmg?use_mirror=">GIMP 2.6.11 for Leopard</a><br /> <a title="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Tiger.dmg?use_mirror=" href="https://downloads.sourceforge.net/gimponosx/GIMP-2.6.11-Tiger.dmg?use_mirror=" style="line-height: 22px; ">GIMP 2.6.11 for Tiger</a><span style="line-height: 22px; "></p> 
             
             <p>
-              Untuk informasi lain bisa lihat di website <a href="http://www.gimp.org/">GIMP</a>.<br /></span></div> </div>
+              Untuk informasi lain bisa lihat di website <a href="https://www.gimp.org/">GIMP</a>.<br /></span></div> </div>

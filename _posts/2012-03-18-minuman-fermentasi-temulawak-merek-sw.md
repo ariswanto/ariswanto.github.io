@@ -19,7 +19,7 @@ tags:
   - review
 ---
 <div style="clear: both; text-align: justify;">
-  <a href="http://4.bp.blogspot.com/-GU-w-Q9a6-c/T2WiXkUzVcI/AAAAAAAAAoE/JQ23xg9-nKY/s1600/temu.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img src="http://4.bp.blogspot.com/-GU-w-Q9a6-c/T2WiXkUzVcI/AAAAAAAAAoE/JQ23xg9-nKY/s200/temu.jpg" style="width: 72px; height: 133px;" border="0" /> </a> Kemarin waktu beli sate kuda di Serut (Segoroyoso, Pleret, Bantul), saya lihat minuman yang cukup langka. Saya perhatikan, minuman ini terbuat dari sari temulawak (<i>Curcuma xanthorriza</i>) yang difermentasi.</p> 
+  <a href="https://4.bp.blogspot.com/-GU-w-Q9a6-c/T2WiXkUzVcI/AAAAAAAAAoE/JQ23xg9-nKY/s1600/temu.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img src="https://4.bp.blogspot.com/-GU-w-Q9a6-c/T2WiXkUzVcI/AAAAAAAAAoE/JQ23xg9-nKY/s200/temu.jpg" style="width: 72px; height: 133px;" border="0" /> </a> Kemarin waktu beli sate kuda di Serut (Segoroyoso, Pleret, Bantul), saya lihat minuman yang cukup langka. Saya perhatikan, minuman ini terbuat dari sari temulawak (<i>Curcuma xanthorriza</i>) yang difermentasi.</p> 
   
   <p>
     Sebenarnya saya cukup penasaran. Minuman ini udah sering saya dengar. Tapi karena kemarin cuma bawa uang pas, saya gak bisa beli itu minuman.<a name='more'></a>
@@ -57,7 +57,7 @@ tags:
     <table style="margin-left: auto; margin-right: auto; text-align: center;" align="center" cellpadding="0" cellspacing="0">
       <tr>
         <td style="text-align: center;">
-          <a href="http://2.bp.blogspot.com/-rS2iY8n7SjA/T2WiiZuiaqI/AAAAAAAAAoM/wXHBVaDs-8I/s1600/temu2.jpg" style="margin-left: auto; margin-right: auto;"><img src="http://2.bp.blogspot.com/-rS2iY8n7SjA/T2WiiZuiaqI/AAAAAAAAAoM/wXHBVaDs-8I/s400/temu2.jpg" width="370" border="0" height="400" /></a>
+          <a href="https://2.bp.blogspot.com/-rS2iY8n7SjA/T2WiiZuiaqI/AAAAAAAAAoM/wXHBVaDs-8I/s1600/temu2.jpg" style="margin-left: auto; margin-right: auto;"><img src="https://2.bp.blogspot.com/-rS2iY8n7SjA/T2WiiZuiaqI/AAAAAAAAAoM/wXHBVaDs-8I/s400/temu2.jpg" width="370" border="0" height="400" /></a>
         </td>
       </tr>
       
@@ -80,7 +80,7 @@ tags:
     <table style="margin-left: auto; margin-right: auto; text-align: center;" align="center" cellpadding="0" cellspacing="0">
       <tr>
         <td style="text-align: center;">
-          <a href="http://3.bp.blogspot.com/-593uk1ZhTcM/T2WjxU7YmUI/AAAAAAAAAoc/vip_2OunLek/s1600/temu3.jpg" style="margin-left: auto; margin-right: auto;"><img src="http://3.bp.blogspot.com/-593uk1ZhTcM/T2WjxU7YmUI/AAAAAAAAAoc/vip_2OunLek/s400/temu3.jpg" width="338" border="0" height="400" /></a>
+          <a href="https://3.bp.blogspot.com/-593uk1ZhTcM/T2WjxU7YmUI/AAAAAAAAAoc/vip_2OunLek/s1600/temu3.jpg" style="margin-left: auto; margin-right: auto;"><img src="https://3.bp.blogspot.com/-593uk1ZhTcM/T2WjxU7YmUI/AAAAAAAAAoc/vip_2OunLek/s400/temu3.jpg" width="338" border="0" height="400" /></a>
         </td>
       </tr>
       

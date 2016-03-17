@@ -37,12 +37,12 @@ tags:
   </div>
   
   <p>
-    <a href="http://2.bp.blogspot.com/-8Lz669i178E/Tv7lXFVFsmI/AAAAAAAAAZU/ustW6KGMzGs/s1600/step1.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 235px;" src="http://2.bp.blogspot.com/-8Lz669i178E/Tv7lXFVFsmI/AAAAAAAAAZU/ustW6KGMzGs/s400/step1.jpg" alt="" id="BLOGGER_PHOTO_ID_5692239163773268578" border="0" /></a></div> 
+    <a href="https://2.bp.blogspot.com/-8Lz669i178E/Tv7lXFVFsmI/AAAAAAAAAZU/ustW6KGMzGs/s1600/step1.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 235px;" src="https://2.bp.blogspot.com/-8Lz669i178E/Tv7lXFVFsmI/AAAAAAAAAZU/ustW6KGMzGs/s400/step1.jpg" alt="" id="BLOGGER_PHOTO_ID_5692239163773268578" border="0" /></a></div> 
     
     <p>
       2. Akan muncul jendela baru. Tekan ctrl+F, kemudian ketikkan <span style="font-weight: bold;">g:pluson</span><span style="font-weight: bold;">e</span>, dan tekan enter.
     </p>
     
     <p>
-      <a href="http://3.bp.blogspot.com/-BZnhxqqS-Os/Tv7oRi_MV3I/AAAAAAAAAZs/VKJxtT80VKA/s1600/step2.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 314px;" src="http://3.bp.blogspot.com/-BZnhxqqS-Os/Tv7oRi_MV3I/AAAAAAAAAZs/VKJxtT80VKA/s400/step2.jpg" alt="" id="BLOGGER_PHOTO_ID_5692242367190161266" border="0" /></a>3. Tinggal klik tautan seperti di gambar atas itu. Donlot segera dimulai&#8230;
+      <a href="https://3.bp.blogspot.com/-BZnhxqqS-Os/Tv7oRi_MV3I/AAAAAAAAAZs/VKJxtT80VKA/s1600/step2.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 314px;" src="https://3.bp.blogspot.com/-BZnhxqqS-Os/Tv7oRi_MV3I/AAAAAAAAAZs/VKJxtT80VKA/s400/step2.jpg" alt="" id="BLOGGER_PHOTO_ID_5692242367190161266" border="0" /></a>3. Tinggal klik tautan seperti di gambar atas itu. Donlot segera dimulai&#8230;
     </p>

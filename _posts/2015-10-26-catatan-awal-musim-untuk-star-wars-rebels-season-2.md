@@ -23,7 +23,7 @@ Dalam kedua episode tersebut dikisahkan, _rebellion_ yang basisnya dihancurkan o
 
 Tim _Ghost_ berhasil menemukan komandan itu. Baru kemudian diketahui, komandan tersebut adalah Rex, Wolffe, dan Gregor dari batalion 501st yang dulu bertempur bersama Ahsoka di bawah pimpinan Anakin Skywalker.
 
-<img class="alignnone" src="http://4.bp.blogspot.com/-J_Zw12REAZ4/Vi0UfVQp6bI/AAAAAAAADns/_51XoaNBfAk/s1600/tes.jpg" alt="Captain Rex" width="642" height="360" />
+<img class="alignnone" src="https://4.bp.blogspot.com/-J_Zw12REAZ4/Vi0UfVQp6bI/AAAAAAAADns/_51XoaNBfAk/s1600/tes.jpg" alt="Captain Rex" width="642" height="360" />
 
 Masalah kepercayaan diangkat dalam kedua episode ini. Kanan tentu saja memendam memori pahit pengkhianatan tentara _clone_. Hampir seluruh Jedi terbunuh ketika tentara _clone_ melaksanakan Order 66. Kanan sendiri beruntung bisa lolos dari pembantaian itu.
 
@@ -33,7 +33,7 @@ Sementara itu, Wolffe merasa ketakutan dengan kehadiran seorang Jedi yang diangg
 
 Pada episode kedua, Rex menunjukkan bahwa mereka masih setia sepenuhnya pada Jedi dan Republik lama. Bersama tim _Ghost_ mereka bahu membahu memukul mundur pasukan Kallus. Kisah berakhir mengharukan saat tim _Ghost_ berhasil membawa Rex bertemu Ahsoka.
 
-<img class="alignnone" src="http://1.bp.blogspot.com/-546KmxcIVUE/Vi0UfknYyCI/AAAAAAAADn0/PU7Tl_QzwPc/s1600/tes2.jpg" alt="Captain Rex bertemu Ahsoka" width="642" height="360" />
+<img class="alignnone" src="https://1.bp.blogspot.com/-546KmxcIVUE/Vi0UfknYyCI/AAAAAAAADn0/PU7Tl_QzwPc/s1600/tes2.jpg" alt="Captain Rex bertemu Ahsoka" width="642" height="360" />
 
 Ada banyak yang menarik di kedua episode ini. Di sini terungkap bahwa tentara _clone_ sudah dipensiunkan semua. Mengingat pertumbuhan mereka yang dipercepat, pada usia tiga puluhan mereka sudah menjadi kakek-kakek seperti Rex. Entah bagaimana dengan bayi-bayi _clone_ yang masih diproduksi saat _clone wars_ masih berlangsung.
 
@@ -41,7 +41,7 @@ Para veteran _clone_ punya kebanggan bahwa mereka bertempur lebih baik daripada 
 
 Selain membangkitkan kenangan penonton pada era c_lone wars_, episode tersebut juga memperkenalkan karakter _Inquisitor_ baru yang ditugasi untuk memburu Kanan, Ezra, dan Ahsoka. _Inquisitor_ berada langsung di bawah komando Darth Vader. Dengan hadirnya _Inquisito_r ini, tampaknya Darth Vader tidak akan banyak muncul lagi sepanjang _season_ kedua nanti.
 
-<img class="alignnone" src="http://2.bp.blogspot.com/-VOOKgmblVCk/Vi0Ufr9w4jI/AAAAAAAADnw/3K4tyMg5K1k/s1600/tes3.jpg" alt="The Inquisitor" width="665" height="373" />
+<img class="alignnone" src="https://2.bp.blogspot.com/-VOOKgmblVCk/Vi0Ufr9w4jI/AAAAAAAADnw/3K4tyMg5K1k/s1600/tes3.jpg" alt="The Inquisitor" width="665" height="373" />
 
 Sayangnya, sampai di episode kedua ini, suasana _Rebels_ masih sama seperti di _season_ pertama. Mungkin karena anggaran yang tidak banyak, _Rebels_ sering menggunakan latar tempat yang membosankan dan terlihat sepi. Seperti juga planet yang menjadi tempat tinggal Rex ini, berwujud gurun pasir tanpa ada penghuni lain. Sulit untuk tidak membandingkan dengan _Star Wars: The Clone Wars_ yang selalu terkesan ramai.
 
@@ -49,7 +49,7 @@ Sejak _The Siege of Lothal_ hingga episode kedua ini, perkembangan Ezra belum ba
 
 _Season_ kedua memang masih panjang. Banyak waktu untuk mengeksplorasi perkembangan tokoh-tokoh inti dalam _tim Ghost_. Untuk sementara waktu, Ahsoka perlu “disimpan” sampai nanti di tengah musim agar cerita bisa banyak berkembang pada _tim Ghost._ Hera, Sabine, dan Zeb jangan sampai hanya menjadi pelengkap saja.
 
-<img class="alignnone" src="http://4.bp.blogspot.com/-6STdQZ3hudM/Vi0UgcvPuDI/AAAAAAAADoA/6fggUIhGCYE/s1600/tes4.jpg" alt="Rebels" width="642" height="360" />
+<img class="alignnone" src="https://4.bp.blogspot.com/-6STdQZ3hudM/Vi0UgcvPuDI/AAAAAAAADoA/6fggUIhGCYE/s1600/tes4.jpg" alt="Rebels" width="642" height="360" />
 
 _“Star Wars: Rebels” ditayangkan premier oleh Disney XD setiap Rabu pukul 21:30 waktu Pacific di Amerika Serikat (Kamis pukul 8.30 WIB di Indonesia)._ 
 

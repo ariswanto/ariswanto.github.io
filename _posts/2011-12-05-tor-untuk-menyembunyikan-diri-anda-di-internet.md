@@ -20,7 +20,7 @@ tags:
   - Komputer
 ---
 <div style="text-align: justify;">
-  <a href="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s1600/onion.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5682551538339718866" ilo-full-src="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" src="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" style="cursor: pointer; float: left; height: 122px; margin: 0pt 10px 10px 0pt; width: 80px;" /></a>Tor adalah sistem yang dibuat untuk merahasiakan aktivitas saat berinternet. Software ini awalnya dikembangkan oleh Angkatan Laut Amerika Serikat untuk melindungi komunikasi mereka.
+  <a href="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s1600/onion.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5682551538339718866" ilo-full-src="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" src="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" style="cursor: pointer; float: left; height: 122px; margin: 0pt 10px 10px 0pt; width: 80px;" /></a>Tor adalah sistem yang dibuat untuk merahasiakan aktivitas saat berinternet. Software ini awalnya dikembangkan oleh Angkatan Laut Amerika Serikat untuk melindungi komunikasi mereka.
 </div>
 
 <div style="text-align: justify;">
@@ -48,11 +48,11 @@ tags:
 
 ### Bagaimana cara kerja Tor?
 
-Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak pemakai Tor, maka tingkat kerahasiaan akan semakin besar. Untuk lebih jelasnya bisa baca [di sini](https://www.torproject.org/about/overview.html.en). Saat ini Tor bisa bekerja di Linux, Android , Mac, dan Windows.
+Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak pemakai Tor, maka tingkat kerahasiaan akan semakin besar. Untuk lebih jelasnya bisa baca [di sini](httpss://www.torproject.org/about/overview.html.en). Saat ini Tor bisa bekerja di Linux, Android , Mac, dan Windows.
 
-### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682800008422303586" ilo-full-src="http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" src="http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s1600/htw1.png)[<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801394793960338" ilo-full-src="http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" src="http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s1600/htw2.png)
+### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682800008422303586" ilo-full-src="https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" src="https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s1600/htw1.png)[<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801394793960338" ilo-full-src="https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" src="https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s1600/htw2.png)
 
-### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801936375349362" ilo-full-src="http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" src="http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s1600/htw3.png)
+### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801936375349362" ilo-full-src="https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" src="https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s1600/htw3.png)
 
 <div style="text-align: center;">
 </div>
@@ -66,7 +66,7 @@ Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak 
 </div>
 
 [<div style="text-align: justify;">
-  <a href="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s1600/onion.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5682551538339718866" ilo-full-src="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" src="http://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" style="cursor: pointer; float: left; height: 122px; margin: 0pt 10px 10px 0pt; width: 80px;" /></a>Tor adalah sistem yang dibuat untuk merahasiakan aktivitas saat berinternet. Software ini awalnya dikembangkan oleh Angkatan Laut Amerika Serikat untuk melindungi komunikasi mereka.
+  <a href="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s1600/onion.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5682551538339718866" ilo-full-src="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" src="https://1.bp.blogspot.com/-_lhAz0NvePo/Ttx6hESWptI/AAAAAAAAAUY/zYkjrhIDUXU/s200/onion.jpg" style="cursor: pointer; float: left; height: 122px; margin: 0pt 10px 10px 0pt; width: 80px;" /></a>Tor adalah sistem yang dibuat untuk merahasiakan aktivitas saat berinternet. Software ini awalnya dikembangkan oleh Angkatan Laut Amerika Serikat untuk melindungi komunikasi mereka.
 </div>
 
 <div style="text-align: justify;">
@@ -94,11 +94,11 @@ Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak 
 
 ### Bagaimana cara kerja Tor?
 
-Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak pemakai Tor, maka tingkat kerahasiaan akan semakin besar. Untuk lebih jelasnya bisa baca [di sini](https://www.torproject.org/about/overview.html.en). Saat ini Tor bisa bekerja di Linux, Android , Mac, dan Windows.
+Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak pemakai Tor, maka tingkat kerahasiaan akan semakin besar. Untuk lebih jelasnya bisa baca [di sini](httpss://www.torproject.org/about/overview.html.en). Saat ini Tor bisa bekerja di Linux, Android , Mac, dan Windows.
 
-### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682800008422303586" ilo-full-src="http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" src="http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s1600/htw1.png)[<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801394793960338" ilo-full-src="http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" src="http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s1600/htw2.png)
+### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682800008422303586" ilo-full-src="https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" src="https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s400/htw1.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://4.bp.blogspot.com/-LhWf7UgdjOA/Tt1cf7eZJ2I/AAAAAAAAAVU/RJJcsFpl_D0/s1600/htw1.png)[<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801394793960338" ilo-full-src="https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" src="https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s400/htw2.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://3.bp.blogspot.com/-xZQEvazWqnA/Tt1dwoHJ05I/AAAAAAAAAVg/812YwMho5nY/s1600/htw2.png)
 
-### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801936375349362" ilo-full-src="http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" src="http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](http://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s1600/htw3.png)
+### [<img alt="" border="0" id="BLOGGER_PHOTO_ID_5682801936375349362" ilo-full-src="https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" src="https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s400/htw3.png" style="cursor: hand; cursor: pointer; display: block; height: 256px; margin: 0px auto 10px; text-align: center; width: 400px;" />](https://2.bp.blogspot.com/-WX7Gg-HUh6c/Tt1eQJqOAHI/AAAAAAAAAVs/diltJvDQGyI/s1600/htw3.png)
 
 <div style="text-align: center;">
 </div>
@@ -111,8 +111,8 @@ Intinya Tor mengacak lalu lintas data di antara para pemakainya. Semakin banyak 
   Ada banyak produk Tor. Yang sebaiknya dicoba duluan adalah Tor Browser Bundle, karena tidak perlu instal macam2 langsung bisa digunakan untuk berselancar. Silakan unduh di:
 </div>
 
-](http://www.blogger.com/goog_494535349)   
-<https://www.torproject.org/projects/torbrowser.html.en>
+](https://www.blogger.com/goog_494535349)   
+<httpss://www.torproject.org/projects/torbrowser.html.en>
 
 <span style="font-weight: bold;">Cara instal:</span>  
 Untuk linux, tinggal diekstrak ke folder mana saja.  
@@ -121,4 +121,4 @@ Untuk windows dobel klik .exe-nya, lalu pilih folder untuk mengekstrak.
 <span style="font-weight: bold;">Cara pakai:</span>  
 Dobel klik start-tor-browser. Tunggu sampai tersambung, browser akan muncul. Tinggal dipakai berselancar.
 
-Info lengkap: [TorProject.org](https://www.torproject.org/index.html.en)
+Info lengkap: [TorProject.org](httpss://www.torproject.org/index.html.en)

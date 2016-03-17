@@ -18,14 +18,14 @@ tags:
   - sok pintar
 ---
 <div style="text-align: justify;">
-  Sesuai janji saya di sebuah post dalam <a href="http://www.facebook.com/profile.php?id=1799410368&v=info#%21/ihsan.ariswanto">Facebook</a>, kita akan membahas mengenai Sexsomnia. Berawal dari fenomena agak aneh yang saya alami, yaitu seringnya saya mengalami ereksi ketika sedang tidur dan secara kebetulan menemukan artikel di <a href="http://kosmo.vivanews.com/news/read/156371-sexsomnia__munculnya_hasrat_seks_saat_tidur">sini</a>.</p> 
+  Sesuai janji saya di sebuah post dalam <a href="https://www.facebook.com/profile.php?id=1799410368&v=info#%21/ihsan.ariswanto">Facebook</a>, kita akan membahas mengenai Sexsomnia. Berawal dari fenomena agak aneh yang saya alami, yaitu seringnya saya mengalami ereksi ketika sedang tidur dan secara kebetulan menemukan artikel di <a href="https://kosmo.vivanews.com/news/read/156371-sexsomnia__munculnya_hasrat_seks_saat_tidur">sini</a>.</p> 
   
   <p>
-    <i style="font-weight: bold;">Sexsomnia</i> adalah kondisi di mana seseorang berinsiatif untuk melakukan hubungan seksual saat tidur. Ini adalah gangguan semacam <a href="http://en.wikipedia.org/wiki/Sleepwalking"><span style="font-style: italic;">sleepwalking</span></a> , yaitu gejala di mana seseorang berjalan tanpa sadar ketika sedang tidur. Berdasarkan penelitian yang dilakukan tim dari University Health Network di Toronto, Kanada, seperti dikutip dari <a href="http://www.livescience.com/health/sexomnia-sex-while-sleeping-100607.html">LiveScience.com</a>, sebanyak 7,6 persen dari 832 responden mengaku pernah mengalami sexsomnia.<a name='more'></a>
+    <i style="font-weight: bold;">Sexsomnia</i> adalah kondisi di mana seseorang berinsiatif untuk melakukan hubungan seksual saat tidur. Ini adalah gangguan semacam <a href="https://en.wikipedia.org/wiki/Sleepwalking"><span style="font-style: italic;">sleepwalking</span></a> , yaitu gejala di mana seseorang berjalan tanpa sadar ketika sedang tidur. Berdasarkan penelitian yang dilakukan tim dari University Health Network di Toronto, Kanada, seperti dikutip dari <a href="https://www.livescience.com/health/sexomnia-sex-while-sleeping-100607.html">LiveScience.com</a>, sebanyak 7,6 persen dari 832 responden mengaku pernah mengalami sexsomnia.<a name='more'></a>
   </p>
   
   <div style="text-align: center;">
-    <a href="http://2.bp.blogspot.com/_uobboZ727cc/TEfvtnvCjtI/AAAAAAAAABA/D8MxTL3p6yI/s1600/jay-tidur.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5496625437268414162" src="http://2.bp.blogspot.com/_uobboZ727cc/TEfvtnvCjtI/AAAAAAAAABA/D8MxTL3p6yI/s320/jay-tidur.jpg" style="cursor: pointer; height: 320px; width: 215px;" /></a><br /><span style="font-size: 85%;"><span style="font-weight: bold;">Tidur Lelap.</span></span><span style="font-size: 85%;"><br />(courtesy of: <a href="http://denisuryana.wordpress.com/2010/01/21/10-mitos-fakta-tentang-tidur/">denisuryana</a>)</p> 
+    <a href="https://2.bp.blogspot.com/_uobboZ727cc/TEfvtnvCjtI/AAAAAAAAABA/D8MxTL3p6yI/s1600/jay-tidur.jpg"><img alt="" border="0" id="BLOGGER_PHOTO_ID_5496625437268414162" src="https://2.bp.blogspot.com/_uobboZ727cc/TEfvtnvCjtI/AAAAAAAAABA/D8MxTL3p6yI/s320/jay-tidur.jpg" style="cursor: pointer; height: 320px; width: 215px;" /></a><br /><span style="font-size: 85%;"><span style="font-weight: bold;">Tidur Lelap.</span></span><span style="font-size: 85%;"><br />(courtesy of: <a href="https://denisuryana.wordpress.com/2010/01/21/10-mitos-fakta-tentang-tidur/">denisuryana</a>)</p> 
     
     <p>
       </span></div> 

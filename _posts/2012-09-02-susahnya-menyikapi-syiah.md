@@ -92,7 +92,7 @@ tags:
 >       </div>
 >       
 >       <div style="text-align: justify;">
->         Bagi saya, usaha perdamaian antara kedua kubu adalah mutlak dan harus dilakukan, mengingat konflik keduanya telah menimbulkan banyak korban. Tapi masalahnya adalah, maukah <a href="http://www.abna.ir/data.asp?lang=12&Id=200494">kubu radikal Syiah</a> menghentikan serangan/celaan pada tokoh-tokoh yang dihormati Sunni? Maukah <a href="http://arrahmah.com/read/2011/06/03/13087-sunni-syiah-tidak-mungkin-bersatu.html#">kubu radikal sunni</a> berdamai dengan Syiah?
+>         Bagi saya, usaha perdamaian antara kedua kubu adalah mutlak dan harus dilakukan, mengingat konflik keduanya telah menimbulkan banyak korban. Tapi masalahnya adalah, maukah <a href="https://www.abna.ir/data.asp?lang=12&Id=200494">kubu radikal Syiah</a> menghentikan serangan/celaan pada tokoh-tokoh yang dihormati Sunni? Maukah <a href="https://arrahmah.com/read/2011/06/03/13087-sunni-syiah-tidak-mungkin-bersatu.html#">kubu radikal sunni</a> berdamai dengan Syiah?
 >       </div>
 >       
 >       <div style="text-align: justify;">

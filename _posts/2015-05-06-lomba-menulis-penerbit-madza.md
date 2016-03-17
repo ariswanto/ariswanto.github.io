@@ -22,4 +22,4 @@ Penerbit Madza membuka Lomba Menulis &#8220;Penerbitan Bersama Penerbit Madza&#8
   </p>
 </div>
 
-Tertarik? Info selengkapnya bisa dilihat di: <a href="http://www.penerbitmadza.com/2015/02/event.html" target="_blank">Penerbit Madza</a>
+Tertarik? Info selengkapnya bisa dilihat di: <a href="https://www.penerbitmadza.com/2015/02/event.html" target="_blank">Penerbit Madza</a>

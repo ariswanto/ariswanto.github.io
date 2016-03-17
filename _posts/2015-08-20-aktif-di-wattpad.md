@@ -14,4 +14,4 @@ format: status
 ---
 Setelah dua tahun lebih punya akun di Wattpad (dan tak pernah aktif) akhirnya hari ini saya memutuskan untuk mulai buat aktif di sana untuk latihan menulis fiksi.
 
-Link profil Wattpadku: <a href="https://www.wattpad.com/user/IhsanAriswanto" target="_blank">@IhsanAriswanto</a>
+Link profil Wattpadku: <a href="httpss://www.wattpad.com/user/IhsanAriswanto" target="_blank">@IhsanAriswanto</a>

@@ -55,7 +55,7 @@ tags:
         Seperti produk HP lain, printer ini bisa jalan dengan baik di linux berkat driver HPLIP. Sayangnya, di Debiaan Squeeze, versi HPLIP-nya jadul, sehingga printer terdeteksi, namun scanner-nya tidak terdeteksi.</p> 
         
         <p>
-          Tapi jangan khawatir, kita bisa instal HPLIP terbaru dengan mudah langsung dari web-nya HPLIP. Caranya akan kita bahas berikut ini.<br /><a href="http://www.blogger.com/null" name="more"></a>
+          Tapi jangan khawatir, kita bisa instal HPLIP terbaru dengan mudah langsung dari web-nya HPLIP. Caranya akan kita bahas berikut ini.<br /><a href="https://www.blogger.com/null" name="more"></a>
         </p>
         
         <p>
@@ -76,7 +76,7 @@ tags:
             <div style="text-align: justify;">
               <ul>
                 <li>
-                  Download dengan install wizard, buka: <a href="http://hplipopensource.com/hplip-web/install_wizard/index.html">http://hplipopensource.com/hplip-web/install_wizard/index.html</a>
+                  Download dengan install wizard, buka: <a href="https://hplipopensource.com/hplip-web/install_wizard/index.html">https://hplipopensource.com/hplip-web/install_wizard/index.html</a>
                 </li>
                 <li>
                   Pilih Distro dan tipe printernya (lihat gambar di bawah ini). kalau sudah, klik next.

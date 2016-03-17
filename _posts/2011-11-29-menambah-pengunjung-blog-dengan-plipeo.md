@@ -27,7 +27,7 @@ tags:
     
     <ol>
       <li>
-        Daftar dulu ke <a href="http://plipeo.com/webmaster/signup">Plipeo.com</a> Kalau sudah terdaftar, pasang widget plipeo ke blog kita. Itu contoh hasil widgetnya seperti yang di sidebar blog ini.
+        Daftar dulu ke <a href="https://plipeo.com/webmaster/signup">Plipeo.com</a> Kalau sudah terdaftar, pasang widget plipeo ke blog kita. Itu contoh hasil widgetnya seperti yang di sidebar blog ini.
       </li>
       <li>
         Setelah pasang widget, wajib membuat postingan tentang plipeo. Ya seperti postingan inilah. Kemudian postingan di-<span style="font-style: italic;">submit</span> ke &#8220;tambah posting&#8221; di Plipeo.com, dengan kategori &#8220;Support Us&#8221;.

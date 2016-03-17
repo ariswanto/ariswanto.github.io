@@ -20,15 +20,15 @@ tags:
   - Komputer
 ---
 <div style="text-align: left;">
-  <a href="http://www.scribd.com/">Scribd.com</a> menyediakan banyak buku. Tapi untuk download harus register dulu. Malas juga jika download aja harus pake register-register dulu&#8230; Kalo ada cara gampang kenapa harus susah-susah&#8230;
+  <a href="https://www.scribd.com/">Scribd.com</a> menyediakan banyak buku. Tapi untuk download harus register dulu. Malas juga jika download aja harus pake register-register dulu&#8230; Kalo ada cara gampang kenapa harus susah-susah&#8230;
 </div>
 
 <div style="text-align: left;">
-  <img class="emoticon" src="http://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/25.gif" alt="angel" title="angel" />
+  <img class="emoticon" src="https://us.i1.yimg.com/us.yimg.com/i/mesg/emoticons7/25.gif" alt="angel" title="angel" />
 </div>
 
 <div style="text-align: left;">
-  Setelah dapat judul bukunya, masuk ke <a href="http://www.scribd.com/mobile/">http://www.scribd.com/mobile</a>. Masukkan judul buku di pencarian. Kalo udah ketemu tinggal klik download.
+  Setelah dapat judul bukunya, masuk ke <a href="https://www.scribd.com/mobile/">https://www.scribd.com/mobile</a>. Masukkan judul buku di pencarian. Kalo udah ketemu tinggal klik download.
 </div>
 
 <div style="text-align: left;">

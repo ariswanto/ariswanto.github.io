@@ -20,7 +20,7 @@ tags:
   - Komputer
 ---
 <div align="justify">
-  Kemarin waktu temani pacar nyari-nyari materi kuliahnya di <a href="http://www.blogger.com/">Google Books</a>, saya dapati banyak sekali cuplikan-cuplikan buku yang menarik. Masalahnya, Google Books tidak menyediakan cara buat menyimpan hasil cuplikan buku tadi.. Karena kami berdua sama-sama katro, jadilah waktu itu hanya di-<i>printscreen </i>saja (repot juga).
+  Kemarin waktu temani pacar nyari-nyari materi kuliahnya di <a href="https://www.blogger.com/">Google Books</a>, saya dapati banyak sekali cuplikan-cuplikan buku yang menarik. Masalahnya, Google Books tidak menyediakan cara buat menyimpan hasil cuplikan buku tadi.. Karena kami berdua sama-sama katro, jadilah waktu itu hanya di-<i>printscreen </i>saja (repot juga).
 </div>
 
 <div align="justify">
@@ -44,10 +44,10 @@ tags:
     Pastinya Mozilla Firefox udah harus terinstal di komputer Anda..
   </li>
   <li>
-    Instal add-ons <b>Greasemonkey</b>, caranya: buka <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/&nbsp;</a>, klik <b>add to firefox. </b>Jika sudah terinstal, restart Firefox Anda (di<i>close </i>Firefox-nya, trus dibuka lagi). Coba cek di Tools => Add-ons, kalau sudah ada gambar monyet senyum2, berarti udah sukses.&nbsp;
+    Instal add-ons <b>Greasemonkey</b>, caranya: buka <a href="httpss://addons.mozilla.org/en-US/firefox/addon/greasemonkey/">httpss://addons.mozilla.org/en-US/firefox/addon/greasemonkey/&nbsp;</a>, klik <b>add to firefox. </b>Jika sudah terinstal, restart Firefox Anda (di<i>close </i>Firefox-nya, trus dibuka lagi). Coba cek di Tools => Add-ons, kalau sudah ada gambar monyet senyum2, berarti udah sukses.&nbsp;
   </li>
   <li>
-    Selanjutnya kita instal&nbsp;skrip <b>google books downloader-</b>nya. Silakan menuju <a href="http://userscripts.org/scripts/show/37933">http://userscripts.org/scripts/show/37933</a>, klik <b>install</b> yang ada di halaman itu. Jika sudah terinstal, cek di Tools =>&nbsp;Add-ons, liat di tab <b>user script</b> (gambar monyet), ada Google Book Downloader, klik <b>enable</b> jika belum di-enable.
+    Selanjutnya kita instal&nbsp;skrip <b>google books downloader-</b>nya. Silakan menuju <a href="https://userscripts.org/scripts/show/37933">https://userscripts.org/scripts/show/37933</a>, klik <b>install</b> yang ada di halaman itu. Jika sudah terinstal, cek di Tools =>&nbsp;Add-ons, liat di tab <b>user script</b> (gambar monyet), ada Google Book Downloader, klik <b>enable</b> jika belum di-enable.
   </li>
   <li>
     Selesai&#8230;
@@ -58,7 +58,7 @@ tags:
   Sekarang di hasil pencarian Google Books, akan ada tulisan <b>Download </b>disebelahnya. Anda bisa memilih halaman yang ingin didownload, bisa satu halaman, dua atau semua halaman&#8230;</p> 
   
   <p>
-    Update:<br />Untuk mendownload semua halaman sekaligus, gunakan add-on <a href="http://www.downthemall.net/">DownThemAll.</a><br />Cara install sama seperti add-on lain.
+    Update:<br />Untuk mendownload semua halaman sekaligus, gunakan add-on <a href="https://www.downthemall.net/">DownThemAll.</a><br />Cara install sama seperti add-on lain.
   </p>
   
   <p>
@@ -67,5 +67,5 @@ tags:
 </div>
 
 <div align="justify">
-  <i>Catatan: Google Books memang membatasi cuplikan buku yang ditampilkan.. Jika ingin liat bukunya komplit, silakan ke perpus atau toko buku favorit Anda. <img src="http://localhost/ariswant/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></i><span><br /></span>
+  <i>Catatan: Google Books memang membatasi cuplikan buku yang ditampilkan.. Jika ingin liat bukunya komplit, silakan ke perpus atau toko buku favorit Anda. <img src="https://localhost/ariswant/wp-includes/images/smilies/simple-smile.png" alt=":)" class="wp-smiley" style="height: 1em; max-height: 1em;" /></i><span><br /></span>
 </div>

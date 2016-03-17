@@ -20,7 +20,7 @@ tags:
   - Komputer
 ---
 <div style="text-align: justify;">
-  <a href="http://2.bp.blogspot.com/-V2T6SwGR8uk/TwnErSTpnVI/AAAAAAAAAaQ/cbB6yJiLelk/s1600/fire-up.jpg"><img style="float:left; margin:0 20px 20px 0;cursor:pointer; cursor:hand;width: 265px; height: 77px;" src="http://2.bp.blogspot.com/-V2T6SwGR8uk/TwnErSTpnVI/AAAAAAAAAaQ/cbB6yJiLelk/s400/fire-up.jpg" alt="" id="BLOGGER_PHOTO_ID_5695299451714379090" border="0" /></a>Kadangkala sedikit sebal ketika mau ngeblog, tapi internet sedang lelet. Mau buka <span style="font-style: italic;">dashboard</span> saja lama.</p> 
+  <a href="https://2.bp.blogspot.com/-V2T6SwGR8uk/TwnErSTpnVI/AAAAAAAAAaQ/cbB6yJiLelk/s1600/fire-up.jpg"><img style="float:left; margin:0 20px 20px 0;cursor:pointer; cursor:hand;width: 265px; height: 77px;" src="https://2.bp.blogspot.com/-V2T6SwGR8uk/TwnErSTpnVI/AAAAAAAAAaQ/cbB6yJiLelk/s400/fire-up.jpg" alt="" id="BLOGGER_PHOTO_ID_5695299451714379090" border="0" /></a>Kadangkala sedikit sebal ketika mau ngeblog, tapi internet sedang lelet. Mau buka <span style="font-style: italic;">dashboard</span> saja lama.</p> 
   
   <p>
     Ini bisa disiasati dengan memakai ScribeFire, salah satu add-on browser yang berguna untuk memudahkan blogging
@@ -33,7 +33,7 @@ tags:
       Berbeda dengan blogging client lain yang berupa aplikasi terpisah, ScribeFire ini merupakan add-on yang menyatu dengn browser. Sewaktu-waktu dapat ide, tinggal klik kanan saja di browser, maka ScribeFire akan muncul.</p> 
       
       <div style="text-align: center;">
-        <a href="http://3.bp.blogspot.com/-jik1B2abf68/TwnJyJR7iUI/AAAAAAAAAac/5QtU-nKYO6A/s1600/scribefire-shot.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 290px;" src="http://3.bp.blogspot.com/-jik1B2abf68/TwnJyJR7iUI/AAAAAAAAAac/5QtU-nKYO6A/s400/scribefire-shot.jpg" alt="" id="BLOGGER_PHOTO_ID_5695305067108469058" border="0" /></a>
+        <a href="https://3.bp.blogspot.com/-jik1B2abf68/TwnJyJR7iUI/AAAAAAAAAac/5QtU-nKYO6A/s1600/scribefire-shot.jpg"><img style="display: block; margin: 0px auto 10px; text-align: center; cursor: pointer; width: 400px; height: 290px;" src="https://3.bp.blogspot.com/-jik1B2abf68/TwnJyJR7iUI/AAAAAAAAAac/5QtU-nKYO6A/s400/scribefire-shot.jpg" alt="" id="BLOGGER_PHOTO_ID_5695305067108469058" border="0" /></a>
       </div>
       
       <div style="text-align: center;">
@@ -63,5 +63,5 @@ tags:
         </p>
         
         <p>
-          ScribeFire tersedia untuk Firefox, Chrome, Opera, dan Safari. Silakan kunjungi <a href="http://scribefire.com/">ScribeFire.com</a> untuk menginstal.
+          ScribeFire tersedia untuk Firefox, Chrome, Opera, dan Safari. Silakan kunjungi <a href="https://scribefire.com/">ScribeFire.com</a> untuk menginstal.
         </p></div>

@@ -43,7 +43,7 @@ tags:
     <p>
     </p>
     
-    <pre style="white-space: pre-wrap; overflow-x: auto; padding: 0.25em; margin: 0 0 0.50em 0; background-color: #F7F7F7; border: thin dashed #7F7F7F; border-top: none">##<br />## Arch Linux repository mirrorlist<br />## Generated on 2011-03-24<br />##<br /><br />## Delta Archlinux.fr<br />Server = http://delta.archlinux.fr/$repo/os/$arch<br />.....</pre>
+    <pre style="white-space: pre-wrap; overflow-x: auto; padding: 0.25em; margin: 0 0 0.50em 0; background-color: #F7F7F7; border: thin dashed #7F7F7F; border-top: none">##<br />## Arch Linux repository mirrorlist<br />## Generated on 2011-03-24<br />##<br /><br />## Delta Archlinux.fr<br />Server = https://delta.archlinux.fr/$repo/os/$arch<br />.....</pre>
     
     <p>
     </p>
@@ -127,5 +127,5 @@ tags:
             </div>
             
             <p>
-              referensi:<a href="http://adf.ly/3KK8l"> archlinux wiki</a>
+              referensi:<a href="https://adf.ly/3KK8l"> archlinux wiki</a>
             </p>

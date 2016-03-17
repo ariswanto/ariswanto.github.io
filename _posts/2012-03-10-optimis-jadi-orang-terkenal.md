@@ -20,7 +20,7 @@ tags:
   - terkenal
 ---
 <div style="text-align: justify;">
-  <a href="http://www.ayonikah.com/?mitra=eksan1912"><img src="http://1.bp.blogspot.com/-sqwLvYqEN7w/T1qn0gkqC7I/AAAAAAAAAhQ/xj4L1a1RHmI/s200/aku.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 107px;" alt="optimisme dan senyum" id="BLOGGER_PHOTO_ID_5718067197438987186" border="0" /></a><span style="font-style: italic; font-weight: bold;">Blog apa-apaan ini? Narsis-narsisan ya? Sok terkenal, mana pajang-pajang foto mirip :maho gitu!</span></p> 
+  <a href="https://www.ayonikah.com/?mitra=eksan1912"><img src="https://1.bp.blogspot.com/-sqwLvYqEN7w/T1qn0gkqC7I/AAAAAAAAAhQ/xj4L1a1RHmI/s200/aku.jpg" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 200px; height: 107px;" alt="optimisme dan senyum" id="BLOGGER_PHOTO_ID_5718067197438987186" border="0" /></a><span style="font-style: italic; font-weight: bold;">Blog apa-apaan ini? Narsis-narsisan ya? Sok terkenal, mana pajang-pajang foto mirip :maho gitu!</span></p> 
   
   <p>
     Tenang saudara, Anda jangan marah-marah gitu. Ini kan blog pribadi, ya wajar kalau saya pasang-pasang foto saya. Bukan berarti narsis ya. Tapi mensyukuri karena sudah dilahirkan sebagai manusia ganteng.<a name='more'></a>
@@ -31,7 +31,7 @@ tags:
   </p>
   
   <p>
-    Makanya sebelum saya terkenal, Anda baiknya <a href="http://facebook.com/ihsan.ariswanto">berteman dengan saya</a>. Nanti kalau saya sudah terkenal, repot loh mau temenan sama saya.
+    Makanya sebelum saya terkenal, Anda baiknya <a href="https://facebook.com/ihsan.ariswanto">berteman dengan saya</a>. Nanti kalau saya sudah terkenal, repot loh mau temenan sama saya.
   </p>
   
   <p>

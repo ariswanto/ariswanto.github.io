@@ -43,5 +43,5 @@ categories:
 </ol>
 
 <div style="text-align: justify;">
-  Saya sendiri mendapatkan &#8220;ilmu&#8221; budidaya semut ini dari <a href="http://krotosemut.com/">krotosemut.com</a>, silakan merujuk ke webnya untuk info lebih banyak.</p>
+  Saya sendiri mendapatkan &#8220;ilmu&#8221; budidaya semut ini dari <a href="https://krotosemut.com/">krotosemut.com</a>, silakan merujuk ke webnya untuk info lebih banyak.</p>
 </div>

@@ -14,7 +14,7 @@ tags:
 ---
 <img class=" wp-image-76 aligncenter" src="/wp-content/uploads/2015/08/output.jpg" alt="ilustrasi hantu" width="304" height="395" />
 
-Minggu ini, saya sedang membaca [The Science of Ghosts](https://www.goodreads.com/book/show/14568711-the-science-of-ghosts), karya Joe Nickell. Berhubung belum tuntas membaca, saya tidak bisa menuliskan reviewnya saat ini. Gara-gara baca buku ini, saya jadi ingin menceritakan sudut pandang saya sendiri terhadap dunia perhantuan.
+Minggu ini, saya sedang membaca [The Science of Ghosts](httpss://www.goodreads.com/book/show/14568711-the-science-of-ghosts), karya Joe Nickell. Berhubung belum tuntas membaca, saya tidak bisa menuliskan reviewnya saat ini. Gara-gara baca buku ini, saya jadi ingin menceritakan sudut pandang saya sendiri terhadap dunia perhantuan.
 
 Sejak kecil saya suka sekali dengan cerita hantu. Selalu ada sesi _cerita memedi_ dengan teman-teman masa kecilku, entah saat bosan bermain, waktu istirahat sekolah, atau saat menunggu azan magrib sebelum mengaji di masjid. Seringkali cerita memang hanya diulang-ulang, terutama jika ada teman yang belum pernah mendengarnya. Jika ada cerita _fresh,_ kami akan sangat senang sekali.<!--more-->
 

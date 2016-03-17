@@ -19,9 +19,9 @@ tags:
 Twitku lebih duluan loh&#8230; :p
 
 > By the rivers of Babylon we sat and wept when we remembered Zion&#8230;.  
-> — Ihsan Ariswanto (@ihsanariswanto) [March 14, 2013](https://twitter.com/ihsanariswanto/status/312308552079396865)
+> — Ihsan Ariswanto (@ihsanariswanto) [March 14, 2013](httpss://twitter.com/ihsanariswanto/status/312308552079396865)
 
 
 
 > By the rivers of Babylon, we sat down. We wept when we remembered you&#8230;  
-> — Ulil Abshar Abdalla (@ulil) [March 15, 2013](https://twitter.com/ulil/status/312352772756492288)
+> — Ulil Abshar Abdalla (@ulil) [March 15, 2013](httpss://twitter.com/ulil/status/312352772756492288)

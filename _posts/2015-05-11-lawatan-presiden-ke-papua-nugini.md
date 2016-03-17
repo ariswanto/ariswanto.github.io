@@ -14,6 +14,6 @@ tags:
   - Pasifik
 format: status
 ---
-Presiden <a href="http://www.antaranews.com/berita/495539/presiden-jokowi-tiba-di-papua-nugini" target="_blank">berkunjung ke Papua Nugini</a>. Harapan saya: hubungan ekonomi RI &#8211; PNG makin menguat. Indonesia menatap ke timur. Papua dan Papua Barat jadi gerbang ke arah PNG dan negara-negara Pasifik lain.
+Presiden <a href="https://www.antaranews.com/berita/495539/presiden-jokowi-tiba-di-papua-nugini" target="_blank">berkunjung ke Papua Nugini</a>. Harapan saya: hubungan ekonomi RI &#8211; PNG makin menguat. Indonesia menatap ke timur. Papua dan Papua Barat jadi gerbang ke arah PNG dan negara-negara Pasifik lain.
 
-Maret 2015 lalu, sudah ada wacana Indonesia akan ekspor beras (terutama beras premium) ke Papua Nugini (sumber: [Kontan](http://industri.kontan.co.id/news/indonesia-jajaki-ekspor-beras-ke-papua-nugini)).
+Maret 2015 lalu, sudah ada wacana Indonesia akan ekspor beras (terutama beras premium) ke Papua Nugini (sumber: [Kontan](https://industri.kontan.co.id/news/indonesia-jajaki-ekspor-beras-ke-papua-nugini)).

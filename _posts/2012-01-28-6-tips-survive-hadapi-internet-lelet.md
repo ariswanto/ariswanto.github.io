@@ -20,7 +20,7 @@ tags:
   - Komputer
 ---
 <div style="text-align: justify;">
-  <a href="http://3.bp.blogspot.com/-ZItvMaI3GV8/TyMQ4MS1jCI/AAAAAAAAAeo/LT_BmeEqqOI/s1600/65209888_1-Gambar-dari-Rumah-Siput.jpg"><img src="http://3.bp.blogspot.com/-ZItvMaI3GV8/TyMQ4MS1jCI/AAAAAAAAAeo/LT_BmeEqqOI/s200/65209888_1-Gambar-dari-Rumah-Siput.jpg" style="float: left; margin: 0pt 10px 10px 0pt; cursor: pointer; width: 135px; height: 112px;" alt="" id="BLOGGER_PHOTO_ID_5702420110740130850" border="0" /></a>Di Indonesia, internet cepat masih tergolong mahal. Tak jarang, sudah mahal pun masih lelet. Apalagi pemakai internet mobile yang dibatasi kuota.</p> 
+  <a href="https://3.bp.blogspot.com/-ZItvMaI3GV8/TyMQ4MS1jCI/AAAAAAAAAeo/LT_BmeEqqOI/s1600/65209888_1-Gambar-dari-Rumah-Siput.jpg"><img src="https://3.bp.blogspot.com/-ZItvMaI3GV8/TyMQ4MS1jCI/AAAAAAAAAeo/LT_BmeEqqOI/s200/65209888_1-Gambar-dari-Rumah-Siput.jpg" style="float: left; margin: 0pt 10px 10px 0pt; cursor: pointer; width: 135px; height: 112px;" alt="" id="BLOGGER_PHOTO_ID_5702420110740130850" border="0" /></a>Di Indonesia, internet cepat masih tergolong mahal. Tak jarang, sudah mahal pun masih lelet. Apalagi pemakai internet mobile yang dibatasi kuota.</p> 
   
   <p>
     Tips berikut ini setidaknya bisa membantu Anda untuk &#8220;bertahan hidup&#8221; dengan koneksi siput.</div> 
@@ -62,7 +62,7 @@ tags:
     </p>
     
     <p style="text-align: justify;">
-      Web accelerator gunanya untuk mengkompres halaman web sehingga lebih cepat dimuat. Contoh web accelerator adalah opera turbo dan<a href="http://fastun.com/"> fastun</a>.
+      Web accelerator gunanya untuk mengkompres halaman web sehingga lebih cepat dimuat. Contoh web accelerator adalah opera turbo dan<a href="https://fastun.com/"> fastun</a>.
     </p>
     
     <p style="text-align: justify;">
@@ -74,7 +74,7 @@ tags:
     </p>
     
     <p style="text-align: justify;">
-      Di firefox ada banyak addon (pengaya) untuk memblokir file-file yang tidak kita perlukan. Contoh: <a href="http://flashblock.mozdev.org/">flashblock</a> (memblokir animasi flash), <a href="http://adblockplus.org/">adblock plus</a> (memblokir iklan), dan <a href="http://imglikeopera.mozdev.org/installation.html">ImgLikeOpera</a> (memblokir gambar).
+      Di firefox ada banyak addon (pengaya) untuk memblokir file-file yang tidak kita perlukan. Contoh: <a href="https://flashblock.mozdev.org/">flashblock</a> (memblokir animasi flash), <a href="https://adblockplus.org/">adblock plus</a> (memblokir iklan), dan <a href="https://imglikeopera.mozdev.org/installation.html">ImgLikeOpera</a> (memblokir gambar).
     </p>
     
     <p style="text-align: justify; font-weight: bold;">
@@ -82,9 +82,9 @@ tags:
     </p>
     
     <p style="text-align: justify;">
-      Banyak website maupun blog yang menyediakan &#8220;feed&#8221;. Contohnya blog ini, feed-nya: <a href="http://feeds.feedburner.com/ariswanto">http://feeds.feedburner.com/ariswanto</a>.
+      Banyak website maupun blog yang menyediakan &#8220;feed&#8221;. Contohnya blog ini, feed-nya: <a href="https://feeds.feedburner.com/ariswanto">https://feeds.feedburner.com/ariswanto</a>.
     </p>
     
     <p style="text-align: justify;">
-      Dengan feed reader, Anda bisa membaca feed secara offline tanpa harus membuka webnya. Contoh software feed reader: <a href="http://liferea.sf.net/">Liferea</a> (untuk Linux), dan <a href="http://www.feedreader.com/download">Feedreader3</a> (Windows).
+      Dengan feed reader, Anda bisa membaca feed secara offline tanpa harus membuka webnya. Contoh software feed reader: <a href="https://liferea.sf.net/">Liferea</a> (untuk Linux), dan <a href="https://www.feedreader.com/download">Feedreader3</a> (Windows).
     </p>

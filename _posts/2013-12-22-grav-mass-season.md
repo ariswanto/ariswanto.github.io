@@ -30,5 +30,5 @@ categories:
   
   <p>
     <div style="clear: both; text-align: center;">
-      <b><span><a href="http://stallman.org/grav-mass.html" target="_blank"><img alt="http://stallman.org/grav-mass.html" border="0" height="640" src="/wp-content/uploads/2013/12/GravMass-200x300.png" width="426" /></a></span></b>
+      <b><span><a href="https://stallman.org/grav-mass.html" target="_blank"><img alt="https://stallman.org/grav-mass.html" border="0" height="640" src="/wp-content/uploads/2013/12/GravMass-200x300.png" width="426" /></a></span></b>
     </div></div>

@@ -25,7 +25,7 @@ categories:
   
   <tr>
     <td style="text-align: center;">
-      Gambar dicomot dari: <a href="http://iamguiltless.blogspot.com/2010/09/dont-let-guilt-get-you-down.html" target="_blank">Guiltless</a>
+      Gambar dicomot dari: <a href="https://iamguiltless.blogspot.com/2010/09/dont-let-guilt-get-you-down.html" target="_blank">Guiltless</a>
     </td>
   </tr>
 </table>
@@ -62,19 +62,19 @@ categories:
 </div>
 
 <div style="text-align: justify;">
-  <a href="http://psychcentral.com/blog/archives/2007/11/27/5-tips-for-dealing-with-guilt/" target="_blank">5 Tips for Dealing with Guilt</a>
+  <a href="https://psychcentral.com/blog/archives/2007/11/27/5-tips-for-dealing-with-guilt/" target="_blank">5 Tips for Dealing with Guilt</a>
 </div>
 
 <div style="text-align: justify;">
-  <a href="http://www.life-with-confidence.com/deal-with-feeling-guilty.html" target="_blank">How to deal with feeling guilty</a>
+  <a href="https://www.life-with-confidence.com/deal-with-feeling-guilty.html" target="_blank">How to deal with feeling guilty</a>
 </div>
 
 <div style="text-align: justify;">
-  <a href="http://www.wisegeek.com/how-can-i-stop-feeling-guilty-about-everything.htm" target="_blank">How Can I Stop Feeling Guilty about Everything?</a>
+  <a href="https://www.wisegeek.com/how-can-i-stop-feeling-guilty-about-everything.htm" target="_blank">How Can I Stop Feeling Guilty about Everything?</a>
 </div>
 
 <div style="text-align: justify;">
-  <a href="http://www.wisegeek.com/how-can-i-say-no-without-feeling-guilty.htm" target="_blank">How can I say &#8220;no&#8221; without feeling guilty? </a>
+  <a href="https://www.wisegeek.com/how-can-i-say-no-without-feeling-guilty.htm" target="_blank">How can I say &#8220;no&#8221; without feeling guilty? </a>
 </div>
 
 <div style="text-align: justify;">

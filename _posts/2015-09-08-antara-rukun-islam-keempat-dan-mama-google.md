@@ -57,7 +57,7 @@ tags:
 </p>
 
 <p align="justify">
-  <span lang="id-ID">Tahun lalu, urutan rukun Islam ini sempat menjadi bahan berita karena adanya buku pelajaran agama Islam </span><span lang="id-ID">di Kalimantan Selatan </span><span lang="id-ID">yang menuliskan rukun Islam dengan urutan yang tidak </span><span lang="id-ID">biasa. Entah seperti apa urutannya saya tidak tahu. Yang jelas Pak </span>Ahmad Makkie dari MUI Kalimantan Selatan meminta masyarakat jangan bingung soal tata urutan Rukun Islam. “<a href="http://serambiummah.tribunnews.com/2014/02/13/heboh-rukun-islam-dibolak-balik?page=3">Yang terpenting Rukun Islam itu lengkap lima dan dikerjakan,</a>” kata beliau.
+  <span lang="id-ID">Tahun lalu, urutan rukun Islam ini sempat menjadi bahan berita karena adanya buku pelajaran agama Islam </span><span lang="id-ID">di Kalimantan Selatan </span><span lang="id-ID">yang menuliskan rukun Islam dengan urutan yang tidak </span><span lang="id-ID">biasa. Entah seperti apa urutannya saya tidak tahu. Yang jelas Pak </span>Ahmad Makkie dari MUI Kalimantan Selatan meminta masyarakat jangan bingung soal tata urutan Rukun Islam. “<a href="https://serambiummah.tribunnews.com/2014/02/13/heboh-rukun-islam-dibolak-balik?page=3">Yang terpenting Rukun Islam itu lengkap lima dan dikerjakan,</a>” kata beliau.
 </p>
 
 <p align="justify">
@@ -77,11 +77,11 @@ tags:
 </p>
 
 <div style="width: 640px; " class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-138-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4?_=1" />
+  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-138-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4?_=1" />
   
-  <a href="https://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4">https://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4</a></video>
+  <a href="httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4">httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4</a></video>
 </div>
 
 <p style="text-align: center;">
-  Video: koreksi ulangan, oleh <a href="https://instagram.com/p/2LV9SJoqfE/">Sakayuv</a>
+  Video: koreksi ulangan, oleh <a href="httpss://instagram.com/p/2LV9SJoqfE/">Sakayuv</a>
 </p>

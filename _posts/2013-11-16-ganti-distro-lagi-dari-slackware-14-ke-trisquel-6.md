@@ -19,35 +19,35 @@ tags:
   - TUTORIAL GNU/LINUX
 ---
 <div style="text-align: justify;">
-  Setelah beberapa bulan cukup nyaman dengan Slackware 14, kemarin malam aku putuskan untuk pindah ke distro lain. Sebenarnya aku tak ada masalah dengan Slackware 14, namun gara-gara instal <a href="http://www.droplinegnome.org/" target="_blank">dropline-gnome</a> yang setengah-setengah, beberapa library jadi agak kacau.<br /><a name='more'></a>
+  Setelah beberapa bulan cukup nyaman dengan Slackware 14, kemarin malam aku putuskan untuk pindah ke distro lain. Sebenarnya aku tak ada masalah dengan Slackware 14, namun gara-gara instal <a href="https://www.droplinegnome.org/" target="_blank">dropline-gnome</a> yang setengah-setengah, beberapa library jadi agak kacau.<br /><a name='more'></a>
 </div>
 
 <div style="text-align: justify;">
-  Aku pikir-pikir daripada memperbaiki instalasi dengan mendowload paket-paket Slackware 14, lebih baik aku instal ulang saja, sekalian ganti suasana. Sempat terpikir untuk menginstal <a href="http://www.slackware.com/" target="_blank">Slakware terbaru (14.1)</a>, namun karena file iso-nya cukup besar (versi DVD lebih dari 2GB) sepertinya akan memakan waktu lama, dan emmm&#8230; boros kuota juga.
-</div>
-
-<div style="text-align: justify;">
-</div>
-
-<div style="text-align: justify;">
-  Selain itu, karena sedang ingin belajar software itung duit <a href="http://www.gnucash.org/" target="_blank">GnuCash</a> (yang di Slackware harus build dari source), sepertinya lebih baik pindah distro lain yang lebih manusiawi.. :-D.&nbsp;
+  Aku pikir-pikir daripada memperbaiki instalasi dengan mendowload paket-paket Slackware 14, lebih baik aku instal ulang saja, sekalian ganti suasana. Sempat terpikir untuk menginstal <a href="https://www.slackware.com/" target="_blank">Slakware terbaru (14.1)</a>, namun karena file iso-nya cukup besar (versi DVD lebih dari 2GB) sepertinya akan memakan waktu lama, dan emmm&#8230; boros kuota juga.
 </div>
 
 <div style="text-align: justify;">
 </div>
 
 <div style="text-align: justify;">
-  Kebetulan di hard disk sudah ada 2 iso, satunya Trisquel 6, dan satunya lagi Zorin OS, hasil download dari <a href="https://facebook.com/groups/631892160170483" target="_blank">grup facebook</a> (dulu waktu AON masih bisa diajak kerjasama&#8230;). Keduanya sama-sama turunan Ubuntu, jadi tak jauh beda.
+  Selain itu, karena sedang ingin belajar software itung duit <a href="https://www.gnucash.org/" target="_blank">GnuCash</a> (yang di Slackware harus build dari source), sepertinya lebih baik pindah distro lain yang lebih manusiawi.. :-D.&nbsp;
 </div>
 
 <div style="text-align: justify;">
 </div>
 
 <div style="text-align: justify;">
-  Pilihan jatuh ke <a href="http://trisquel.info/" target="_blank">Trisquel</a> (baca: Triskel) dengan pertimbangan:
+  Kebetulan di hard disk sudah ada 2 iso, satunya Trisquel 6, dan satunya lagi Zorin OS, hasil download dari <a href="httpss://facebook.com/groups/631892160170483" target="_blank">grup facebook</a> (dulu waktu AON masih bisa diajak kerjasama&#8230;). Keduanya sama-sama turunan Ubuntu, jadi tak jauh beda.
 </div>
 
-  * Trisquel lebih istimewa karena <a href="http://en.wikipedia.org/wiki/Free_software" target="_blank">100% libre </a>dan sudah <a href="http://www.gnu.org/distros/free-distros.html" target="_blank">diberkati</a> oleh <a href="http://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Mbah Stallman,</a> hehe. Semua hardwareku tak perlu driver non-libre, jadi gak akan ada masalah.
+<div style="text-align: justify;">
+</div>
+
+<div style="text-align: justify;">
+  Pilihan jatuh ke <a href="https://trisquel.info/" target="_blank">Trisquel</a> (baca: Triskel) dengan pertimbangan:
+</div>
+
+  * Trisquel lebih istimewa karena <a href="https://en.wikipedia.org/wiki/Free_software" target="_blank">100% libre </a>dan sudah <a href="https://www.gnu.org/distros/free-distros.html" target="_blank">diberkati</a> oleh <a href="https://en.wikipedia.org/wiki/Richard_Stallman" target="_blank">Mbah Stallman,</a> hehe. Semua hardwareku tak perlu driver non-libre, jadi gak akan ada masalah.
   * Pengen pindah ke 64 bit, kebetulan iso Trisquelnya versi 64 juga. Alasan milih 64bit: kalau pas main-main virtualbox, 32bit tidak bisa jalankan virtual 64bit, tapi 64bit bisa jalankan virtual 32bit.
 
 <div style="text-align: justify;">

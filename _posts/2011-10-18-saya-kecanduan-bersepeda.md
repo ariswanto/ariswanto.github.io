@@ -25,11 +25,11 @@ tags:
   </p>
   
   <p>
-    Pucuk dicinta ulam tiba&#8230; Ternyata rombangan kawan-kawan di kampung, yang diprakarsai <a href="http://www.facebook.com/afitrianto2">Mr.Arrazes van Depag</a> juga punya rencana sepedaan ke Malioboro. Jadilah saya gabung sama kawan-kawan. Sabtu malam Minggu (15/10), sekitar jam 22.00, kami berangkat menuju Malioboro.
+    Pucuk dicinta ulam tiba&#8230; Ternyata rombangan kawan-kawan di kampung, yang diprakarsai <a href="https://www.facebook.com/afitrianto2">Mr.Arrazes van Depag</a> juga punya rencana sepedaan ke Malioboro. Jadilah saya gabung sama kawan-kawan. Sabtu malam Minggu (15/10), sekitar jam 22.00, kami berangkat menuju Malioboro.
   </p>
   
   <p>
-    Sekitar 2 jam perjalanan, dan satu jam-an nongkrong melepas lelah di Depan Kantor Pos Besar, kami pun berpisah. Saya lanjut ke kawasan UGM, untuk menginap di kos teman saya, si <a href="http://saiapunya.blogspot.com/2009/02/mc-donald-spesies-baru-buka-cabang.html">Mc Rizal</a>, sedangkan kawan-kawan lain melanjutkan perjalanan pulang.
+    Sekitar 2 jam perjalanan, dan satu jam-an nongkrong melepas lelah di Depan Kantor Pos Besar, kami pun berpisah. Saya lanjut ke kawasan UGM, untuk menginap di kos teman saya, si <a href="https://saiapunya.blogspot.com/2009/02/mc-donald-spesies-baru-buka-cabang.html">Mc Rizal</a>, sedangkan kawan-kawan lain melanjutkan perjalanan pulang.
   </p>
   
   <p>
@@ -41,7 +41,7 @@ tags:
   </p>
   
   <p>
-    Sembari menunggu undian, ada acara dangdut dan games. Di games itu, suara emas saya memukau (atau memuakkan?) para peserta lain melalui lagu <span style="font-style: italic; font-weight: bold;">Tragedi Tali K*tang</span><span style="font-style: italic;">&#8211;</span>nya Cak Diqin. Ah, senangnya&#8230; Penyanyi dangdutnya sih agak-agak tua, hehe, tapi untungnya ada artis kondang mBantul, Bung <a href="http://hendropler.wordpress.com/"><span style="font-weight: bold;">Hendro Pleret</span></a> yang bisa mencairkan suasana jadi lebih meriah. Ada juga penampilan band-band dari fakultas kedokteran.
+    Sembari menunggu undian, ada acara dangdut dan games. Di games itu, suara emas saya memukau (atau memuakkan?) para peserta lain melalui lagu <span style="font-style: italic; font-weight: bold;">Tragedi Tali K*tang</span><span style="font-style: italic;">&#8211;</span>nya Cak Diqin. Ah, senangnya&#8230; Penyanyi dangdutnya sih agak-agak tua, hehe, tapi untungnya ada artis kondang mBantul, Bung <a href="https://hendropler.wordpress.com/"><span style="font-weight: bold;">Hendro Pleret</span></a> yang bisa mencairkan suasana jadi lebih meriah. Ada juga penampilan band-band dari fakultas kedokteran.
   </p>
   
   <p>

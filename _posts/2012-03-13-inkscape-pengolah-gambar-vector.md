@@ -19,7 +19,7 @@ tags:
   - REVIEW SOFTWARE
 ---
 <div style="text-align: left;">
-  <a href="http://4.bp.blogspot.com/-nmhcY7NDJp8/T18-f8iLCkI/AAAAAAAAAl8/e_rY-E1BwD0/s1600/128px-Inkscape_Logo.gif"><img src="http://4.bp.blogspot.com/-nmhcY7NDJp8/T18-f8iLCkI/AAAAAAAAAl8/e_rY-E1BwD0/s320/128px-Inkscape_Logo.gif" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 128px; height: 128px;" alt="inkscape-logo" id="BLOGGER_PHOTO_ID_5719358770330143298" border="0" /></a>Inkscape adalah software pengolah gambar vector yang canggih. Dari membuat poster hingga desain yang rumit bisa dibuat dengan inkscape.
+  <a href="https://4.bp.blogspot.com/-nmhcY7NDJp8/T18-f8iLCkI/AAAAAAAAAl8/e_rY-E1BwD0/s1600/128px-Inkscape_Logo.gif"><img src="https://4.bp.blogspot.com/-nmhcY7NDJp8/T18-f8iLCkI/AAAAAAAAAl8/e_rY-E1BwD0/s320/128px-Inkscape_Logo.gif" style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 128px; height: 128px;" alt="inkscape-logo" id="BLOGGER_PHOTO_ID_5719358770330143298" border="0" /></a>Inkscape adalah software pengolah gambar vector yang canggih. Dari membuat poster hingga desain yang rumit bisa dibuat dengan inkscape.
 </div>
 
 <div style="text-align: left;">
@@ -38,7 +38,7 @@ tags:
   </p>
   
   <p>
-    <a href="http://2.bp.blogspot.com/-eWKHslU91s4/T19Clb-bAOI/AAAAAAAAAmI/zlDI3N59owM/s1600/inkscape.jpg"><img src="http://2.bp.blogspot.com/-eWKHslU91s4/T19Clb-bAOI/AAAAAAAAAmI/zlDI3N59owM/s320/inkscape.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" alt="" id="BLOGGER_PHOTO_ID_5719363262715986146" border="0" /></a><br />Download Inkscape: 
+    <a href="https://2.bp.blogspot.com/-eWKHslU91s4/T19Clb-bAOI/AAAAAAAAAmI/zlDI3N59owM/s1600/inkscape.jpg"><img src="https://2.bp.blogspot.com/-eWKHslU91s4/T19Clb-bAOI/AAAAAAAAAmI/zlDI3N59owM/s320/inkscape.jpg" style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 320px; height: 240px;" alt="" id="BLOGGER_PHOTO_ID_5719363262715986146" border="0" /></a><br />Download Inkscape: 
     
     <ul>
       <li>
@@ -47,18 +47,18 @@ tags:
       <li>
         Mac OS X <ul>
           <li>
-            OS X 10.6, Snow Leopard – Universal <a href="http://downloads.sourceforge.net/inkscape/Inkscape-0.48.2-1-SNOWLEOPARD.dmg">.dmg</a> (requires Apple&#8217;s X11/Xquartz 2.3.4 or higher)
+            OS X 10.6, Snow Leopard – Universal <a href="https://downloads.sourceforge.net/inkscape/Inkscape-0.48.2-1-SNOWLEOPARD.dmg">.dmg</a> (requires Apple&#8217;s X11/Xquartz 2.3.4 or higher)
           </li>
         </ul>
       </li>
       
       <li>
-        Windows – <a href="http://downloads.sourceforge.net/inkscape/Inkscape-0.48.2-1.exe">installer</a>, <a href="http://downloads.sourceforge.net/inkscape/InkscapePortable_0.48.2-1.paf.exe">portable</a>, <a href="http://downloads.sourceforge.net/inkscape/inkscape-0.48.2-1-win32.7z">7zip</a>
+        Windows – <a href="https://downloads.sourceforge.net/inkscape/Inkscape-0.48.2-1.exe">installer</a>, <a href="https://downloads.sourceforge.net/inkscape/InkscapePortable_0.48.2-1.paf.exe">portable</a>, <a href="https://downloads.sourceforge.net/inkscape/inkscape-0.48.2-1-win32.7z">7zip</a>
       </li>
     </ul>
     
     <p>
-      Website inkscape: <a href="http://www.inkscape.org/">inkscape.org</a>
+      Website inkscape: <a href="https://www.inkscape.org/">inkscape.org</a>
     </p></div> 
     
     <div style="text-align: left;">

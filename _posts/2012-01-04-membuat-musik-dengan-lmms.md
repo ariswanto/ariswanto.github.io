@@ -19,7 +19,7 @@ tags:
   - REVIEW SOFTWARE
 ---
 <div style="text-align: justify;">
-  <a href="http://4.bp.blogspot.com/-n0WcShMH0CY/TwPMPhso8ZI/AAAAAAAAAZ4/nYsEttKD8HI/s1600/lmms.png"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 150px; height: 151px;" src="http://4.bp.blogspot.com/-n0WcShMH0CY/TwPMPhso8ZI/AAAAAAAAAZ4/nYsEttKD8HI/s400/lmms.png" alt="" id="BLOGGER_PHOTO_ID_5693618921042145682" border="0" /></a>Membuat musik sekarang bisa dilakukan oleh siapa saja. Tanpa harus punya alat musik maupun studio rekaman. Bahkan tak harus bisa memainkan alat musik apapun. Cukup dengan komputer kita.
+  <a href="https://4.bp.blogspot.com/-n0WcShMH0CY/TwPMPhso8ZI/AAAAAAAAAZ4/nYsEttKD8HI/s1600/lmms.png"><img style="float:left; margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 150px; height: 151px;" src="https://4.bp.blogspot.com/-n0WcShMH0CY/TwPMPhso8ZI/AAAAAAAAAZ4/nYsEttKD8HI/s400/lmms.png" alt="" id="BLOGGER_PHOTO_ID_5693618921042145682" border="0" /></a>Membuat musik sekarang bisa dilakukan oleh siapa saja. Tanpa harus punya alat musik maupun studio rekaman. Bahkan tak harus bisa memainkan alat musik apapun. Cukup dengan komputer kita.
 </div>
 
 <div style="text-align: justify;">
@@ -33,7 +33,7 @@ tags:
     </p>
     
     <div style="text-align: justify;">
-      <a href="http://1.bp.blogspot.com/-ZTqXFbAhssA/TwPRBRr-TOI/AAAAAAAAAaE/KdOGWsuKOTM/s1600/lmms-shoot.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="http://1.bp.blogspot.com/-ZTqXFbAhssA/TwPRBRr-TOI/AAAAAAAAAaE/KdOGWsuKOTM/s400/lmms-shoot.jpg" alt="" id="BLOGGER_PHOTO_ID_5693624173784354018" border="0" /></a></p>
+      <a href="https://1.bp.blogspot.com/-ZTqXFbAhssA/TwPRBRr-TOI/AAAAAAAAAaE/KdOGWsuKOTM/s1600/lmms-shoot.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 400px; height: 300px;" src="https://1.bp.blogspot.com/-ZTqXFbAhssA/TwPRBRr-TOI/AAAAAAAAAaE/KdOGWsuKOTM/s400/lmms-shoot.jpg" alt="" id="BLOGGER_PHOTO_ID_5693624173784354018" border="0" /></a></p>
     </div>
     
     <p>
@@ -74,10 +74,10 @@ tags:
     
     <ul style="text-align: justify;">
       <li>
-        Ubuntu: download di<a href="https://launchpad.net/~tobydox/+archive/lmms"> sini.</a>
+        Ubuntu: download di<a href="httpss://launchpad.net/~tobydox/+archive/lmms"> sini.</a>
       </li>
       <li>
-        OpenSuse 11.x download di <a href="http://packman.links2linux.de/package/628">sini</a>.
+        OpenSuse 11.x download di <a href="https://packman.links2linux.de/package/628">sini</a>.
       </li>
     </ul>
     
@@ -87,10 +87,10 @@ tags:
     
     <ul>
       <li>
-        <a href="http://sourceforge.net/projects/lmms/files/lmms/0.4.12/lmms-0.4.12-win32.exe/download">32 bit</a>
+        <a href="https://sourceforge.net/projects/lmms/files/lmms/0.4.12/lmms-0.4.12-win32.exe/download">32 bit</a>
       </li>
       <li>
-        <a href="http://sourceforge.net/projects/lmms/files/lmms/0.4.12/lmms-0.4.12-win64.exe/download">64 bit</a>
+        <a href="https://sourceforge.net/projects/lmms/files/lmms/0.4.12/lmms-0.4.12-win64.exe/download">64 bit</a>
       </li>
     </ul>
     

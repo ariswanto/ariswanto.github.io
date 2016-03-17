@@ -25,7 +25,7 @@ tags:
   - berbagi
   - iseng
 ---
-<div style="text-align: justify;" xmlns="http://www.w3.org/1999/xhtml">
+<div style="text-align: justify;" xmlns="https://www.w3.org/1999/xhtml">
   <a href="/wp-content/uploads/2013/11/1384190549834.jpeg"><img border="0" src="/wp-content/uploads/2013/11/1384190549834-225x300.jpeg" style="cursor: hand; cursor: pointer; display: block; height: 288px; margin: 0px auto 10px; text-align: center; width: 216px;" /></a></p> 
   
   <p>

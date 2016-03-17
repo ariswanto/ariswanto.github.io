@@ -26,13 +26,13 @@ Dan ternyata&#8230; Ini sms sudah beredar sejak tahun 2008, hemm&#8230;
 <table align="center" cellpadding="0" cellspacing="0" style="margin-left: auto; margin-right: auto; text-align: center;">
   <tr>
     <td style="text-align: center;">
-      <a href="http://us.detikinet.com/images/content/2008/05/13/398/sms%20radiasi285.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://us.detikinet.com/images/content/2008/05/13/398/sms%20radiasi285.jpg" /></a>
+      <a href="https://us.detikinet.com/images/content/2008/05/13/398/sms%20radiasi285.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" src="https://us.detikinet.com/images/content/2008/05/13/398/sms%20radiasi285.jpg" /></a>
     </td>
   </tr>
   
   <tr>
     <td style="text-align: center;">
-      courtesy: <a href="http://mistik-u.blogspot.com/2008/08/sms-santet.html">mistik-u</a>
+      courtesy: <a href="https://mistik-u.blogspot.com/2008/08/sms-santet.html">mistik-u</a>
     </td>
   </tr>
 </table>

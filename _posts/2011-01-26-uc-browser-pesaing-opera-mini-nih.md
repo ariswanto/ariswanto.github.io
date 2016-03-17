@@ -33,7 +33,7 @@ tags:
 </div>
 
 <div style="text-align: center;">
-  <a href="http://t3.gstatic.com/images?q=tbn:ANd9GcQjgXcRqdgHxkYWWewZ7A8yG5mFpefwTJoDECW7BL9gLU-ns8sl" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="142" src="http://t3.gstatic.com/images?q=tbn:ANd9GcQjgXcRqdgHxkYWWewZ7A8yG5mFpefwTJoDECW7BL9gLU-ns8sl" width="320" /></a>
+  <a href="https://t3.gstatic.com/images?q=tbn:ANd9GcQjgXcRqdgHxkYWWewZ7A8yG5mFpefwTJoDECW7BL9gLU-ns8sl" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="142" src="https://t3.gstatic.com/images?q=tbn:ANd9GcQjgXcRqdgHxkYWWewZ7A8yG5mFpefwTJoDECW7BL9gLU-ns8sl" width="320" /></a>
 </div>
 
 <div style="text-align: justify;">
@@ -117,7 +117,7 @@ tags:
 </div>
 
 <div style="text-align: justify;">
-  Anda tertarik? langsung saja buka di browser hape Anda, alamatnya <a href="http://wap.ucweb.com/">http://wap.ucweb.com/</a>
+  Anda tertarik? langsung saja buka di browser hape Anda, alamatnya <a href="https://wap.ucweb.com/">https://wap.ucweb.com/</a>
 </div>
 
 <div style="text-align: justify;">

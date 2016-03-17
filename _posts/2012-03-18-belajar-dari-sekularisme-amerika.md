@@ -18,7 +18,7 @@ categories:
   - OPINI
 ---
 <div style="clear: both; text-align: center;">
-  <a href="http://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s1600/flag_fixed.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="135" ilo-full-src="http://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s200/flag_fixed.png" src="http://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s200/flag_fixed.png" width="200" /></a>
+  <a href="https://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s1600/flag_fixed.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="135" ilo-full-src="https://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s200/flag_fixed.png" src="https://4.bp.blogspot.com/-otEwqWVRYfQ/T2YDjcXERvI/AAAAAAAAAok/rxlmF_BCids/s200/flag_fixed.png" width="200" /></a>
 </div>
 
 <div style="text-align: justify;">
@@ -26,7 +26,7 @@ categories:
 </div>
 
 <div style="text-align: justify;">
-  Seperti dilansir <a href="http://www.businessmanagementdaily.com/29600/muslim-scarf-ban-costs-50k-for-philadelphia-security-firm">businessmanagementdaily.com</a>, Julie Holloway-Russell, seorang muslimah berjilbab, melamar kerja paruh waktu di Imperial Security. Sewaktu wawancara, Julie mengenakan jilbabnya.
+  Seperti dilansir <a href="https://www.businessmanagementdaily.com/29600/muslim-scarf-ban-costs-50k-for-philadelphia-security-firm">businessmanagementdaily.com</a>, Julie Holloway-Russell, seorang muslimah berjilbab, melamar kerja paruh waktu di Imperial Security. Sewaktu wawancara, Julie mengenakan jilbabnya.
 </div>
 
 <div style="text-align: justify;">

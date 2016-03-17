@@ -18,14 +18,14 @@ tags:
   - TUTORIAL GNU/LINUX
 ---
 Akhirnya sukses juga instal PC-BSD 9.0, versi usb-lite, desktopnya pakai LXDE.  
-Cara instalnya baca saja di buku petunjuknya: [di wiki PC-BSD.](http://wiki.pcbsd.org/index.php/PC-BSD_Users_Handbook)
+Cara instalnya baca saja di buku petunjuknya: [di wiki PC-BSD.](https://wiki.pcbsd.org/index.php/PC-BSD_Users_Handbook)
 
 Sedikit yang perlu diperhatikan, tadinya repot setting bootloader GRUB2 (tripleboot dg Debian dan Arch). Ikut petunjuk di bukunya tidak berhasil. Akhirnya dapat cara dari googling, ternyata cukup gampang:  
 <a name='more'></a>
 
 <lj-cut text="Read more..."></lj-cut>  
 Tinggal masukan menuentry di /etc/grub.d/40_custom milik Debian, seperti ini:  
-<a href="http://www.blogger.com/null" name="more"></a>
+<a href="https://www.blogger.com/null" name="more"></a>
 
 <div style="margin-bottom: 2px;">
   Code:

@@ -20,7 +20,7 @@ tags:
   - Komputer
 ---
 <div style="text-align: justify;">
-  Kemarin lusa, <a href="http://gardukangjoyo.blogspot.com/2011/10/review-trik-internetan-ngebut-dengan.html">trik internetan ngebut tanpa kuota</a> dari si Mbak Sulastri, masih bisa dipakai. Meskipun udah hidup segan mati tak mau, tapi masih bisa konek walau cuma 5KB/s alias 40kbps. Tapi mulai tadi sore, waktu saya coba lagi, ternyata udah <span style="font-style: italic;">koit</span> alias tewas.<a name='more'></a></p> 
+  Kemarin lusa, <a href="https://gardukangjoyo.blogspot.com/2011/10/review-trik-internetan-ngebut-dengan.html">trik internetan ngebut tanpa kuota</a> dari si Mbak Sulastri, masih bisa dipakai. Meskipun udah hidup segan mati tak mau, tapi masih bisa konek walau cuma 5KB/s alias 40kbps. Tapi mulai tadi sore, waktu saya coba lagi, ternyata udah <span style="font-style: italic;">koit</span> alias tewas.<a name='more'></a></p> 
   
   <p>
     Waktu nyoba konek, ternyata sama sekali gak bisa terhubung. Yah, terpaksalah saya cari kartu lain yang masih bisa cukup di kantong. Kembali lagi pake si merah telkumprit&#8230; Pakai paket FUN yang seribu perak. Yang penting masih bisa nge-blog dan ngaskus, walau harus jadi kalong&#8230; :D.</div>

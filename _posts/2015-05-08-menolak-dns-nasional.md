@@ -18,7 +18,7 @@ Hari ini kita bisa menikmati kebebasan itu tanpa banyak rasa takut. Saya berani 
 
 Sayang sekali, atas nama &#8220;memelihara moral anak bangsa&#8221; pemerintah memaksakan sarana sensor internet dengan nama Trust+Positif. Sensor yang diberlakukan sejak era pemerintahan sebelumnya ini, sekarang akan ditingkatkan dengan mewajibkan penyelenggara jaringan internet untuk mengarahkan pengguna mengakses internet melalui DNS Trust+Positif.
 
-Seperti dilansir oleh Detik dan <a href="https://dailysocial.net/post/dns-nasional/" target="_blank">DailySocial</a>, Menkominfo mengirim surat kepada para direktur penyelenggara jaringan internet untuk men-sinkron-kan akses internet mereka dengan DNS Trust+Positif yang ditetapkan sebagai DNS nasional. Tenggat waktu yang diberikan sampai dengan 31 Mei 2015.
+Seperti dilansir oleh Detik dan <a href="httpss://dailysocial.net/post/dns-nasional/" target="_blank">DailySocial</a>, Menkominfo mengirim surat kepada para direktur penyelenggara jaringan internet untuk men-sinkron-kan akses internet mereka dengan DNS Trust+Positif yang ditetapkan sebagai DNS nasional. Tenggat waktu yang diberikan sampai dengan 31 Mei 2015.
 
 Mengapa penerapan DNS nasional ini berbahaya bagi kebebasan? Dengan adanya pemaksaan ini, semua lalu lintas internet harus melewati filter yang dibuat pemerintah. Pemerintah punya kontrol penuh, website mana yang boleh dan tidak boleh diakses.
 
