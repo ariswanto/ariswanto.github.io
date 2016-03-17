@@ -16,6 +16,7 @@ tags:
   - pulsa elektrik jakarta
   - pulsa murah
   - pulsa murah jakarta
+summary: Zaman sekarang, dengan hadirnya telepon seluler (ponsel), pasangan LDR tak perlu lagi menunggu seminggu sekali untuk bertukar kabar melepas rindu. Namun, keadaan berubah ketika pasangan LDR kehabisan pulsa.
 ---
 <div id="attachment_289" style="width: 395px" class="wp-caption aligncenter">
   <a href="/wp-content/uploads/2015/10/6788198070_b2fe028c42_z.jpg"><img class=" wp-image-289" src="/wp-content/uploads/2015/10/6788198070_b2fe028c42_z.jpg" alt="Long Distance Relationship" width="385" height="293" /></a>

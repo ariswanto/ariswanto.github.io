@@ -14,6 +14,7 @@ tags:
   - Classic
   - Horror
   - Public Domain
+summary: Entah sudah berapa banyak karya turunan yang lahir dari novel ini, baik itu drama panggung, film, komik, atau bentuk lainnya. 
 ---
 <div class="entry-content">
   <p>

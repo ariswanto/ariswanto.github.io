@@ -14,6 +14,7 @@ tags:
   - Star Wars
   - Star Wars Rebels
   - Star Wars Rebels Season 2
+summary: Star Wars Rebels season kedua dimulai dengan penayangan The Siege of Lothal bulan Juni lalu.
 ---
 [<img class="aligncenter size-full wp-image-304" src="/wp-content/uploads/2015/10/d5603299c2b80edd9b8886067925bbe18be2ec6c.jpg" alt="Rebels" width="1024" height="320" />](/wp-content/uploads/2015/10/d5603299c2b80edd9b8886067925bbe18be2ec6c.jpg)_Star Wars: Rebels_ _season_ kedua dimulai dengan penayangan [_The Siege of Lothal_](/catatan/serial-tv/star-wars-rebels-season-2-premiere-selamat-tinggal-lothal/) bulan Juni lalu. Sekedar informasi, tayangan tersebut tidak dihitung sebagai episode pertama. Penomoran episode dimulai dengan _The Lost Commander_ yang tayang Kamis (15/10) sebagai episode kesatu. Belum ada informasi berapa episode yang akan ditayangkan sampai akhir musim nanti.
 

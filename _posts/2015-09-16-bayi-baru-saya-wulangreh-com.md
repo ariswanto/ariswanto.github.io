@@ -8,6 +8,7 @@ guid: /?p=281
 permalink: /informasi/bayi-baru-saya-wulangreh-com/
 categories:
   - INFO
+summary: Untuk menantang kemampuan saya sendiri dalam menulis dengan bahasa Jawa, saya luncurkan blog baru Wulangreh.com
 ---
 Penggemar komik atau anime Dragon Ball pasti tahu bahwa cara terbaik untuk menjadi orang terkuat adalah dengan latihan yang berat. Sejak masih dalam asuhan Kakek Kura-kura, Goku dan Krilin wajib menggendong cangkang kura-kura yang berat. Sepanjang petualangannya Goku menjadi yang terdepan dengan latihan yang lebih berat. Menara Karin, Istana Dewa, baju pemberat, Jalur Naga, dan seterusnya.
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Masalah Laptop Kepanasan Sudah Teratasi dengan Thermald
+summary: Baru tahu ada daemon khusus Intel untuk mengatur temperatur prosesor. Namanya thermald.
 category: komputer
 ---
 
