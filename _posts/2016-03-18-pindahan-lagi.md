@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pindahan Lagi
-category: komputer
+category: lain-lain
 ---
 
 Mulai bulan ini, domain ariswanto.web.id saya istirahatkan. Belum ada dana untuk memperpanjang domain tersebut.
@@ -11,7 +11,5 @@ Selain pertimbangan dana, subdomain github bisa diakses dengan https (secure), s
 tidak mudah untuk mengonfigurasi https (dan lagi, sertifikat SSL harus beli). Saya termasuk yang percaya, bahwa sudah seharusnya
 saat ini [semua website menggunakan https](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https?hl=en).
 
-Jadi, saat ini blog ini menggunakan subdomain ariswanto.github.io. Selain itu, saya juga berencana mengonversi tulisan-tulisan
-lama ke dalam format jekyll.
-
-Belum semua tulisan lama saya konversi ke format jekyll, tahu sendiri, saya ini pemalas luar biasa.
+Jadi, sekarang blog ini menggunakan subdomain ariswanto.github.io. Selain itu, saya juga berencana mengonversi tulisan-tulisan
+lama ke dalam format jekyll. Belum semua tulisan lama saya konversi ke format jekyll, tahu sendiri, saya ini pemalas luar biasa.
