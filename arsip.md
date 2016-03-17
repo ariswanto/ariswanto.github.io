@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Arsip
+permalink: /arsip/
 ---
 <h2> Arsip blog 2010-2015 perbulan</h2>
 
