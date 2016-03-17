@@ -11,6 +11,7 @@ categories:
 tags:
   - google
   - pendidikan
+summary: Seorang ibu ditelepon oleh anaknya. Si anak menanyakan soalan yang sepertinya adalah pekerjaan rumah dari sekolahnya. Anak dalam telepon tadi menanyakan rukun Islam yang keempat
 ---
 <p align="justify">
   Entah sudah ke-berapa kali saya naik KA Pasundan, kereta yang wajib mengalah setiap kali berpapasan dengan kereta berkelas lebih tinggi ini. Dulu pernah tertulis di tiketnya, kereta ini dijadwalkan sampai Surabaya pukul 19.38. Sekarang, sepertinya PT KAI sudah menyadari bahwa kereta ini jarang sekali tiba di tujuan Stasiun Gubeng sebelum pukul 21.00, maka dituliskan pukul 21.38 sebagai jam kedatangannya di Surabaya.<!--more-->
@@ -74,14 +75,4 @@ tags:
 
 <p align="justify">
   Saya sendiri andai berada dalam posisi seperti itu, akan lebih menyarankan untuk membuka lagi buku pelajaran yang memuat materi yang ditanyakan tersebut. Setidaknya, mengambil sumber dari buku resmi akan membiasakan anak untuk selektif dalam memilih informasi.
-</p>
-
-<div style="width: 640px; " class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-138-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4?_=1" />
-  
-  <a href="httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4">httpss://igcdn-videos-g-15-a.akamaihd.net/hphotos-ak-xap1/t50.2886-16/11190520_942295785803175_1626629976_n.mp4</a></video>
-</div>
-
-<p style="text-align: center;">
-  Video: koreksi ulangan, oleh <a href="httpss://instagram.com/p/2LV9SJoqfE/">Sakayuv</a>
 </p>
