@@ -5,7 +5,7 @@ author:      Ihsan Ariswanto
 description: "Blog pribadi Ihsan Ariswanto. Seorang pemalas."
 baseurl:     ""
 url:         "https://ariswanto.github.io"
-date_format: "%b %-d, %Y"
+date_format: "%-d %b %Y"
 
 # Google services
 google_verification:
@@ -45,7 +45,7 @@ steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
-medium_id:
+medium_id: ariswanto
 bitcoin_url:
 paypal_url:
 flattr_button:
@@ -94,7 +94,7 @@ text:
       sent:     'Message sent!'
       error:    'Error!'
   thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
+  og_locale: 'id_ID'
 
 # Build settings
 markdown:     kramdown
