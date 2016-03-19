@@ -8,6 +8,8 @@ Dari beberapa aplikasi pengelola Git yang saya lihat di Playstore Google, tampak
 
 ![penampakan SGit](/images/sgit.jpg "Penampakan SGit")
 
-Selain fitur tersebut, SGit juga bisa mengimpor repository lokal serta dilengkapi dengan editor teks bawaan. Saya sendiri kurang nyaman dengan editor teks bawaan tersebut, sulit untuk memblok teks saat akan menghapus atau _copy-paste_.
+Selain fitur tersebut, SGit juga bisa mengimpor repository lokal. Ini sangat memudahkan pengguna,tinggal menyalin folder repository dari komputer ke ponsel, kemudian diimpor.
 
-Tulisan ini saya _push_ ke Github menggunakan SGit.
+SGit juga dilengkapi dengan editor teks bawaan. Saya sendiri kurang nyaman dengan editor teks bawaan tersebut, sulit untuk memblok teks saat akan menghapus atau _copy-paste_.
+
+Tulisan ini saya _push_ ke Github menggunakan SGit. Hasilnya lancar. Saya belum mencoba semua fitur-fitur lainnya. Berhubung saya memang bukan programmer dan hanya menggunakan Github terutama untuk menyimpan blog, hanya fitur _pull_, _add_, _commit_, dan _push_ saja yang saya perlukan.
