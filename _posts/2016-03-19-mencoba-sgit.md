@@ -2,7 +2,7 @@
 layout: post
 title: Mencoba SGit di Android
 summary: SGit adalah Aplikasi di Android untuk mengelola repository Git. Saya mencoba memakainya untuk mengelola blog ini. 
-category: komputer, catatan, android
+category: android
 ---
 Dari beberapa aplikasi pengelola Git yang saya lihat di Playstore Google, tampaknya baru [SGit](https://github.com/sheimi/SGit) yang punya fasilitas _push_. Aplikasi lain umumnya hanya bisa untuk _clone_ atau _pull_ saja. Kebanyakan aplikasi malahan hanya dikhususkan untuk Github saja, bukan Git secara umum.
 
