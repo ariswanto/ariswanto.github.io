@@ -1,3 +1,4 @@
+---
 layout: post
 title: Perasaan dan Keadaanku Saat Ini
 summary: Untuk kalian yang mungkin penasaran dengan keadaanku.
