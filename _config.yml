@@ -2,7 +2,7 @@
 title:       Ihsan Ariswanto
 #email:       your_email@example.com
 author:      Ihsan Ariswanto
-description: "Blog pribadi Ihsan Ariswanto. Seorang pemalas."
+description: Blog pribadi Ihsan Ariswanto. Seorang pemalas.
 baseurl:     ""
 url:         "https://ariswanto.github.io"
 date_format: "%-d %b %Y"
