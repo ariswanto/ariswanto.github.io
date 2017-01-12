@@ -6,7 +6,7 @@ category: pribadi
 ---
 Lama sekali saya tidak menulis, baik di blog ini, di kompasiana, maupun di tempat-tempat lain. Bahkan sekadar menulis twit atau status facebook pun sudah jarang.
 
-Sebenarnya ada pula gatal dalam hatiuntukuntukut berkomentar atas peristiwa-peristiwa yang silih berganti menjadi topik pembicaraan di internet, namun suasana media sosial yang panas dan terkotak-kotak membuat saya malas untuk mengutarakan gagasan. 
+Sebenarnya ada pula gatal dalam hati untuk berkomentar atas peristiwa-peristiwa yang silih berganti menjadi topik pembicaraan di internet, namun suasana media sosial yang panas dan terkotak-kotak membuat saya malas untuk mengutarakan gagasan. 
 
 Banyak orang sekarang memandang dengan kacamata sempit, setiap gagasan dihubungkan dengan politik. Tak jarang orang dilabeli sebagai pro atau anti padahal niatnya netral.
 
