@@ -1,0 +1,200 @@
+BODY {
+ color: #000000;
+ background-color: #ddddee;
+ font-family: verdana, arial, helvetica, sans-serif;
+}
+
+P {
+ font-size: 14px;
+}
+
+OL {
+ font-size: 14px;
+}
+
+H3 {
+ font-family: Times, serif;
+ font-size: 20px;
+ font-weight: bold;
+ text-align: center;
+ color: white;
+ background-color: #0000aa;
+ padding-top: 15px;
+ padding-bottom: 15px;
+ margin-top: 21px;
+ margin-bottom: 0px;
+}
+
+H4 {
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+
+SPAN.idx {
+ width: 100%;
+ font-size: 12px;
+ text-align: right;
+}
+
+SPAN.italic {
+ font-style: italic;
+}
+
+SPAN.bold {
+ font-weight: bold;
+}
+
+DIV.hdr {
+ position: absolute;
+ color: white;
+ background-color: black;
+ left: 10px;
+ top: 40px;
+ width: 600px;
+ height: 20px;
+ z-index: 2
+}
+
+DIV.hdr P {
+ font-family: Verdana, Arial, sans-serif;
+ font-size: 9px;
+ font-weight: bold;
+ padding-top: 4px;
+ padding-left: 80px;
+}
+
+DIV.hdr IMG {
+ position: absolute;
+ left: 20px;
+ top: -30px;
+ z-index: 3
+}
+
+DIV#isi {
+ position: absolute;
+ width: 600px;
+ top: 70px;
+ padding-left: 120px;
+}
+
+DIV#isi P {
+ text-indent: 20px;
+ margin-bottom: -15px;
+}
+
+DIV#isi P#sub {
+ text-indent: 0px;
+ font-size: 15px;
+ font-weight: bold;
+}
+
+DIV#isi P#sub2 {
+ text-indent: 0px;
+ font-size: 13px;
+ font-weight: bold;
+}
+
+DIV#isi OL#uprm {
+ list-style-type: upper-roman;
+}
+
+DIV#isi span#itl {
+ font-family: Times New Roman, times, serif;
+ font-size: 17px;
+ font-style: italic;
+}
+
+DIV#isi IMG {
+ float: right;
+ margin-top: 20px;
+ margin-bottom: 10px;
+ margin-left: 10px;
+}
+
+DIV#isi P#jdart {
+ font-family: Times New Roman, times, serif;
+ font-size: 22px;
+ font-weight: bold;
+}
+
+DIV#navi {
+ position: absolute;
+ width: 110px;
+ top: 70px;
+ left: 10px;
+}
+
+DIV#navi A {
+ width: 100%;
+ color: white;
+ background-color: black;
+ font-family: verdana, helvetica, san-serif;
+ font-size: 8px;
+ font-weight: bold;
+ padding-right: 10px;
+ padding-left: 10px;
+ padding-bottom: 5px;
+ padding-top: 5px;
+}
+
+DIV#navi A#last {
+ border-bottom: 0px;
+}
+
+DIV#navi A:hover {
+ color: black;
+ background-color: white;
+ text-decoration: none;
+}
+
+DIV#navi DIV#toc {
+ margin-top: 20px;
+ font-size: 10px;
+ font-weight: normal;
+}
+
+DIV#toc A {
+ font-size: 10px;
+ font-weight: normal;
+ color: black;
+ background-color: transparent;
+ padding-bottom: 1px;
+ padding-top: 1px;
+}
+
+DIV#next {
+ position: relative;
+ left: 490px;
+ bottom: 10px;
+ font-size: 10px;
+}
+
+DIV#next A:hover {
+ color: red;
+ background-color: white;
+ text-decoration: none;
+}
+
+DIV#navi DIV#peta {
+ margin-top: 20px;
+}
+
+DIV#peta A {
+ font-size: 10px;
+ font-weight: bold;
+ color: white;
+ background-color: #770000;
+ padding-bottom: 7px;
+ padding-top: 5px;
+}
+
+DIV#reds {
+ margin-left: 35px;
+ margin-right: 35px;
+ margin-bottom: 15px;
+}
+
+.intro {
+ font-size: 17px;
+ font-style: italic;
+}
