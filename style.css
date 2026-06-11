@@ -1,7 +1,7 @@
 body {
   max-width: 800px;  /* Limits the page width */
   width: 100%;       /* Ensures responsiveness */
-  margin: 0 auto;    /* Centers the page on the screen */
+  margin: 10 auto;    /* Centers the page on the screen */
 }
 
 @font-face {
