@@ -1,0 +1,32 @@
+body {
+  max-width: 600px;  /* Limits the page width */
+  width: 100%;       /* Ensures responsiveness */
+  margin: 0 auto;    /* Centers the page on the screen */
+}
+
+@font-face {
+  font-family: "nyk";
+  src: url("nyk.woff2") format("woff2"),
+       url("nyk.woff") format("woff");
+  font-weight: 400; /* Firefox prefers numeric weights over 'normal' sometimes */
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Ensure font-size has space after colon and valid units */
+h1 {
+  font-size: 1rem; 
+}
+h2 {
+  font-size: 1rem; 
+}
+
+
+.jawa {
+  font-family: "nyk", serif; /* Fallback font added so browser layout doesn't break */
+}
+
+.warning {
+  font-size: 2rem; 
+  text-align: center;
+}
