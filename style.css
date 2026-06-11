@@ -1,5 +1,5 @@
 body {
-  max-width: 600px;  /* Limits the page width */
+  max-width: 800px;  /* Limits the page width */
   width: 100%;       /* Ensures responsiveness */
   margin: 0 auto;    /* Centers the page on the screen */
 }
