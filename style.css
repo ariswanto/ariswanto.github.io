@@ -4,27 +4,27 @@
 */
 
 body {
-    max-width: 650px;    /* Limits the width on large screens */
-    margin: 0 auto;      /* Centers the entire page on the screen */
-    padding: 20px;       /* Adds a nice breathing room on the edges */
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightblue;
 }
 
 @font-face {
     font-family: "nyk";
     src: url("nyk.woff2") format("woff2"),
          url("nyk.woff") format("woff");
-    font-weight: 400;    /* Firefox prefers numeric weights over 'normal' sometimes */
+    font-weight: 400; 
     font-style: normal;
     font-display: swap;
 }
 
-/* Combined headings with identical styles */
 h1, h2 {
     font-size: 1rem; 
 }
 
 .jawa {
-    font-family: "nyk", serif; /* Fallback font added so browser layout doesn't break */
+    font-family: "nyk", serif;
 }
 
 .warning {
