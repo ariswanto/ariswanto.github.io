@@ -1,3 +1,14 @@
+/* 
+    This file by Ihsan Ariwanto is marked CC0 1.0. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
+*/
+body {
+    max-width: 650px;    /* Limits the width on large screens */
+    margin: 0 auto;      /* Centers the entire page on the screen */
+    padding: 20px;       /* Adds a nice breathing room on the edges */
+}
+
+
+
 @font-face {
   font-family: "nyk";
   src: url("nyk.woff2") format("woff2"),
