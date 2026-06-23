@@ -1,4 +1,8 @@
 /* this file is uncopyrighted */
+h1 {
+  font-size: 1rem;
+}
+
 @font-face {
     font-family: "nyk";
     src: url("nyk.woff2") format("woff2"),
