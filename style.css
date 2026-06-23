@@ -18,9 +18,15 @@ body {
     font-display: swap;
 }
 
-h1, h2 {
+h1, h2, h3 {
     font-size: 1rem; 
 }
+
+p, h2, h3 {
+    margin-top: 0;          /* Removes space above paragraphs */
+    margin-bottom: 10px;    /* Sets a precise, smaller space below paragraphs */
+}
+
 
 .jawa {
     font-family: "nyk", serif;
