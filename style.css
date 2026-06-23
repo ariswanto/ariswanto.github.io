@@ -3,6 +3,34 @@
     To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
 */
 
+
+/* 1. Reset all margins and paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 2. Make all headings completely uniform */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.2rem;       /* Makes them all the exact same size */
+    font-weight: bold;       /* Keeps them bold */
+    margin-bottom: 8px;      /* Matches the paragraph spacing */
+}
+
+/* 3. Uniform spacing for other text elements */
+p, ul, ol, blockquote {
+    margin-bottom: 8px;      /* Small, consistent bottom margin */
+}
+
+/* 4. Your existing layout */
+body {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
 @font-face {
     font-family: "nyk";
     src: url("nyk.woff2") format("woff2"),
