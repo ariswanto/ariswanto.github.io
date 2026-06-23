@@ -1,21 +1,29 @@
 /* this file is uncopyrighted */
+
 h1, h2 {
   font-size: 1.2rem;
 }
 
 h3 {
-font-size: 1rem;
+  font-size: 1rem;
 }
 
 @font-face {
     font-family: "nyk";
     src: url("nyk.woff2") format("woff2"),
          url("nyk.woff") format("woff");
-    font-weight: 400; 
+    font-weight: 400;
     font-style: normal;
     font-display: swap;
 }
 
 .jawa {
     font-family: "nyk", serif;
+}
+
+/* Limit content width to 800px */
+body > * {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
