@@ -3,12 +3,6 @@
     To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
 */
 
-body {
-    max-width: 650px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
 @font-face {
     font-family: "nyk";
     src: url("nyk.woff2") format("woff2"),
@@ -18,21 +12,6 @@ body {
     font-display: swap;
 }
 
-h1, h2, h3 {
-    font-size: 1rem; 
-}
-
-p, h2, h3 {
-    margin-top: 0;          /* Removes space above paragraphs */
-    margin-bottom: 10px;    /* Sets a precise, smaller space below paragraphs */
-}
-
-
 .jawa {
     font-family: "nyk", serif;
-}
-
-.warning {
-    font-size: 2rem; 
-    text-align: center;
 }
