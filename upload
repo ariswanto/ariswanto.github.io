@@ -1,2 +1,2 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/bin/bash
 git add . && git commit -m "updating" && git  push && git push tilde && git push sdf && git push origin
