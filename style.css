@@ -27,3 +27,9 @@ body > * {
     margin-left: auto;
     margin-right: auto;
 }
+
+img {
+  max-width: 800px;
+  height: auto;
+  display: block;
+}
