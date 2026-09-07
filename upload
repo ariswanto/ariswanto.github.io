@@ -1,2 +1,2 @@
 #!/bin/bash
-git add . && git commit -m "updating" && git  push && git push tilde && git push sdf && git push origin
+git add . && git commit -m "updating" && git  push && git push tilde && git push sdf && git push rwrs && git push origin
