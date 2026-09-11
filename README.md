@@ -1,1 +1,1 @@
-This repository host Ihsan's personal website.
+Source code for the personal website of Ihsan Ariswanto
