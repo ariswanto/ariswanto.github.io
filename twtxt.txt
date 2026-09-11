@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 test
+=======
+# url = https://raw.githubusercontent.com/ariswanto/ariswanto.github.io/main/twtxt.txt
+# avatar = https://ariswanto.web.id/ihsanariswanto.png
+# description = Just another random Indonesian on the internet
+# link = https://www.ariswanto.web.id
+# client = twtxt-app/0.1
+>>>>>>> 8b5c696455dd884f7a749bf1deeabe0a7ea457d9
