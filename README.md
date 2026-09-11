@@ -1,1 +1,1 @@
-Or not
+This repository host Ihsan's personal website.
