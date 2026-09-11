@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-test
 =======
 # url = https://raw.githubusercontent.com/ariswanto/ariswanto.github.io/main/twtxt.txt
 # avatar = https://ariswanto.web.id/ihsanariswanto.png
