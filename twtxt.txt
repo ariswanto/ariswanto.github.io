@@ -3,7 +3,3 @@
 # avatar = https://ariswanto.web.id/ihsanariswanto.png
 # description = Just another random Indonesian on the internet
 # link = https://www.ariswanto.web.id
-
-2026-09-11T23:27:48Z	Halo dunia fana
-2026-09-11T23:50:08Z	Aku mau jus buaya
-2026-09-12T07:09:03+07:00	Mereka terlanjur investasi besar buat sound horeg dan mungkin belum balik modal
