@@ -1,5 +1,7 @@
-# client = twtxt-app/0.1
-# url = https://raw.githubusercontent.com/ariswanto/ariswanto.github.io/main/twtxt.txt
+# nick        = ihsan
+# url = https://ariswanto.web.id/twtxt.txt
 # avatar = https://ariswanto.web.id/ihsanariswanto.png
 # description = Just another random Indonesian on the internet
-# link = https://www.ariswanto.web.id
+# link = https://ariswanto.web.id
+
+2026-09-12T07:30:00+07:00   Hello World!
